@@ -1,0 +1,12 @@
+[
+  {
+    "id": "D1b",
+    "question": "Welche Linie hat eine Breite von 0.7?",
+    "answers": "a) Die Umrisslinie,
+    b) Die Maßlinie,
+    c) Der Maßpfeil,
+    d) Die Maßhilfslinie,"
+    "correct": "Die Umrisslinie hat eine Linienbreite von 0,7.",
+    "explanation": "siehe Bild"
+  }
+]
