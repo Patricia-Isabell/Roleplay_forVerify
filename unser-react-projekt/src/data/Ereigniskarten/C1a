@@ -2,10 +2,11 @@
   {
     "id": "C1a",
     "question": "Womit lassen sich Kalkflecken auf Armaturenam besten entfernen?",
-    "answers":
-    "a) Mit Essig
-    b) Mit Zitronensäure
-    c) Jede Säure entfernt Kalk gleich gut",
+    "answers": [
+      "a) Mit Essig",
+      "b) Mit Zitronensäure",
+      "c) Jede Säure entfernt Kalk gleich gut"
+    ],
     "correct": "Mit Zitronensäure",
     "explanation": "Kalk besteht aus Kalzium- und Karbonatteilchen, die miteinander verbunden sind. Sowohl Essig als auch Zitronensäure lösen die Kalziumteilchen aus dem Kalk heraus. Dabei entstehen Teilchen, die wasserlöslich und abwaschbar sind. Zitronensäure reagiert allerdings stärker mit Kalk als Essig und kann daher auch Kalkflecken besser entfernen."
   }

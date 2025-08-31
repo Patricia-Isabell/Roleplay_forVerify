@@ -2,10 +2,11 @@
   {
     "id": "C1f",
     "question": "Wobei handelt es sich nicht um eine chemischeReaktion? (Mehrfachnennungen möglich)",
-    "answers":
-    "a) Wenn sich Zucker in Wasser auflöst und verschwindet
-b) Wenn aus Knallgas Wasser entsteht
-c) Wenn Wasser kocht",
+    "answers": [
+      "a) Wenn sich Zucker in Wasser auflöst und verschwindet",
+      "b) Wenn aus Knallgas Wasser entsteht",
+      "c) Wenn Wasser kocht"
+    ],
     "correct": "Wenn sich Zucker in Wasser auflöst und verschwindet/ Wenn Wasser kocht",
     "explanation": "Chemie ist die Wissenschaft, die sich mit Eigenschaften, Zusammensetzung und Umwandlung von Stoffen beschäftigt. Wenn Wasser kocht, befindet es sich dagegen lediglich in einem Übergang von einem physikalischen Zustand zu einem anderen (flüssig zu gasförmig). Wird Zucker in Wasser gelöst, führt dies zu keinerlei Veränderung der Zuckermoleküle, die chemische Verbindung bleibt also gleich. Bei Knallgas hingegen, das aus einer Mischung von Wasserstoff (H2) und Sauerstoff (O2) besteht, bildet sich bei Erhitzen explosionsartig Wasser (H2O)."
   }
