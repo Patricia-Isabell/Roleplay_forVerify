@@ -1,0 +1,10 @@
+[
+  {
+    "id": "M1f",
+    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
+    "answers": [
+      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
+    ],
+    "correct": "Es gibt keine außer 11"
+  }
+]

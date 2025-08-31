@@ -1,0 +1,10 @@
+[
+  {
+    "id": "M1a",
+    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
+    "answers": [
+      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
+    ],
+    "correct": "Lila"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "BWL2f",
+    "explanation": "Rohrleitungsbetriebe
+Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit
+bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu.
+Für Rohrleitungsbeförderung geeignete Güter sind bspw.:
+- gasförmige Güter z.B. Yamal-Erdgasleitung (von der westsibirischen Halbinsel nach
+Mittel- und Westeuropa – über 5.000 km)
+- Wasser; va. im kommunalen Bereich der Kanalisation
+- Erdöl und Raffinerieprodukte; z.B. Adria-Wien-Ölpipeline (über 420 km)
+- Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver
+mit Wasser gemischt)
+Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich
+der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierugnsstationen.
+Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen
+Transport- und Verkehrsbetrieben ist eine sehr kapitalintensive Angelegenheit und kann daher
+idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden.",
+    "question": "Von was ist die Nutzung und Auslastung ebenso wie in anderen Bereichen stark abhängig, ",
+    "answers": [
+      "Die Auslastung ist von der vorhandenen
+Infrastruktur abhängig."
+    ],
+    "correct": "abhähngig davon welche Wege und Zeiten dem jeweiligen Transportmittel
+zur Verfügung stehen usw.."
+  }
+]

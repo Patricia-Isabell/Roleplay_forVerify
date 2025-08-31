@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BWL2c",
+    "explanation": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr.",
+    "question": "Was ist die Binnenschifffahrt?",
+    "answers":
+      [
+        "Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt.",
+      ],
+    "correct": "Donauschifffahrt",
+  },
+]
