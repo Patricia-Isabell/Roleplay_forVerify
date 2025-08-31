@@ -2,9 +2,11 @@
   {
     "id": "D1f",
     "question": "Was ist eine senkrechte Parallelprojektion?",
-    "answers": "a) Das ist eine grafische Darstellungsmethode, bei der Objekte oder Vektoren auf eine Ebene projiziert werden, sodass alle waagerechten Linien der Originalzeichnung aus der Projektionsebene auf den Betrachter zu verlaufen.
-    b) Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.
-    c) Die Abbildung eines dreidimensionalen Objekts auf eine zweidimensionale Fläche (wie eine Karte oder einen Bildschirm) zu einer Veränderung der geometrischen Eigenschaften wie Formen, Flächen, Entfernungen oder Winkel führt.",
+    "answers": [
+      "a) Das ist eine grafische Darstellungsmethode, bei der Objekte oder Vektoren auf eine Ebene projiziert werden, sodass alle waagerechten Linien der Originalzeichnung aus der Projektionsebene auf den Betrachter zu verlaufen.",
+      "b) Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
+      "c) Die Abbildung eines dreidimensionalen Objekts auf eine zweidimensionale Fläche (wie eine Karte oder einen Bildschirm) zu einer Veränderung der geometrischen Eigenschaften wie Formen, Flächen, Entfernungen oder Winkel führt."
+    ],
     "correct": "Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
     "explanation": "siehe Bild"
   }
