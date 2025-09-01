@@ -1,3 +1,289 @@
+[
+  {
+    "id": "BWL2a",
+    "question": "Was versteht man unter Kapitalfreisetzungseffekt?",
+    "answers": [
+      "Der Kapitalfreisetzungseffekt besagt, dass Anlagevermögensgegenstände, die der Abschreibung unterliegen, Mittel freisetzen, wenn das Unternehmen die Abschreibungsbeträge in die Preise einrechnen und diese Preise am Markt durchsetzen kann."
+    ],
+    "correct": "Abschreibungsbetäge werden in die Preise eingerechnet."
+  }
+]
+[
+  {
+    "id": "BWL2b",
+    "explanation": "Transportlogistik umfasst die Planung und Durchführung von Maßnahmen zur optimalen Gestaltung des Transportes bei der Wahl der Transportmittel, Transportwege, Beladung und Entladung, Übergabe usw. Transportwirtschaft Die Transportwirtschaft dient der Ortsveränderung von Personen, Gütern und Nachrichten auf dem Lande, auf dem Wasser, in der Luft sowie mittels Leitungssystemen, wie dies folgende Abbildung verdeutlichen soll: Rohrleitungs- betriebe Schienenverkehrs- betriebe Luftverkehrs- betriebe Schifffahrts- betriebe Straßenverkehrs- betriebe",
+    "question": "Welche Perspektiven ergeben sich für die Transportwirtschaft für die Zukunft?",
+    "answers": [
+      "Entwicklung energie- und kostensparender Transportmittel sowie - umweltfreundlichere und sichere Transportmittel - Einsatz von Satellitennavigationssystemen (GPS) zur optimalen Routenwahl und Packetverfolgungsdienste - normierte Verpackungen z.B. Container … - Verkürzung der Standzeiten, Verminderung der Umschlagszeiten durch technisch automatisierte Einrichtungen zum Ein- und Ausladen - Kooperationsformen der Verkehrsbetriebe - engere Kooperation vieler Transportbetriebe als Logistikpartner aufgrund des starken Wettbewerbs"
+    ],
+    "correct": "umweltfreundlichere Transportmittel"
+  }
+]
+[
+  {
+    "id": "BWL2c",
+    "explanation": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr.",
+    "question": "Was ist die Binnenschifffahrt?",
+    "answers":
+      [
+        "Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt."
+      ],
+    "correct": "Donauschifffahrt"
+  }
+]
+[
+  {
+    "id": "BWL2d",
+    "explanation": "Bei der Beförderung von Gütern zu See ist die Ausstellung eines Konnossement oder Bill ofLading (B/L) üblich. Unter einem Konnossement versteht man ein Frachtpapier, in dem sichder Verfrachter verpflichtet, ein zur Beförderung übernommenes Gut, in einem bestimmtenSeehafen gegen Vorlage dieser Urkunde, an den Berechtigten auszufolgen. Das Konnossement ist somit ein Traditions- bzw. Dispositionspapier und ermöglicht einesymbolische Übergabe.",
+    "question": "Was versteht man unter Schwimmender Ware?",
+    "answers": [
+      "Als schwimmende Ware wird Ware bezeichnet, die sich noch auf dem Weg vom Verkäufer zum Käufer befindet und per Schiff versandt wird."
+    ],
+    "correct": "„Schwimmende Ware“ kann somit jederzeit verkauft oder bei Bedarf verpfändet werden."
+  }
+]
+[
+  {
+    "id": "BWL2e",
+    "explanation": "Die Bedeutung des Air Cargo (= Luft-Gütertransport) hat in den letzten Jahren an Bedeutung zugenommen, zumal die Kostenspannen im Vergleich zu anderen Transportmitteln geringer wurden. Das entsprechende Dispositionspapier im Air Cargo Bereich bezeichnet man als Airwaybill oder Luftfrachtbrief. Der Luftfrachtbrief ist ähnlich wie das Konnossement ein international einheitlicher Formularsatz.",
+    "question": "Wie kann der Personenluftverkehr, als überwiegender Anteil am Gesamtluftverkehr noch unterschieden werden?",
+    "answers": [
+      "Linienflugbetrieb (va. Turismus und Geschäftsreisen) und Charterflüge (va. private Kleinflieger …) unterschieden werden."
+    ],
+    "correct": "Linienflugbetrieb"
+  }
+]
+[
+  {
+    "id": "BWL2f",
+    "explanation": "Rohrleitungsbetriebe
+Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit
+bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu.
+Für Rohrleitungsbeförderung geeignete Güter sind bspw.:
+- gasförmige Güter z.B. Yamal-Erdgasleitung (von der westsibirischen Halbinsel nach
+Mittel- und Westeuropa – über 5.000 km)
+- Wasser; va. im kommunalen Bereich der Kanalisation
+- Erdöl und Raffinerieprodukte; z.B. Adria-Wien-Ölpipeline (über 420 km)
+- Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver
+mit Wasser gemischt)
+Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich
+der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierugnsstationen.
+Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen
+Transport- und Verkehrsbetrieben ist eine sehr kapitalintensive Angelegenheit und kann daher
+idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden.",
+    "question": "Von was ist die Nutzung und Auslastung ebenso wie in anderen Bereichen stark abhängig, ",
+    "answers": [
+      "Die Auslastung ist von der vorhandenen
+Infrastruktur abhängig."
+    ],
+    "correct": "abhähngig davon welche Wege und Zeiten dem jeweiligen Transportmittel
+zur Verfügung stehen usw.."
+  }
+]
+[
+  {
+    "id": "C1a",
+    "question": "Womit lassen sich Kalkflecken auf Armaturenam besten entfernen?",
+    "answers": [
+      "a) Mit Essig",
+      "b) Mit Zitronensäure",
+      "c) Jede Säure entfernt Kalk gleich gut"
+    ],
+    "correct": "Mit Zitronensäure",
+    "explanation": "Kalk besteht aus Kalzium- und Karbonatteilchen, die miteinander verbunden sind. Sowohl Essig als auch Zitronensäure lösen die Kalziumteilchen aus dem Kalk heraus. Dabei entstehen Teilchen, die wasserlöslich und abwaschbar sind. Zitronensäure reagiert allerdings stärker mit Kalk als Essig und kann daher auch Kalkflecken besser entfernen."
+  }
+]
+[
+  {
+    "id": "C1b",
+    "question": "Wofür enthält Zahnpasta Fluorid?",
+    "answers": "a) Fluorid härtet den Zahnschmelz
+b) Es wirkt antibakteriell
+c) Es poliert die Zähne und macht sie heller",
+    "correct": "Fluorid härtet den Zahnschmelz",
+    "explanation": "Zahnschmelz besteht größtenteils aus Kalzium, Sauerstoff, Phosphor und Wasserstoff. Fluoride in der Zahnpasta und Kalzium aus dem Speichel verbinden sich zu Kalziumfluorid, das in den Zahnschmelz eingebaut wird. Es ist besonders stabil und wird kaum durch Bakterien angegriffen - schützt also den Zahnschmelz. Als Schleifmittel in der Zahnpasta dienen Silikatverbindungen."
+    }
+]
+[
+{
+"id": "C1c",
+"question": "Warum schmeckt Schokolade nicht mehr, wenn sie inder Sonne geschmolzen und dann hart geworden ist?",
+"answers": "a) Durch Wärme zerfallen die Schokoladenmoleküle
+14:17 Uhr
+b) Weil sich ihre Kristallstruktur ändert
+c) Das liegt an der Optik: Ein Blinder schmeckt keinen Unterschied",
+"correct": "Fluorid härtet den Zahnschmelz",
+"explanation": "Zahnschmelz besteht größtenteils aus Kalzium, Sauerstoff, Phosphor und Wasserstoff. Fluoride in der Zahnpasta und Kalzium aus dem Speichel verbinden sich zu Kalziumfluorid, das in den Zahnschmelz eingebaut wird. Es ist besonders stabil und wird kaum durch Bakterien angegriffen - schützt also den Zahnschmelz. Als Schleifmittel in der Zahnpasta dienen Silikatverbindungen."
+"correct": "Fluorid härtet den Zahnschmelz",
+"explanation": "Zahnschmelz besteht größtenteils aus Kalzium, Sauerstoff, Phosphor und Wasserstoff. Fluoride in der Zahnpasta und Kalzium aus dem Speichel verbinden sich zu Kalziumfluorid, das in den Zahnschmelz eingebaut wird. Es ist besonders stabil und wird kaum durch Bakterien angegriffen - schützt also den Zahnschmelz. Als Schleifmittel in der Zahnpasta dienen Silikatverbindungen."
+}
+][
+  {
+    "id": "D1f",
+    "question": "Was ist eine senkrechte Parallelprojektion?",
+    "answers": [
+      "a) Das ist eine grafische Darstellungsmethode, bei der Objekte oder Vektoren auf eine Ebene projiziert werden, sodass alle waagerechten Linien der Originalzeichnung aus der Projektionsebene auf den Betrachter zu verlaufen.",
+      "b) Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
+      "c) Die Abbildung eines dreidimensionalen Objekts auf eine zweidimensionale Fläche (wie eine Karte oder einen Bildschirm) zu einer Veränderung der geometrischen Eigenschaften wie Formen, Flächen, Entfernungen oder Winkel führt."
+    ],
+    "correct": "Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
+    "explanation": "siehe Bild"
+  }
+]
+[
+  {
+    "id": "C1d",
+    "question": "Warum wird \"Blaukraut\" zu \"Rotkraut\", wenn man es mit Apfelmus mischt? (Mehrfachnennungen möglich)",
+    "answers": "a) Das Gelb des Muses mischt sich mit Blau zu Rot\nb) Das Kraut wird saurer und erscheint dadurch röter - wie im Lackmustest\nc) Das hängt von der Beweglichkeit der Elektronen ab",
+    "correct": "Das Kraut wird saurer und erscheint dadurch röter - wie im Lackmustest/\nDas hängt von der Beweglichkeit der Elektronen ab",
+    "explanation": "Blaukraut ändert seine Farbe mit der Säurekonzentration. Ohne die Säureteilchen ist der Farbstoff negativ geladen, hat also Elektronen, die nicht gebunden sind. Diese können sich im gesamten Gerüst des Moleküls frei bewegen, der Farbstoff erscheint blau. Nach der Reaktion mit Säureteilchen werden die Elektronen lokal stärker gebunden, haben also weniger Bewegungsfreiraum. Der Stoff erscheint nun rot."
+  }
+]
+[
+  {
+    "id": "C1e",
+    "question": "Welche der folgenden Substanzen bestehen aus dengleichen chemischen Bausteinen? (Mehrfachnennungen möglich)",
+    "answers": [
+      "a) Eisen und Stahl",
+      "b) Marmor und Kreide",
+      "c) Graphit und Diamant",
+      "d) Kautschuk und Kaugummi"
+    ],
+    "correct": [
+      "b) Marmor und Kreide",
+      "c) Graphit und Diamant"
+    ],
+    "explanation": "Kreide und Marmor bestehen beide aus Kalzium und Karbonat im gleichen Mengenverhältnis. Graphit und Diamant bestehen beide aus dem Element Kohlenstoff. Die Atome sindim Kristall unterschiedlich angeordnet, sodass in einem Fall ein weiches, im anderen Fall ein hartes Material entsteht. Stahl enthält zwar das Element Eisen als Hauptbestandteil, hat aberals Legierung noch weitere Zusätze."
+  }
+]
+[
+  {
+    "id": "C1f",
+    "question": "Wobei handelt es sich nicht um eine chemischeReaktion? (Mehrfachnennungen möglich)",
+    "answers": [
+      "a) Wenn sich Zucker in Wasser auflöst und verschwindet",
+      "b) Wenn aus Knallgas Wasser entsteht",
+      "c) Wenn Wasser kocht"
+    ],
+    "correct": "Wenn sich Zucker in Wasser auflöst und verschwindet/ Wenn Wasser kocht",
+    "explanation": "Chemie ist die Wissenschaft, die sich mit Eigenschaften, Zusammensetzung und Umwandlung von Stoffen beschäftigt. Wenn Wasser kocht, befindet es sich dagegen lediglich in einem Übergang von einem physikalischen Zustand zu einem anderen (flüssig zu gasförmig). Wird Zucker in Wasser gelöst, führt dies zu keinerlei Veränderung der Zuckermoleküle, die chemische Verbindung bleibt also gleich. Bei Knallgas hingegen, das aus einer Mischung von Wasserstoff (H2) und Sauerstoff (O2) besteht, bildet sich bei Erhitzen explosionsartig Wasser (H2O)."
+  }
+]
+[
+  {
+    "id": "C1g",
+    "question": "Welche Information ist aus dem Periodensystemder Elemente ableitbar? (Mehrfachnennungen möglich)",
+    "answers": [
+      "a) Das Gewicht eines Stoffes",
+      "b) Chemische Eigenschaften wie die Neigung,Rost anzusetzen",
+      "c) Ob es sich bei Raumtemperatur um ein Gas oder einen festen Stoff handelt",
+      "d) Welche Farbe der Stoff besitzt"
+    ],
+    "correct": "Das Gewicht eines Stoffes/ Chemische Eigenschaften wie die Neigung,Rost anzusetzen",
+    "explanation": "In seiner einfachsten Ausführung gibt das Periodensystem neben Nummer und Namenskürzel des Elements nur die Atomkernmasse an. Oft bietet die Übersichtstafel aber noch mehr Informationen wie etwa den Aggregatzustand, der besagt, ob ein Stoff bei Raumtemperatur fest, flüssig oder gasförmig ist, oder die sogenannten Oxidationsstufen, die ein Element annehmen kann, indem es Elektronen aufnimmt oder abgibt. Daraus kann der Chemiker entnehmen, wie sich Stoffe vermutlich verhalten und welche Verbindungen sie eingehen können. Die Farbe von Stoffen lässt sich nicht vorhersagen."
+  }
+]
+[
+  {
+    "id": "C1h",
+    "question": "Welches alchemistische Ziel ist heutekein Traum mehr?",
+    "answers": [
+      "a) Andere Metalle in Gold zu verwandeln",
+      "b) Ein Universal-Lösungsmittel herzustellen",
+      "c) Ein Elixier zu entwickeln, das ewiges Leben schenkt"
+    ],
+    "correct": "Andere Metalle in Gold zu verwandeln",
+    "explanation": "Moderne Techniken ermöglichen die Umwandlung von Quecksilber in Gold mithilfe radioaktiver Strahlung. Seit 1980ist auch die Umwandlung von Bismut in Gold möglich - die kostete aber 10 000 US-$, obwohl das gewonnene Gold nur ein Milliardstel Cent wert war. Ein Universal-Lösungsmittel wird es niemals geben, denn es löst sich nur Gleiches in Gleichem. Ein Lösungsmittel, das also gut Salze auflöst - Wasser zum Beispiel -,wird stets Schwierigkeiten haben, Fette zu lösen und umgekehrt. Ob jemals ein Stein der Weisen ewiges Leben ermöglicht?"
+  }
+]
+[
+  {
+    "id": "D1a",
+    "question": "Wenn man einen Körper aus verschiedenen Blickwinkeln betrachtet, sieht er jeweils anders aus!\nMan sollte ihn so zeichnen, dass eine fremde Person ihn genau herstellen kann. Damit eine technische Zeichnung übersichtlich ist, gibt es Vorschriften zum Zeichnen der Linien. Welche Vorschriften sind richtig?",
+    "answers": [
+      "a) Das Werkstück soll sofort ins Auge fallen und nicht im „Linienwirrwarr“ untergehen. Deshalb werden die „Körperkanten“ mit der dicksten Linie gezeichnet.",
+      "b) Die verdeckten Kanten sind fast ebenso wichtig und werden deshalb mit einer etwas dünneren gestrichelten Linie gezeichnet.",
+      "c) Alle anderen Linien (mit Ausnahme der Schnittlinien) werden am dünnsten gezeichnet."
+    ],
+    "correct": "a b c",
+    "explanation": "Körper (Objekte) werden nicht mit Schattierungen, Farben und Oberflächenstrukturen dargestellt, sondern nur mit ihren Flächen, Kanten und Ecken. Zwei sich schneidende Flächen bilden eine Kante,\ndrei sich in einem Punkt schneidende Kanten bilden eine Ecke."
+  }
+]
+[
+  {
+    "id": "D1b",
+    "question": "Welche Linie hat eine Breite von 0.7?",
+    "answers": [
+      "a) Die Umrisslinie",
+      "b) Die Maßlinie",
+      "c) Der Maßpfeil",
+      "d) Die Maßhilfslinie"
+    ],
+    "correct": "Die Umrisslinie hat eine Linienbreite von 0,7.",
+    "explanation": "siehe Bild"
+  }
+]
+[
+  {
+    "id": "D1c",
+    "question": "Was ist die Vorderansicht?",
+    "answers": [
+      "a) Nummer 1",
+      "b) Nummer 2",
+      "c) Numer 3",
+      "d) Nummer 4",
+      "e) Nummer 5",
+      "f) Nummer 6"
+    ],
+    "correct": "Nummer 1",
+    "explanation": "siehe Bild"
+  }
+]
+[
+  {
+    "id": "D1d",
+    "question": "Was ist die Untersicht?",
+    "answers": [
+      "a) Nummer 1",
+      "b) Nummer 2",
+      "c) Numer 3",
+      "d) Nummer 4",
+      "e) Nummer 5",
+      "f) Nummer 6"
+    ],
+    "correct": "Nummer 5",
+    "explanation": "siehe Bild"
+  }
+]
+[
+  {
+    "id": "D1e",
+    "question": "Was ist die Seitenansicht von links?",
+    "answers": [
+      "a) Nummer 1",
+      "b) Nummer 2",
+      "c) Numer 3",
+      "d) Nummer 4",
+      "e) Nummer 5",
+      "f) Nummer 6"
+    ],
+    "correct": "Nummer 2",
+    "explanation": "siehe Bild"
+  }
+]
+[
+  {
+    "id": "D1f",
+    "question": "Was ist eine senkrechte Parallelprojektion?",
+    "answers": [
+      "a) Das ist eine grafische Darstellungsmethode, bei der Objekte oder Vektoren auf eine Ebene projiziert werden, sodass alle waagerechten Linien der Originalzeichnung aus der Projektionsebene auf den Betrachter zu verlaufen.",
+      "b) Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
+      "c) Die Abbildung eines dreidimensionalen Objekts auf eine zweidimensionale Fläche (wie eine Karte oder einen Bildschirm) zu einer Veränderung der geometrischen Eigenschaften wie Formen, Flächen, Entfernungen oder Winkel führt."
+    ],
+    "correct": "Die senkrechte Parallelprojektion lässt sich einfacher zeichnen und ermöglicht eine eindeutige Maßeintragung. Man stellt sich vor, dass man senkrecht auf die Körperflächen schaut: Es ergeben sich 6 unterschiedliche Ansichten. In der 3-Tafel-Projektion wählt man die aussagekräftigste Ansicht als Vorderansicht. Dazu kommen die Ansicht von links und die Draufsicht.",
+    "explanation": "siehe Bild"
+  }
+]
 {
     "id": "F3Aa",
     "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
