@@ -96,45 +96,75 @@
   },
   {
     "id": "K3Bf",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
+    "question": "",
     "answers": ["Lösung Physik-Aufgabe Krämer"],
     "correct": "Antwort B"
   },
   {
     "id": "L3Aa",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quid est id quod per omnia vadit et tamen numquam ab ipso loco movetur?",
+    "explanation": "",
+    "answers": ["a) Ein Weg (Via)."
+  "b) Ein Fluss."
+"c) Eine Entscheidung"],
+    "correct": "Ein Weg (Via)."
   },
   {
     "id": "L3Ab",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quid est id quod semper ante te est, sed non potest videri?",
+    "explanation": "",
+    "answers": ["a) Die Gegenwart"
+  "b) Die Vergangenheit",
+"c) Die Zukunft"],
+    "correct": "Die Zukunft (Futurum)."
   },
   {
     "id": "L3Ac",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
+    "answers": ["a) Ein Buch",
+  "b) Eine Geschichte",
+"c) Eine Karte"],
+    "correct": "Eine Karte (Mappa)"
   },
   {
     "id": "L3Ad",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was bin ich? Ego sum, quae semper in principio,
+sed nunquam in fine.
+Duo me sequuntur semper, sed ego non movere.
+Ego non possum esse, nisi in verbo tuo.",
+"explanation": "Ich bin, was immer am Anfang ist, aber niemals am Ende. Zwei folgen mir immer, aber ich bewege mich nicht. Ich kann nicht sein, außer in deinem Wort.",
+    "answers": ["a) Ein Buchstabe",
+  "b) Eine Startlinie",
+"c) Eine Geschichte im Lehrbuch"],
+    "correct": "Der Buchstabe "E" (im Lateinischen oft "Ego" = ich)"
   },
   {
     "id": "L3Ae",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Wer bin ich? Ego possum videre sine oculis,
+et audio sine auribus.
+Sum semper cum te, sed non possum tangere.
+Omnia sciunt me, sed non possum sentire.",
+"explanation": "Ich kann sehen, ohne Augen,
+und hören, ohne Ohren.
+Ich bin immer bei dir, aber ich kann dich nicht berühren.
+Alle kennen mich, aber ich kann nicht fühlen.",
+    "answers": ["a) Ein Computer",
+  "b) Eine Zwillingsschwester",
+"c) Deine Gedanken oder dein Geist"],
+    "correct": "Deine Gedanken oder dein Geist (im Lateinischen: cogitatio oder animus)"
   },
   {
     "id": "L3Af",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Ich beginne mit *A*, habe aber keinen Mund. Ich bin eine Zahl, habe aber keine Hände. Ich kann alles tun, aber bin nie zu sehen. Ich kann nichts tun, aber bin immer da. Was bin ich?",
+    "explanation": "*A*: Die erste Zeile beginnt mit dem Buchstaben *A*.
+*keinen Mund*: Das lateinische Wort für *etwas* hat keinen Mund.
+*Ich bin eine Zahl, habe aber keine Hände*: Dies spielt auf die Unendlichkeit der Möglichkeiten an, die etwas haben kann, ohne tatsächlich körperliche Hände zu haben.
+*Ich kann alles tun, aber bin nie zu sehen*: Ein lateinischer Ausdruck, der die unendlichen Möglichkeiten eines Konzeptes beschreibt.
+*Ich kann nichts tun, aber bin immer da*: Dies ist ein Wortspiel auf die Unendlichkeit und die Präsenz des *etwas* in der Welt, selbst wenn es keine konkrete Handlung ausführt.",
+    "answers": ["a) viel",
+  "b) wenig",
+"c) etwas"],
+    "correct": "Aliquid (etwas)"
   },
 [
   {
