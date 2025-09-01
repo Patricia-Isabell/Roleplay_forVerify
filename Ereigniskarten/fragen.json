@@ -286,105 +286,142 @@ c) Das liegt an der Optik: Ein Blinder schmeckt keinen Unterschied",
 ]
 {
     "id": "F3Aa",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quelles sont les trois couleurs primaires?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) Le vert, le jaune et le blanc Le noir, le blanc et le gris Le rouge, le jaune et le bleu L'orange, le vert et le violet",
+  "b) Le vert, le jaune et le blanc Le noir, le blanc et le gris Le rouge, le jaune et le bleu L'orange, le vert et le violet",
+"c) Le vert, le jaune et le blanc Le noir, le blanc et le gris Le rouge, le jaune et le bleu L'orange, le vert et le violet"],
+    "correct": "Le vert, le jaune et le blanc Le noir, le blanc et le gris Le rouge, le jaune et le bleu L'orange, le vert et le violet"
   },
   {
     "id": "F3Ab",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "De quelle couleur est l'abricot?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) Rouge Orange Vert Bleu",
+  "b) Rouge Orange Vert Bleu",
+"c) Rouge Orange Vert Bleu"],
+    "correct": "Rouge Orange Vert Bleu"
   },
   {
     "id": "F3Ac",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quel fruit est jaune?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) La banane La cerise La clémentine La fraise",
+  "b) La banane La cerise La clémentine La fraise",
+"c) La banane La cerise La clémentine La fraise"],
+    "correct": "La banane La cerise La clémentine La fraise"
   },
   {
     "id": "F3Ad",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "De quelle couleur est le café?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) Rouge Brun Jaune Vert",
+  "b) Rouge Brun Jaune Vert",
+"c) LRouge Brun Jaune Vert"],
+    "correct": "Rouge Brun Jaune Vert"
   },
   {
     "id": "F3Ae",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Quelles couleurs faut-il mélanger pour avoir du gris?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) Du jaune et du vert Du rouge et du bleu Du vert et du jaune Du blanc et du noir",
+  "b) Du jaune et du vert Du rouge et du bleu Du vert et du jaune Du blanc et du noir",
+"c) Du jaune et du vert Du rouge et du bleu Du vert et du jaune Du blanc et du noir"],
+    "correct": "Du jaune et du vert Du rouge et du bleu Du vert et du jaune Du blanc et du noir"
   },
   {
     "id": "F3Af",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Avec qui Pierre discute-t-il?",
+    "explanation": "Übersetzung auf Deutsch"
+    "answers": ["a) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
+  "b) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
+"c) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"],
+    "correct": "a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"
   },
   {
     "id": "G3Ba",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Woran kann es liegen, dass eine Nähmaschine nicht richtig näht?",
+   "answers": ["a) an der falschen Bedienung",
+  "b) an der falschen Einstellung",
+"c) am Modell der Nähmaschine"],
+    "correct": ""
   },
   {
     "id": "G3Bb",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Wie kann man beim Stricken und Häkeln einen Farbwechsel korrekt vornehmen, die Garnenden richtig zu sichern, um einer Arbeit den letzten Schliff zu geben?",
+    "answers": ["a) an der falschen Bedienung",
+  "b) an der falschen Einstellung",
+"c) am Modell der Nähmaschine"],
+    "correct": ""
   },
   {
     "id": "G3Bc",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was gibt es für Tricks beim Arbeiten mit Perlen?"
+    "answers": ["a) die Perlen nach Farben sortieren",
+  "b) ein Garn zum einfädeln der Perlen benutzen",
+"c) die Perlen in gleichen Größen auffädeln."],
+    "correct": ""
   },
   {
     "id": "G3Be",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Wie näht man von Hand korrekt?" 
+    "answers": ["a) zuerst das Garn einfädeln",
+  "b) Knoten",
+"c) Fadenenden sichern"],
+    "correct": "einfädeln, Knoten, Fadenenden sichern"
   },
   {
     "id": "G3Bf",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Warum kann es beim Nähen zu Knotenbildung kommen?",
+    "answers": ["a) durch ein falsches Einfädeln des Ober- oder Unterfadens",
+  "b) durch eine zu geringe Fadenspannungten",
+"c) durch ein falsches Spulen der Unterfadenspule"],
+    "correct": "durch ein falsches Einfädeln des Ober- oder Unterfadens oder durch eine zu geringe Fadenspannungten oder durch ein falsches Spulen der Unterfadenspule"
   },
   {
     "id": "K3Ba",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+   "question": "Wie werden die Stilepochen in aller Regel eingeordnet, was ist richtig?",
+    "answers": ["a) Romantik, Gotik, Renaissance",
+  "b) Manierismus, Barock, Rokoko",
+"c) Klassizismus, Romantik, Impressionismus"],
+    "correct": "Romanik, Gotik, Renaissance, Manierismus, Barock, Rokoko, Klassizismus, Romantik, Impressionismus."
   },
   {
     "id": "K3Bb",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was ist unter dem Begriff *Romantik* zu verstehen?",
+    "answers": ["a) beginnende Industrialisierung sowie zunehmende Landflucht in die Städte",
+     "b) die Auflösung des *Heiligen Römischen Reiches Deutscher Nation*",
+"c) Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte"],
+    "correct": "Abeginnende Industrialisierung sowie zunehmender Landflucht in die Städte, die Auflösung des *Heiligen Römischen Reiches Deutscher Nation* und Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte."
   },
   {
     "id": "K3Bc",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was ist der Ursprung und Name des Impressionismus?",
+    "answers": ["a)Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in ParisLösung Physik-Aufgabe Krämer",
+      "b) Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
+"c) detaillierte, realistische Darstellungen zu politischen Anlässen"],
+    "explanation": "Der ausgesprochen charmant und gefällig daherkommende Stil des Impressionismus mit seinen freundlichen Lichtstimmungen, der leuchtend klaren Farbgebung sowie den das Leben bejahend anmutenden Themengebieten, hat seinen Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
+    "correct": "Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in ParisLösung Physik-Aufgabe Krämer,
+      Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet."
   },
   {
     "id": "K3Bd",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Welche Berufsgruppen zählen zu den Künstlern?",
+    "answers": ["a) Bildhauer (z. B. Steinbildhauer oder Metallbildhauer)", 
+  "b) Comiczeichner c) Schauspieler"],
+    "correct": "Bildhauer, Comiczeichner"
   },
   {
     "id": "K3Be",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Wer ist der bekannteste lebende Künstler?",
+    "answers": ["a)Pablo Picasso", "b)Gustav Klimt"],
+    "correct": "Gerhard Richter"
   },
   {
     "id": "K3Bf",
-    "question": "",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Welcher Künstler war zu Lebzeiten nicht berühmt?",
+    "answers": ["a) Vincent van Gogh", "b) Peter Paul Rubens", "c)Pablo Picasso"],
+    "correct": "Vincent van Gogh"
   },
   {
     "id": "L3Aa",
@@ -503,213 +540,268 @@ Alle kennen mich, aber ich kann nicht fühlen.",
   }
 ]
 [
-  {
+ {
     "id": "P1a",
-    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
-    ],
-    "correct": "Antwort A"
+    "question": "Man nehme einen Shaker etwas größerer Bauart und befülle ihn mit 1 kg Eis (aus Wasser von 0° C) und 1 kg kochend Wasser (100 °C). Frage: Welche Temperatur des Gemisches ist nach Schütteln bis zur Schmelze des Eises zu erwarten?",
+    "explanation": "Definition einer Kalorie: 1 cal ist diejenige Wärmemenge, die benötigt wird, um die Temperatur von 1 g Wasser um 1 Grad zu erhöhen (bei einer bestimmten Temperatur – diese Ungenauigkeit ist aber hier vernachlässigbar).
+1 kg Wasser kann also beim Abkühlen von 100 °C auf 0 °C 100 kcal abgeben.
+Tabellenbuch Physik: 1 kg Eis verbraucht beim Schmelzen 80 kcal (79,4 kcal). Wenn 1 kg Eis geschmolzen sind, sind von den 100 kcal noch 20 übrig; oder anders ausgedrückt, der eine Liter heißes Wasser wurde auf 20 °C abgekühlt. Das geschmolzene Eis (ca. 1 Liter) hat 0 °C.",
+    "answers": ["a) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 15°C",
+      "b) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 5°C",
+      "c) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C"],
+   "correct": "Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C."
   },
   {
     "id": "P1b",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Nimm in der Schwerelosigkeit einen Tisch, stelle eine Federwaage drauf, und lege darauf die Erde. Wie viel zeigt die Waage an, wenn man annimmt, dass die Waage selbst masselos ist?",
+    "explanation": "Wer es nicht glaubt, soll einfach ein Experiment machen. Man lege eine Waage kopfüber auf den Fußboden und darauf (wieder kopfüber) einen Tisch. Ob die Erde nun auf dem Tisch oder der Tisch auf der Erde liegt, ist Ansichtssache - das zugrunde liegende Gravitationsgesetz
+    F = g*m1*m2/s2
+ist symmetrisch; ob man für m1 die Masse der Erde und für m2 die Masse des Tisches einsetzt oder für m2 die Masse der Erde.",
+    "answers": ["a) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches an.",
+      "b) Das Gravitationsgesetz besagt, dass die beiden Massen multipliziert werden, und dann durch das Gewicht der Erde geteilt wird um auf das Gewicht des Tisches zu kommen",
+      "c) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt kein Gewicht an."],
+   "correct": "Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches und der Erde an."
   },
   {
-    "id": "P1c",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+  "id": "P1b",
+    "question": "Zwei Flugzeuge starten zeitgleich vom Frankfurter Flughafen. Das eine fliegt eine Stunde lang genau nach Norden, das andere fliegt eine Stunde lang genau nach Osten.
+Welches der beiden Flugzeuge ist nach einer Stunde weiter von Frankfurt entfernt und Warum?",
+    "explanation": "Es gelten die üblichen idealisierten Annahmen:Ddie Flugzeuge fliegen exakt gleich hoch und gleich schnell.
+Die Flugzeuge und Frankfurt sind punktförmig.
+Es gibt keine Defekte oder dergleichen.
+Die Erde ist eine perfekte Kugel und dreht sich nicht.
+Es ist windstill, es herrscht konstanter Luftdruck.
+Die Schwerkraft ist überall gleich.
+Die Zeitzonen spielen keine Rolle.
+Das nach Norden fliegenden Flugzeug fliegt genau entlang eines Meridians, das ist ein Großkreis, also der größte Kreis, den man um die Erde legen kann.
+Das nach Osten fliegende Flugzeug fliegt entlang eines Breitengrades. Die Breitengrade sind unterschiedlich lang. Am Äquator ist der Nullte Breitengrad auch ein Großkreis; zu den Polen hin werden die Breitengradkreise immer kürzer.
+Der Abstand des nach Osten fliegenden Flugzeuges von Frankfurt wird aber entlang eines Großkreises gemessen, der durch Frankfurt und die Position des Flugzeuges nach einer Stunde geht. Der Breitengrad, auf dem das Flugzeug entlang geflogen ist, und dieser Großkreis bilden auf der Kugeloberfläche der Erde ein Zweieck, wobei die Breitengrad-Seite länger ist als die Großkreis-Seite.",
+    "answers": ["a) Das Flugzeug welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt.",
+          "b) Das Flugzeug, welches nach Osten fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Norden fliegt."],
+   "correct": "Das Flugzeug, welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt."
   },
-
   {
     "id": "P1d",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
-    "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
-    ],
-    "correct": "blauer Halbkreis"
-  },
-
+    "question": "Warum vertauscht der Spiegel links und rechts, aber nicht oben und unten?",
+    "explanation": [
+      "Der Spiegel vertauscht weder oben/unten noch links/rechts.
+Szenario: Ein Spiegel, eine Person A, die in den Spiegel schaut (und als Erweiterung: eine Gipsstatue B, die hinter A steht, auch in den Spiegel schaut und ihre linke Hand hebt).
+A sieht die gehobene linke Hand von B auf der linken Seite. Jetzt dreht A sich um und sieht B direkt an. Jetzt befindet sich die linke Hand auf der rechten Seite.
+Es ist aber nicht der Spiegel, der die Seiten vertauscht hat, es liegt an A selbst, der sich um die vertikale Achse gedreht hat. A hätte beim Umdrehen auch einen halben Salto rückwärts machen können. Dann würde er zwar auf dem Kopf stehen, aber er hätte nicht links und rechts vertauscht, sondern oben und unten.
+Wenn A einfach durch den Spiegel gehen würde, und As Spiegelbild aus dem Spiel rauskommen würde, wäre vorne und hinten vertauscht, in dem Sinne, dass das Spiegelbild in die entgegengesetzte Richtung läuft. Dass das Spiegelbild As rechte Hand dann für seine linke halten würde, liegt nur an unserer Definition von links und rechts, die davon abhängt, in welche Richtung wir gucken, wohingegen oben und unten durch die Gravitation definiert ist und sich daher auch nicht vertauscht wird."
+    ],"answers": ["a) Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten.",
+      "b) Ein Spiegel vertauscht links und rechts, da wir es nur spiegelverkehrt sehen.",
+      "c) Ein Spiegel vertauscht oben und unten nicht, da das Richtungsbezeichnungen sind und es nur eine Richtung getauscht wird, entweder links und rechts oder oben und unten."],
+   "correct": "Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten (was bei ein wenig Nachdenken ja sofort einsichtig wird). Man sieht also eine *auf-links-gedrehte* Kopie seiner selbst, ganz analog zu einem rechten Handschuh, der, wenn man ihn umwendet, zu einem linken Handschuh wird. Und so wird jeder Rechtshänder im Spiegel zum Linkshänder (und umgekehrt)."
+    },
   {
     "id": "P1e",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
+    "question": " An einem Seil, das über eine Rolle läuft, ist an dem einen Ende eine Bananenstaude festgemacht. Das andere Seilende wird von einem Affen mit seinem gesamten Körpergewicht im Gleichgewicht gehalten.
+Was passiert, wenn der Affe auf die Idee kommt, an dem Seil hinaufzuklettern?
+Der physikalischen Korrektheit halber sei angenommen, dass sowohl das Seil als auch das Rad reibungsfrei laufen und gewichtsmäßig vernachlässigbar sind.",
+    "answers": ["a) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnt trotzdem nur der Affe an Höhe.",
+      "b) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe.",
+      ],
+    "correct": "Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
   }
 
   {
     "id": "P1f",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
-    ],
-    "correct": "Es gibt keine außer 11"
+    "question": "Zur Verfügung steht eine Balkenwaage. Anton legt auf der Erde links Federn und rechts Eisen drauf, so dass die Waage im Gleichgewicht ist.
+Jetzt transportiert Anton das gesamte Experiment auf den Mond. Was zeigt die Waage an?",
+"explanation": "Auf der Erde wird ein Teil der Schwerkraft durch die Auftriebskraft der Luft ausgeglichen. Da 1 kg Federn ein größeres Volumen hat als 1 kg Eisen, ist der Auftrieb der Federn größer als der Auftrieb des Eisenklumpens. Da es auf dem Mond keine Atmosphäre gibt, entfällt der Auftrieb, die Schwerkraft ist jetzt auf beiden Seiten voll wirksam.",
+    "answers": ["a) Die Balkenwaage zeigt an, dass das Eisen schwerer ist.",
+      "b) Die Balkenwaage zeigt an, dass die Federn schwerer sind.",
+      "c) Die Balkenwage zeigt auf dem Mond genauso an, dass die Federn und das Eisen gleich viel wiegen."],
+    "correct": "Die Balkenwaage zeigt an, dass die Federn schwerer sind."
   }
 ]
 [
   {
     "id": "RW2a",
-    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
-    ],
-    "correct": "Antwort A"
+    "question": "Was ist Rechnungswesen?",
+    "explanation": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung.",
+    "answers": ["a) Finanzbuchhaltung und Controlling",
+      "b) Betriebswirtschaftliche Statistik und Vergleichsrechnung",
+      "c) Planungsrechnung oder Budgetierung"],
+    "correct": "Finanzbuchhaltung und Controlling, Betriebswirtschaftliche Statistik und Vergleichsrechnung, Planungsrechnung oder Budgetierung"
   },
   {
     "id": "RW2b",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was sind Freiberufler? Und inwieweit sind sie von der Bilanzierungspflicht befreit.",
+    "explanation": "Ärzte, Rechtsanwälte, Steuerberater und Co. sind von der Bilanzierungspflicht befreit. Hier genügt eine :hund:Einnahmen-Überschuss-Rechnung (EÜR) als Teil der Steuererklärung.
+Zu den Freiberuflern zählen Sie, wenn Ihre Tätigkeit in eine der folgenden Kategorien fällt",
+    "answers": ["a) Medizinischer Berufe: Arzt, Zahnarzt, Tierarzt",
+      "b) Beratende/juristische Berufe: Notar, Anwalt, Steuerberater, Wirtschaftsprüfer ",
+      "c) Weitere: Ingenieur, Architekt"],
+    "correct": "Arzt, Zahnarzt, Tierarzt, Notar, Anwalt, Steuerberater, Wirtschaftsprüfer, Ingenieur, Architekt"
   },
   {
     "id": "RW2c",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+    "question": "Wer ist nicht im Handelsregister eingetragen? Und welche Aussage stimmt?",
+    "explanation": "Kleingewerbetreibende sind nicht im Handelsregister eingetragen und benötigen lediglich eine Gewerbeanmeldung. Sie sind dank der Kleinunternehmerregelung nicht von der Bilanzierungspflicht betroffen.",
+    "answers": ["a) Eingetragene Kaufleute sind erst dann verpflichtet, eine Bilanz zu erstellen, wenn ihr Umsatzerlös in zwei aufeinanderfolgenden Geschäftsjahren die Marke von 600.000 Euro überschreitet ",
+      "b) Eingetragene Kaufleute sind erst dann verpflichtet, eine Bilanz zu erstellen, wenn ihr Jahresüberschuss mehr als 60.000 Euro beträgt.",
+      "c) Eingetragene Kaufleute sind immer verpflichtet eine Bilanz zu erstellen."],
+    "correct": "Eingetragene Kaufleute sind erst dann verpflichtet, eine Bilanz zu erstellen, wenn ihr Umsatzerlös in zwei aufeinanderfolgenden Geschäftsjahren die Marke von 600.000 Euro überschreitet und gleichzeitig der Jahresüberschuss mehr als 60.000 Euro beträgt."
   },
 
   {
     "id": "RW2d",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
-    "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
-    ],
-    "correct": "blauer Halbkreis"
+    "question": "Was sind Personengesellschaften?",
+    "explanation": "Personengesellschaften, also beispielsweise OHG, KG oder eine Mischform wie die GmbH & Co. KG sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen. Besondere Personengesellschaften wie GbR oder PartG sind hingegen nicht betroffen, da sie keinen Kaufmanns-Status im Sinne des HGB besitzen bzw. für Freiberufler ausgelegt sind.",
+    "answers": ["a) Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen.",
+      "b) GmbH & Co. KG sind nicht bilanzierungspflichtig",
+      "c) Besondere Personengesellschaften wie GbR oder PartG unterliegen auch der Pflicht ihre Bilanzen zu veröffentlichen."],
+    "correct": "Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen."
   },
 
   {
     "id": "RW2e",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
+    "question": "Was ist eine Bilanz?",
+    "explanation": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung.",
+    "answers": ["a) Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses.",
+      "b) Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens.",
+      "c) Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung",
+    "d) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."],
+    "correct": "Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses. Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens. Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung. Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."
   }
 
   {
     "id": "RW2f",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
-    ],
-    "correct": "Es gibt keine außer 11"
+    "question": "Was ist die Körperschaftsteuer? Welche Aussage ist richtig?",
+    "explanation": "Die Körperschaftsteuer, kurz KSt, wird auf das Einkommen bzw. den Gewinn von juristischen Personen (z. B. Kapitalgesellschaften, Vereine, Zweckbetriebe, Geschäftsbetriebe etc.) erhoben – also komplementär zur :hund:Einkommensteuer für Selbstständige. Wie die :hund:Gewerbesteuer ist die Körperschaftsteuer eine Unternehmenssteuer.",
+    "answers": ["a) Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht",
+      "b) Die Körperschaftssteuer ist die Einkommenssteuer pro Person.",
+      "c) Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."],
+    "correct": "Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht. Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."
   }
 ]
 [
   {
     "id": "S3Aa",
-    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
-    ],
-    "correct": "Antwort A"
+    "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
+    "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)"
+    "answers": ["a) ",
+      "b) Un alfiler (Eine Stecknadel)",
+      "c) "],
+       "correct": "Un alfiler (Eine Stecknadel)",
   },
   {
     "id": "S3Ab",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
+    "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
+    "answers": ["a)",
+      "b) Un secreto (Ein Geheimnis)",
+      "c) "],
+       "correct": "Un secreto (Ein Geheimnis)",
   },
   {
     "id": "S3Ac",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+    "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
+    "explanation":"(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)"
+    "answers": ["a) ",
+      "b) La pera (Die Birne)",
+      "c) "],
+        "correct": "La pera (Die Birne)"
   },
 
   {
     "id": "S3Ad",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
-    "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
-    ],
-    "correct": "blauer Halbkreis"
+    "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
+    "explanation":"(Sie hat Zähne und beißt nicht.)"
+    "answers": ["a) ",
+      "b) Un peine (Ein Kamm)",
+      "c) "],
+        "correct": "Un peine (Ein Kamm)"
   },
-
   {
     "id": "S3Ae",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
+    "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
+    "explanation":"(Was steigt und fällt, aber bewegt sich nicht?)"
+    "answers": ["a) ",
+      "b) La temperatura (Die Temperatur)",
+      "c) "],
+        "correct": "La temperatura (Die Temperatur)"
   }
 
   {
     "id": "S3Af",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
-    ],
-    "correct": "Es gibt keine außer 11"
+    "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
+    "explanation":"(Was hat ein Auge und kann nicht sehen?)"
+    "answers": ["a) ",
+      "b) Una aguja (Eine Nadel)",
+      "c) "],
+        "correct": "Una aguja (Eine Nadel)"
   }
 ]
-[
   {
     "id": "W3Ba",
-    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
-    ],
-    "correct": "Antwort A"
+    "question": "Warum brauche ich als professioneller Handwerker eine Werkbank?",
+    "answers": ["a) um bequem darauf zu sitzen",
+  "b) um einen Schraubstock darauf anzubringen",
+  "c) um Holz sicher zu bearbeiten"],
+      "explanation": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie eine funktionale Werkbank. Diese bietet Platz für Werkstücke in vielen Größen und erlaubt auch das Anbringen eines Schraubstocks.",
+    "correct": "Um Holz sicher zu bearbeiten und einen Schraubstock darauf anzubringen."
   },
   {
     "id": "W3Bb",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
+    "answers": ["a) um ein Holzwerkstück zu fixieren",
+  "b) um feinere Arbeiten damit auszuführen",
+  "c) um starke Erschütterungen zu überstehen"],
+      "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um ein Holzwerkstück zu fixieren und um starke Erschütterungen zu überstehen."
   },
   {
     "id": "W3Bc",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+    "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
+    "answers": ["a) um Holzplatten zu fixieren",
+  "b) um feinere Arbeiten damit auszuführen",
+  "c) um starke Erschütterungen zu überstehen"],
+      "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
+    "correct": "um Holzplatten zu fixieren und Feinarbeiten damit auzuführen"
   },
 
   {
     "id": "W3Bd",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
-    "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
-    ],
-    "correct": "blauer Halbkreis"
+    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
+    "answers": ["a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
+  "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
+  "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"],
+    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
+    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
   },
 
   {
     "id": "W3Be",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
-  }
+    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": ["a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+  "c) um damit präzise auszumessen."],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
+    "correct": "Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben. Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein"
+  },
 
   {
     "id": "W3Bf",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
-    ],
+     "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "answers": ["a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
+      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
+  "c) um damit präzise auszumessen."],
+    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
     "correct": "Es gibt keine außer 11"
   }
-]
+
 [
   {
     "id": "WG2a",
-    "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
-    ],
-    "correct": "Antwort A"
+    "question": "Was sind die wichtigsten Holzwerkzeuge zum Messen?",
+    "answers": ["a) Wasserwagage",
+      "b) Zollstack und Maßband",
+  "c) Winkel und Bleistift sind für die meisten Holzarbeiten ausreichend.."],
+     
+    "correct": "Wasserwaage, Zollstock, Maßband, Winkel und Bleistift sind für die meisten Holzarbeiten ausreichend."
   },
   {
     "id": "WG2b",
