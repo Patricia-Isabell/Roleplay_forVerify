@@ -1,9 +1,0 @@
-[
-  {
-    "id": "C1d",
-    "question": "Warum wird \"Blaukraut\" zu \"Rotkraut\", wenn man es mit Apfelmus mischt? (Mehrfachnennungen möglich)",
-    "answers": "a) Das Gelb des Muses mischt sich mit Blau zu Rot\nb) Das Kraut wird saurer und erscheint dadurch röter - wie im Lackmustest\nc) Das hängt von der Beweglichkeit der Elektronen ab",
-    "correct": "Das Kraut wird saurer und erscheint dadurch röter - wie im Lackmustest/\nDas hängt von der Beweglichkeit der Elektronen ab",
-    "explanation": "Blaukraut ändert seine Farbe mit der Säurekonzentration. Ohne die Säureteilchen ist der Farbstoff negativ geladen, hat also Elektronen, die nicht gebunden sind. Diese können sich im gesamten Gerüst des Moleküls frei bewegen, der Farbstoff erscheint blau. Nach der Reaktion mit Säureteilchen werden die Elektronen lokal stärker gebunden, haben also weniger Bewegungsfreiraum. Der Stoff erscheint nun rot."
-  }
-]

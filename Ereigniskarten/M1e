@@ -1,9 +1,0 @@
-[
-  {
-    "id": "M1d",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
-  }
-]
