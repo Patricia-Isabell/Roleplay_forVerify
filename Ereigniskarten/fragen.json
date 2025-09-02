@@ -796,51 +796,72 @@ Zu den Freiberuflern zählen Sie, wenn Ihre Tätigkeit in eine der folgenden Kat
 [
   {
     "id": "WG2a",
-    "question": "Was sind die wichtigsten Holzwerkzeuge zum Messen?",
-    "answers": ["a) Wasserwagage",
-      "b) Zollstack und Maßband",
-  "c) Winkel und Bleistift sind für die meisten Holzarbeiten ausreichend.."],
+    "question": "Was bedeutet der Begriff Homo oeconomicus?",
+    "explanation": "Der homo oeconomicus ist ein fiktiver, rein rational handelnder Akteur, der stets versucht, seinen individuellen Nutzen zu maximieren. Er besitzt vollständige Informationen über alle Handlungsalternativen, wägt diese logisch gegeneinander ab und entscheidet sich immer für die ökonomisch beste Option."
+    "answers": ["a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
+
+ "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
+      
+  "c) Er verfügt nicht über vollständige Informationen."],
      
-    "correct": "Wasserwaage, Zollstock, Maßband, Winkel und Bleistift sind für die meisten Holzarbeiten ausreichend."
+    "correct": "Der homo oeconomicus verfolgt eigennützige Ziele.
+
+Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden."
   },
   {
     "id": "WG2b",
-    "question": " Einem Krämer ist die Waage von der Ladentheke gefallen. Dadurch ist der Waagebalken ein wenig verrutscht, so dass jetzt das rechte Ende etwas länger ist als das linke. Weil er die Waage nicht in eine Werkstatt bringen will, behilft sich der Krämer auf folgende Weise: Um ein Kilogramm Mehl zu erhalten, wiegt er zwei Portionen ab. Die erste Portion bekommt er, indem er ein 500 Gramm Gewichtsstück auf die linke Waagschale legt und das Mehl in die rechte Schale füllt. Bei der zweiten Portion macht er es umgekehrt: Das 500-Gramm-Gewicht kommt auf die rechte Schale und das Mehl auf die linke. »Was ich bei der ersten Portion zu wenig habe, muss ich bei der zweiten zu viel haben«, denkt der Krämer. Hat er Recht? 2:44",
-    "answers": ["Lösung Physik-Aufgabe Krämer"],
-    "correct": "Antwort B"
+    "question": "Was versteht man unter dem Ökonomischen Prinzip?",
+    "explanation": "Das ökonomische Prinzip ist ein Grundsatz der Wirtschaftswissenschaft, der beschreibt, wie Menschen, Unternehmen oder Staaten mit knappen Mitteln möglichst effizient umgehen.Mit möglichst wenig Einsatz möglichst viel erreichen.",
+    "answers": ["a) Minimalprinzip: Ein bestimmtes Ziel soll mit möglichst geringem Mitteleinsatz erreicht werden.",
+  "b) Maximalprinzip: Mit gegebenen Mitteln soll ein möglichst großer Nutzen erzielt werden."
+  "c) Extremumprinzip (Optimumprinzip): Es wird versucht, ein möglichst günstiges Verhältnis von Aufwand und Ertrag zu erreichen."],
+    "correct": "Minimalprinzip, Maximalprinzip, Extremumprinzip"
   },
   {
     "id": "WG2c",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+    "question": "Was versteht man unster dem Satisfizer-Konzept?",
+    "explanation": ""
+    "answers": ["a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
+
+ "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
+      
+  "c) Er verfügt nicht über vollständige Informationen."],
+    "correct": "Alle Beispiele sind richtig."
   },
 
   {
     "id": "WG2d",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
-    "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
-    ],
-    "correct": "blauer Halbkreis"
+    "question": "Was versteht man unter dem Homogenitätsprinzip? Sind die Beispiele zur Homogenität richtig?",
+    "explanation": "Das Homogenitätsprinzip besagt, dass eine Funktion (z. B. eine Produktions- oder Nutzenfunktion) in einem bestimmten Grad homogen ist, wenn eine proportionale Veränderung aller eingesetzten Faktoren zu einer proportionalen Veränderung des Ergebnisses führt."
+    "answers": ["a) Homogenität 1 (linear homogen): Verdopple ich alle Produktionsfaktoren, verdoppelt sich auch die Produktionsmenge.",
+
+ "b) Homogenität < 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion weniger als doppelt (abnehmende Skalenerträge).",
+      
+  "c)Homogenität > 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion mehr als doppelt (zunehmende Skalenerträge)"],
+    "correct": "Produktionsfaktoren hängen von der Homogenität ab. Alle Beispiele sind richtig."
   },
 
   {
     "id": "WG2e",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen,
-    jedes Prisma das Volumen  und jede Pyramide das Volumen  Somit beträgt das Volumen des Pyramidenstumpfs.",
-    "correct": "Pyramidenstumpf"
-  }
+    "question": "Was versteht man unter Ökonomische Distanz? Und was sind die Einflussfaktoren?",
+    "explanantion": "Ökonomische Distanz bezeichnet die Kosten und den Aufwand (z. B. Geld, Zeit, Energie), die beim Überwinden einer räumlichen Distanz entstehen."
+    "answers": ["a) Transportkosten (z. B. Frachtpreise, Benzin, Maut)",
+ "b) Zeitaufwand (z. B. Dauer von Transport oder Pendeln)",
+  "c) Infrastruktur (z. B. Autobahnen, Häfen, Flughäfen, Digitalisierung)",
+  "d) Handelshemmnisse (z. B. Zölle, Bürokratie)"],
+    "correct": "Transportkosten, Zeitaufwand, Infrastruktur und Handelshemmnisse sind alles Einflussfaktoren."
+  },
 
   {
     "id": "WG2f",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
+    "question": "Was ist Wirtschaftsgeografie?",
+    "explanation": "Die Wirtschaftsgeografie untersucht, wie wirtschaftliche Aktivitäten (Produktion, Handel, Dienstleistungen, Verkehr usw.) räumlich verteilt sind, welche Standorte gewählt werden und wie wirtschaftliche Prozesse Räume gestalten und verändern."
+    "answers": ["a)Standortfaktoren (z. B. Rohstoffe, Arbeitskräfte, Infrastruktur, Markt)",
+"b) Raumstrukturen (Industriegebiete, Ballungsräume, ländliche Räume)",
+"c) Globale Verflechtungen (Welthandel, Globalisierung, internationale Arbeitsteilung)",
+"d) Regionale Unterschiede (wirtschaftsstarke vs. strukturschwache Regionen)",
+"e) Nachhaltigkeit (Umweltfolgen von Wirtschaft, Ressourcenverbrauch, erneuerbare Energien)"
     ],
-    "correct": "Es gibt keine außer 11"
+    "correct": "Standortfaktoren, Raumstrukturen, Globale Verflechtungen, Regionale Unterschiede, Nachhaltigkeit"
   }
 ]
