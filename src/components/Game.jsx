@@ -8,33 +8,33 @@ function clamp01(n) {
 }
 
 export default function Game() {
-  const router = useRouter();
-  const [ch, setCh] = useState(null);
-  const [idx, setIdx] = useState(() =>
-    Math.floor(Math.random() * eventsData.length)
-  );
-  const [resultNote, setResultNote] = useState(null); // zum Anzeigen des Testergebnisses/Nachricht
+  //const router = useRouter();
+  //const [ch, setCh] = useState(null);
+  //const [idx, setIdx] = useState(() =>
+  // Math.floor(Math.random() * eventsData.length)
+  // );
+  //const [resultNote, setResultNote] = useState(null); // zum Anzeigen des Testergebnisses/Nachricht
 
-  const current = useMemo(() => eventsData[idx], [idx]);
+  //const current = useMemo(() => eventsData[idx], [idx]);
 
   // Charakter laden
-  useEffect(() => {
-    const c = loadCharacter() || ensureCharacter();
-    setCh(c);
-  }, []);
+  //useEffect(() => {
+  //const c = loadCharacter() || ensureCharacter();
+  //setCh(c);
+  // }, []);
 
   // Nachricht löschen, wenn Ereignis wechselt
-  useEffect(() => {
-    setResultNote(null);
-  }, [idx]);
+  // useEffect(() => {
+  // setResultNote(null);
+  //}, [idx]);
 
   // Nach Woche 10 zum Finale weiterleiten
-  useEffect(() => {
-    if (!ch) return;
-    if ((ch.week ?? 1) > 10) router.push("/final");
-  }, [ch, router]);
+  //useEffect(() => {
+  // if (!ch) return;
+  //if ((ch.week ?? 1) > 10) router.push("/final");
+  //}, [ch, router]);
 
-  if (!ch) return <div className="card">Wird geladen...</div>;
+  //if (!ch) return <div className="card">Wird geladen...</div>;
 
   function nextEvent() {
     setIdx(Math.floor(Math.random() * eventsData.length));
