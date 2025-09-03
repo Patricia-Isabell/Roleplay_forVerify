@@ -14,7 +14,7 @@ const SUGGESTIONS = {
   ],
 };
 
-export default function Final() {
+/* export default function FinalPage() {
   const router = useRouter();
   const [ch, setCh] = useState(null);
 
@@ -31,8 +31,9 @@ export default function Final() {
 
   if (!ch) return <div className="card">Wird geladen...</div>;
 
-  const message = witty(ch);
+  const message = witty(ch); */
 
+export default function Final() {
   return (
     <section className="stack">
       <div className="card stack">
@@ -74,12 +75,12 @@ export default function Final() {
 function witty(ch) {
   const top = Object.entries(ch.stats).sort((a, b) => b[1] - a[1])[0]?.[0];
   const lines = {
-    artistic_creativ:
-      "Kunst ist ein großartiger Ausgleich für den Schulstress – Volltreffer!",
     math: "Zahlen sind deine Sprache – schwierige Aufgaben schrecken dich nicht.",
     economics: "Deine Wissbegier ist groß, die Wirtschaft ruft nach dir!",
     foreign_language:
       "Dein Wortverständnis und deine Sprachlogik sind stark, und sprachlich denken steht dir gut.",
+    artistic_creativ:
+      "Kunst ist ein großartiger Ausgleich für den Schulstress – Volltreffer!",
   };
   return (
     lines[top] ||

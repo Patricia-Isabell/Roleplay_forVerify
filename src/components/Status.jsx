@@ -1,10 +1,4 @@
 export default function Status() {
-  const [ch, setCh] = useState(null);
-
-  useEffect(() => {
-    setCh(loadCharacter() || ensureCharacter());
-  }, []);
-
   if (!ch) return <div className="card">Lädt...</div>;
 
   return (
