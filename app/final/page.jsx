@@ -5,11 +5,19 @@ import { loadCharacter, ensureCharacter, resetCharacter } from "../lib/storage";
 import { useRouter } from "next/navigation";
 
 const SUGGESTIONS = {
-  math: ["Mathematik (Fortgeschritten)", "Physik", "Informatik"],
-  language: ["Fremdsprache", "Literatur", "Theater/Drama"],
-  science: ["Physik", "Chemie", "Biologie"],
-  creativity: ["Bildende Kunst", "Musik", "Design"],
-  social: ["Sozialkunde", "Psychologie", "Projekt/Gemeinschaftsdienst"],
+  math: ["Mathematik=M1", "Physik=P1", "Chemie=C1", "Technisches Zeichnen=D1"],
+  economics: [
+    "Betriebswirtschaftslehre=BWL2",
+    "Rechnungswesen=RW2",
+    "Wirtschaftsgeografie=WG2",
+  ],
+  forgeign_language: ["Spanisch=S3A", "Französich=F3A", "Latein=L3A"],
+  artistic_creativ: [
+    "Kunst=K3B",
+    "Musik=M3B",
+    "Werken=W3B",
+    "textiles Gestalten=G3B",
+  ],
 };
 
 export default function FinalPage() {

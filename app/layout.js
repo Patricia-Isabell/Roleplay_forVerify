@@ -13,11 +13,11 @@ export default function RootLayout({ children }) {
           <div className="header-inner">
             <h1>Wähle Deine Eigene Entscheidung</h1>
             <nav className="nav">
-              <a href="/">Startseite</a>
-              <a href="/character">Charakter</a>
-              <a href="/game">Spiel</a>
-              <a href="/status">Status</a>
-              <a href="/final">Finale</a>
+              <Link to="/">Startseite</Link>
+              <Link to="/character">Charakter</Link>
+              <Link href="/game">Spiel</Link>
+              <Link href="/status">Status</Link>
+              <Link href="/final">Finale</Link>
             </nav>
           </div>
         </header>

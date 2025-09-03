@@ -90,11 +90,14 @@ export function runRequirement(ch, requires) {
 export function bestKey(stats) {
   const entries = Object.entries(stats).sort((a, b) => b[1] - a[1]);
   const map = {
-    math: "Mathematik",
-    language: "Sprache",
-    nature: "Natur",
-    creativity: "Kreativität",
-    social: "Sozial",
+    math: ["Mathematik", "Physik", "Chemie", "Technisches Zeichnen"],
+    economics: [
+      "Betriebswirtschaftslehre",
+      "Rechnungswesen",
+      "Wirtschaftsgeografie",
+    ],
+    foreign_language: ["Spanisch", "Französisch", "Latein"],
+    creative_artist: ["Kunst", "Musik", "Werken", "Textiles Gestalten"],
   };
   return map[entries[0][0]] || entries[0][0];
 }

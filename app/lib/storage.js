@@ -2,10 +2,9 @@ export const DEFAULT_CHARACTER = {
   name: "",
   stats: {
     math: 3,
-    language: 3,
-    science: 3,
-    creativity: 3,
-    social: 3,
+    economics: 3,
+    foreign_languages: 3,
+    creatives_artist: 3,
   },
   stress: 2,
   motivation: 3,
