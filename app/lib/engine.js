@@ -1,5 +1,5 @@
 // app/lib/engine.js
-export function roll(dice = "1d6") {
+function roll(dice = "1d6") {
   // Unterstützt Ausdrücke wie "2d6+1", "1d8", "1d6-2"
   const m = /^(\d+)d(\d+)([+-]\d+)?$/i.exec(dice.trim());
   if (!m) return 0;
@@ -12,11 +12,11 @@ export function roll(dice = "1d6") {
   return sum + mod;
 }
 
-export function clampStat(n) {
+function clampStat(n) {
   return Math.max(0, Math.min(10, n));
 }
 
-export function applyEffects(ch, effects = {}) {
+function applyEffects(ch, effects = {}) {
   const next = { ...ch, stats: { ...ch.stats } };
   const { stats = {}, stress = 0, motivation = 0, week = 0 } = effects;
 
@@ -42,7 +42,7 @@ export function applyEffects(ch, effects = {}) {
  * }
  * Erfolgs-/Misserfolgs-Ergebnisse werden mit choice.successEffects / choice.failEffects angegeben.
  */
-export function runRequirement(ch, requires) {
+function runRequirement(ch, requires) {
   if (!requires || !requires.anyOf?.length) {
     return { passed: true, details: [] };
   }
@@ -87,7 +87,7 @@ export function runRequirement(ch, requires) {
 
 // lib/engine.js
 
-export function bestKey(stats) {
+function bestKey(stats) {
   const entries = Object.entries(stats).sort((a, b) => b[1] - a[1]);
   const map = {
     math: ["Mathematik", "Physik", "Chemie", "Technisches Zeichnen"],
@@ -103,4 +103,4 @@ export function bestKey(stats) {
 }
 
 // Andere bestehende Exports beibehalten
-export { applyEffects, clampStat, roll, runRequirement };
+export { applyEffects, clampStat, roll, runRequirement, bestKey };
