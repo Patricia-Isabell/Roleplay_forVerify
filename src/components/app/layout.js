@@ -1,4 +1,4 @@
-import "../app/globals.css";
+/* import "../app/globals.css";
 
 export const metadata = {
   title: "Wähle Deine Eigene Entscheidung",
@@ -29,3 +29,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+ */

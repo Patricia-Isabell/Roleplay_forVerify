@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+}
+header {
+  background: #4caf50;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.slogan {
+  margin-bottom: 20px;
+}
+input[type="text"] {
+  margin-top: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

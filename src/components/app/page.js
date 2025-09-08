@@ -1,4 +1,4 @@
-export default function HomePage() {
+/* export default function HomePage() {
   return (
     <section className="card stack">
       <h2>Willkommen zum Schulabenteuer 🎓</h2>
@@ -21,3 +21,4 @@ export default function HomePage() {
     </section>
   );
 }
+ */

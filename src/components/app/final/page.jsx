@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import { useEffect, useMemo, useState } from "react";
 import { loadCharacter, ensureCharacter, resetCharacter } from "../lib/storage";
@@ -92,3 +92,4 @@ function witty(ch) {
     "Mit deinen vielseitigen Interessen kannst du in vielen Fächern erfolgreich sein!"
   );
 }
+ */

@@ -1,4 +1,4 @@
-"use client";
+/* "use client";
 
 import { useEffect, useState } from "react";
 import { loadCharacter, ensureCharacter } from "../lib/storage";
@@ -46,3 +46,4 @@ function Stat({ label, value }) {
     </div>
   );
 }
+ */

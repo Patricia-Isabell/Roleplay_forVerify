@@ -1,33 +1,35 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
 import "./App.css";
-import Character from "./components/Character";
-import Game from "./components/Game";
-import Final from "./components/Final";
-import Status from "./components/Status";
-import Util from "./components/Util";
 
 function App() {
-  return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="" loader={Layout} Component={Layout} />
-        <Route index loader={Character} Component={Character} />
-        <Route path="step-2" loader={Data} Component={Data} />
-        <Route path="step-3" loader={Final} Component={Final} />
-        <Route path="step-2" loader={Game} Component={Game} />
-        <Route path="step-3" loader={Lib} Component={Lib} />
-        <Route path="step-2" loader={Status} Component={Status} />
-        <Route path="step-3" loader={Util} Component={Util} />
+  const [count, setCount] = useState(0);
 
-        <Route path="/" element={<Game />} />
-        <Route path="/character" element={<Character />} />
-        <Route path="/game" element={<Game />} />
-        <Route path="/final" element={<Final />} />
-        <Route path="/status" element={<Status />} />
-        <Route path="/util" element={<Util />} />
-      </Routes>
-    </BrowserRouter>
+  return (
+    <>
+      <div>
+        <a href="https://vite.dev" target="_blank">
+          <img src={viteLogo} className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://react.dev" target="_blank">
+          <img src={reactLogo} className="logo react" alt="React logo" />
+        </a>
+      </div>
+      <h1>Vite + React</h1>
+      <div className="card">
+        <button onClick={() => setCount((count) => count + 1)}>
+          count is {count}
+        </button>
+        <p>
+          Edit <code>src/App.jsx</code> and save to test HMR
+        </p>
+      </div>
+      <p className="read-the-docs">
+        Click on the Vite and React logos to learn more
+      </p>
+    </>
   );
 }
+
 export default App;

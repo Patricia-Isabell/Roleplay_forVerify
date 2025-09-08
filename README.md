@@ -1,12 +1,45 @@
-# React + Vite
+# Hallo! So spielst du dieses Spiel 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dieses Spiel ist ein Schul-Abenteuer! Erstelle deine eigene Figur, wähle deine Lieblingsfächer und erreiche das Finale, indem du Fragen beantwortest.
 
-Currently, two official plugins are available:
+## 1) Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Du bist auf der Seite **Start**.
+- Klicke auf **Charakter**.
 
-## Expanding the ESLint configuration
+## 2) Erstelle deinen Charakter
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Schreibe deinen Namen.
+- Stelle deine Stärken ein, indem du die Regler verschiebst: **Mathematik**, **Sprache**, **Naturwissenschaften**, **Kreativität**, **Soziales**.
+- Klicke auf **Speichern**.
+
+## 3) Wähle deine Fächer (Wahlpflichtfächer)
+
+- Gehe im Menü zu **Wahlpflichtfächerwahl**.
+- Du kannst höchstens **3 Fächer** auswählen.
+- Rechts siehst du im Bereich **Vorschau**, wie sich deine Punkte erhöhen.
+- Speichere mit **Auswahl übernehmen**.
+
+## 4) Ab ins Spiel
+
+- Gehe im Menü zu **Game**.
+- Auf dem Bildschirm siehst du eine Frage.
+- Klicke auf die Antwort-Schaltfläche, die du für richtig hältst.
+
+## 5) Punkte und Fortschritt
+
+- Wenn du richtig liegst, steigen deine Punkte und deine Stärke. 🎉
+- Wenn du dich irrst, kein Problem! Beim nächsten Mal schaffst du’s besser. 💪
+- Nach jeder Frage schreitet die **Woche** voran. Wenn du eine bestimmte Woche erreicht hast, startet das Finale.
+
+## 6) Finale
+
+- Auf der Seite **Finale** siehst du, wie viele Punkte du hast und in welchem Bereich du am stärksten bist.
+- Du kannst jederzeit nochmal spielen!
+
+## Tipps ✨
+
+- Fächer mit **„Empfohlen“** machen dich in deinem starken Bereich noch besser.
+- Wenn es zu schwer wird, schau auf der Seite **Status** nach – du kannst auch neu starten.
+
+Viel Spaß! 😄
