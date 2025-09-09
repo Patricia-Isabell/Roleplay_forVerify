@@ -10,7 +10,7 @@
   },
   {
     "id": "BWL2b",
-    "category":"economics",
+    "category": "economics",
     "explanation": "Transportlogistik umfasst die Planung und Durchführung von Maßnahmen zur optimalen Gestaltung des Transportes bei der Wahl der Transportmittel, Transportwege, Beladung und Entladung, Übergabe usw. Transportwirtschaft Die Transportwirtschaft dient der Ortsveränderung von Personen, Gütern und Nachrichten auf dem Lande, auf dem Wasser, in der Luft sowie mittels Leitungssystemen, wie dies folgende Abbildung verdeutlichen soll: Rohrleitungs- betriebe Schienenverkehrs- betriebe Luftverkehrs- betriebe Schifffahrts- betriebe Straßenverkehrs- betriebe",
     "question": "Welche Perspektiven ergeben sich für die Transportwirtschaft für die Zukunft?",
     "answers": [
@@ -20,7 +20,7 @@
   },
   {
     "id": "BWL2c",
-    "category":"economics",
+    "category": "economics",
     "explanation": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr.",
     "question": "Was ist die Binnenschifffahrt?",
     "answers": [
@@ -50,7 +50,7 @@
   },
   {
     "id": "BWL2f",
-    "category":"economics",
+    "category": "economics",
     "explanation": "Rohrleitungsbetriebe: Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu. Für Rohrleitungsbeförderung geeignete Güter sind bspw.: gasförmige Güter (z.B. Yamal-Erdgasleitung von der westsibirischen Halbinsel nach Mittel- und Westeuropa – über 5.000 km), Wasser (va. im kommunalen Bereich der Kanalisation), Erdöl und Raffinerieprodukte (z.B. Adria-Wien-Ölpipeline über 420 km), Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver mit Wasser gemischt). Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierungsstationen. Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen Transport- und Verkehrsbetrieben, ist eine sehr kapitalintensive Angelegenheit und kann daher idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden.",
     "question": "Von was ist die Nutzung und Auslastung ebenso wie in anderen Bereichen stark abhängig?",
     "answers": [
@@ -74,7 +74,7 @@
 
   {
     "id": "RW2e",
-    "category":"economics",
+    "category": "economics",
     "question": "Was ist eine Bilanz?",
     "explanation": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung.",
     "answers": [
@@ -88,7 +88,7 @@
 
   {
     "id": "RW2f",
-    "category":"economics",
+    "category": "economics",
     "question": "Was ist die Körperschaftsteuer? Welche Aussage ist richtig?",
     "explanation": "Die Körperschaftsteuer, kurz KSt, wird auf das Einkommen bzw. den Gewinn von juristischen Personen (z. B. Kapitalgesellschaften, Vereine, Zweckbetriebe, Geschäftsbetriebe etc.) erhoben – also komplementär zur :hund:Einkommensteuer für Selbstständige. Wie die :hund:Gewerbesteuer ist die Körperschaftsteuer eine Unternehmenssteuer.",
     "answers": [
@@ -133,7 +133,7 @@
   },
   {
     "id": "S3Ae",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
     "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
     "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
@@ -142,14 +142,14 @@
 
   {
     "id": "S3Af",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
     "explanation": "(Was hat ein Auge und kann nicht sehen?)",
     "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "]
   },
   {
     "id": "F3Af",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Avec qui Pierre discute-t-il?",
     "explanation": "Übersetzung auf Deutsch",
     "answers": [
@@ -161,7 +161,7 @@
   },
   {
     "id": "G3Ba",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Woran kann es liegen, dass eine Nähmaschine nicht richtig näht?",
     "answers": [
       "a) an der falschen Bedienung",
@@ -194,7 +194,7 @@
   },
   {
     "id": "G3Be",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Wie näht man von Hand korrekt?",
     "answers": [
       "a) zuerst das Garn einfädeln",
@@ -205,7 +205,7 @@
   },
   {
     "id": "G3Bf",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum kann es beim Nähen zu Knotenbildung kommen?",
     "answers": [
       "a) durch ein falsches Einfädeln des Ober- oder Unterfadens",
@@ -216,7 +216,7 @@
   },
   {
     "id": "K3Ba",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Wie werden die Stilepochen in aller Regel eingeordnet, was ist richtig?",
     "answers": [
       "a) Romantik, Gotik, Renaissance",
@@ -227,7 +227,7 @@
   },
   {
     "id": "K3Bb",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Was ist unter dem Begriff *Romantik* zu verstehen?",
     "answers": [
       "a) beginnende Industrialisierung sowie zunehmende Landflucht in die Städte",
@@ -238,7 +238,7 @@
   },
   {
     "id": "K3Bc",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Was ist der Ursprung und Name des Impressionismus?",
     "answers": [
       "a)Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris.",
@@ -250,7 +250,7 @@
   },
   {
     "id": "K3Bd",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Welche Berufsgruppen zählen zu den Künstlern?",
     "answers": [
       "a) Bildhauer (z. B. Steinbildhauer oder Metallbildhauer)",
@@ -260,14 +260,14 @@
   },
   {
     "id": "K3Be",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Wer ist der bekannteste lebende Künstler?",
     "answers": ["a)Pablo Picasso", "b)Gustav Klimt"],
     "correct": "Gerhard Richter"
   },
   {
     "id": "K3Bf",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Welcher Künstler war zu Lebzeiten nicht berühmt?",
     "answers": [
       "a) Vincent van Gogh",
@@ -278,7 +278,7 @@
   },
   {
     "id": "L3Aa",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod per omnia vadit et tamen numquam ab ipso loco movetur?",
     "explanation": "",
     "answers": ["a) Ein Weg (Via).", "b) Ein Fluss.", "c) Eine Entscheidung"],
@@ -286,7 +286,7 @@
   },
   {
     "id": "L3Ab",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod semper ante te est, sed non potest videri?",
     "explanation": "",
     "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
@@ -294,14 +294,14 @@
   },
   {
     "id": "L3Ac",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
     "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
     "correct": "Eine Karte (Mappa)"
   },
   {
     "id": "L3Ad",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Was bin ich? Ego sum, quae semper in principio, sed nunquam in fine. Duo me sequuntur semper, sed ego non movere. Ego non possum esse, nisi in verbo tuo.",
     "explanation": "Ich bin, was immer am Anfang ist, aber niemals am Ende. Zwei folgen mir immer, aber ich bewege mich nicht. Ich kann nicht sein, außer in deinem Wort.",
     "answers": [
@@ -313,7 +313,7 @@
   },
   {
     "id": "L3Ae",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Wer bin ich? Ego possum videre sine oculis et audio sine auribus. Sum semper cum te, sed non possum tangere. Omnia sciunt me, sed non possum sentire.",
     "explanation": "Ich kann sehen, ohne Augen, und hören, ohne Ohren. Ich bin immer bei dir, aber ich kann dich nicht berühren. Alle kennen mich, aber ich kann nicht fühlen.",
     "answers": [
@@ -325,7 +325,7 @@
   },
   {
     "id": "L3Af",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Ich beginne mit *A*, habe aber keinen Mund. Ich bin eine Zahl, habe aber keine Hände. Ich kann alles tun, aber bin nie zu sehen. Ich kann nichts tun, aber bin immer da. Was bin ich?",
     "explanation": "*A*: Die erste Zeile beginnt mit dem Buchstaben *A*. *keinen Mund*: Das lateinische Wort für *etwas* hat keinen Mund. *Ich bin eine Zahl, habe aber keine Hände*: Dies spielt auf die Unendlichkeit der Möglichkeiten an, die etwas haben kann, ohne tatsächlich körperliche Hände zu haben. *Ich kann alles tun, aber bin nie zu sehen*: Ein lateinischer Ausdruck, der die unendlichen Möglichkeiten eines Konzeptes beschreibt. *Ich kann nichts tun, aber bin immer da*: Dies ist ein Wortspiel auf die Unendlichkeit und die Präsenz des *etwas* in der Welt, selbst wenn es keine konkrete Handlung ausführt.",
     "answers": ["a) viel", "b) wenig", "c) etwas"],
@@ -333,7 +333,7 @@
   },
   {
     "id": "M1a",
-    "category": "math"
+    "category": "math",
     "question": "Aufgabe: Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
     "answers": [
       "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar."
@@ -379,7 +379,7 @@
 
   {
     "id": "M1f",
-    "category":"math",
+    "category": "math",
     "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
     "answers": [
       "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
@@ -389,7 +389,7 @@
 
   {
     "id": "P1a",
-    "category":"math",
+    "category": "math",
     "question": "Man nehme einen Shaker etwas größerer Bauart und befülle ihn mit 1 kg Eis (aus Wasser von 0° C) und 1 kg kochend Wasser (100 °C). Frage: Welche Temperatur des Gemisches ist nach Schütteln bis zur Schmelze des Eises zu erwarten?",
     "explanation": "Definition einer Kalorie: 1 cal ist diejenige Wärmemenge, die benötigt wird, um die Temperatur von 1 g Wasser um 1 Grad zu erhöhen (bei einer bestimmten Temperatur – diese Ungenauigkeit ist aber hier vernachlässigbar). 1 kg Wasser kann also beim Abkühlen von 100 °C auf 0 °C 100 kcal abgeben. Tabellenbuch Physik: 1 kg Eis verbraucht beim Schmelzen 80 kcal (79,4 kcal). Wenn 1 kg Eis geschmolzen sind, sind von den 100 kcal noch 20 übrig; oder anders ausgedrückt, der eine Liter heißes Wasser wurde auf 20 °C abgekühlt. Das geschmolzene Eis (ca. 1 Liter) hat 0 °C.",
     "answers": [
@@ -438,7 +438,7 @@
   },
   {
     "id": "P1e",
-    "category":"math",
+    "category": "math",
     "question": " An einem Seil, das über eine Rolle läuft, ist an dem einen Ende eine Bananenstaude festgemacht. Das andere Seilende wird von einem Affen mit seinem gesamten Körpergewicht im Gleichgewicht gehalten. Was passiert, wenn der Affe auf die Idee kommt, an dem Seil hinaufzuklettern? Der physikalischen Korrektheit halber sei angenommen, dass sowohl das Seil als auch das Rad reibungsfrei laufen und gewichtsmäßig vernachlässigbar sind.",
     "answers": [
       "a) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnt trotzdem nur der Affe an Höhe.",
@@ -449,7 +449,7 @@
 
   {
     "id": "P1f",
-    "category":"math",
+    "category": "math",
     "question": "Zur Verfügung steht eine Balkenwaage. Anton legt auf der Erde links Federn und rechts Eisen drauf, so dass die Waage im Gleichgewicht ist. Jetzt transportiert Anton das gesamte Experiment auf den Mond. Was zeigt die Waage an?",
     "explanation": "Auf der Erde wird ein Teil der Schwerkraft durch die Auftriebskraft der Luft ausgeglichen. Da 1 kg Federn ein größeres Volumen hat als 1 kg Eisen, ist der Auftrieb der Federn größer als der Auftrieb des Eisenklumpens. Da es auf dem Mond keine Atmosphäre gibt, entfällt der Auftrieb, die Schwerkraft ist jetzt auf beiden Seiten voll wirksam.",
     "answers": [
@@ -462,7 +462,7 @@
 
   {
     "id": "S3Aa",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
     "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)",
     "answers": ["a) ", "b) Un alfiler (Eine Stecknadel)", "c) "],
@@ -470,7 +470,7 @@
   },
   {
     "id": "S3Ab",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
     "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
     "answers": ["a)", "b) Un secreto (Ein Geheimnis)", "c) "],
@@ -478,7 +478,7 @@
   },
   {
     "id": "S3Ac",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
     "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
     "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
@@ -487,7 +487,7 @@
 
   {
     "id": "S3Ad",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
     "explanation": "(Sie hat Zähne und beißt nicht.)",
     "answers": ["a) ", "b) Un peine (Ein Kamm)", "c) "],
@@ -495,7 +495,7 @@
   },
   {
     "id": "S3Ae",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
     "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
     "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
@@ -504,16 +504,17 @@
 
   {
     "id": "S3Af",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
     "explanation": "(Was hat ein Auge und kann nicht sehen?)",
     "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "],
     "correct": "Una aguja (Eine Nadel)"
   },
 
-  {"id":"WB3A",
-  "category":"creative_artists",
-  "question":"",
+  {
+    "id": "WB3A",
+    "category": "creative_artists",
+    "question": "",
     "answers": [
       "a) um bequem darauf zu sitzen",
       "b) um einen Schraubstock darauf anzubringen",
@@ -524,7 +525,7 @@
   },
   {
     "id": "W3Bb",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
     "answers": [
       "a) um ein Holzwerkstück zu fixieren",
@@ -536,7 +537,7 @@
   },
   {
     "id": "W3Bc",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
     "answers": [
       "a) um Holzplatten zu fixieren",
@@ -549,7 +550,7 @@
 
   {
     "id": "W3Bd",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
     "answers": [
       "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
@@ -562,7 +563,7 @@
 
   {
     "id": "W3Be",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
     "answers": [
       "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
@@ -575,7 +576,7 @@
 
   {
     "id": "W3Bf",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
     "answers": [
       "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
@@ -588,7 +589,7 @@
 
   {
     "id": "WG2a",
-    "category":"economics",
+    "category": "economics",
     "question": "Was bedeutet der Begriff Homo oeconomicus?",
     "explanation": "Der homo oeconomicus ist ein fiktiver, rein rational handelnder Akteur, der stets versucht, seinen individuellen Nutzen zu maximieren. Er besitzt vollständige Informationen über alle Handlungsalternativen, wägt diese logisch gegeneinander ab und entscheidet sich immer für die ökonomisch beste Option.",
     "answers": [
@@ -603,7 +604,7 @@
   },
   {
     "id": "WG2b",
-    "category":"economics",
+    "category": "economics",
     "question": "Was versteht man unter dem Ökonomischen Prinzip?",
     "explanation": "Das ökonomische Prinzip ist ein Grundsatz der Wirtschaftswissenschaft, der beschreibt, wie Menschen, Unternehmen oder Staaten mit knappen Mitteln möglichst effizient umgehen.Mit möglichst wenig Einsatz möglichst viel erreichen.",
     "answers": [
@@ -615,7 +616,7 @@
   },
   {
     "id": "WG2c",
-    "category":"economics",
+    "category": "economics",
     "question": "Was versteht man unster dem Satisfizer-Konzept?",
     "explanation": "",
     "answers": [
@@ -630,7 +631,7 @@
 
   {
     "id": "WG2d",
-    "category":"economics",
+    "category": "economics",
     "question": "Was versteht man unter dem Homogenitätsprinzip? Sind die Beispiele zur Homogenität richtig?",
     "explanation": "Das Homogenitätsprinzip besagt, dass eine Funktion (z. B. eine Produktions- oder Nutzenfunktion) in einem bestimmten Grad homogen ist, wenn eine proportionale Veränderung aller eingesetzten Faktoren zu einer proportionalen Veränderung des Ergebnisses führt.",
     "answers": [
@@ -645,7 +646,7 @@
 
   {
     "id": "WG2e",
-    "category":"economics",
+    "category": "economics",
     "question": "Was versteht man unter Ökonomische Distanz? Und was sind die Einflussfaktoren?",
     "explanantion": "Ökonomische Distanz bezeichnet die Kosten und den Aufwand (z. B. Geld, Zeit, Energie), die beim Überwinden einer räumlichen Distanz entstehen.",
     "answers": [
@@ -659,7 +660,7 @@
 
   {
     "id": "WG2f",
-    "category":"economics",
+    "category": "economics",
     "question": "Was ist Wirtschaftsgeografie?",
     "explanation": "Die Wirtschaftsgeografie untersucht, wie wirtschaftliche Aktivitäten (Produktion, Handel, Dienstleistungen, Verkehr usw.) räumlich verteilt sind, welche Standorte gewählt werden und wie wirtschaftliche Prozesse Räume gestalten und verändern.",
     "answers": [
@@ -671,9 +672,9 @@
     ],
     "correct": "Standortfaktoren, Raumstrukturen, Globale Verflechtungen, Regionale Unterschiede, Nachhaltigkeit"
   },
-    {
+  {
     "id": "W3Ba",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Werkbank?",
     "answers": [
       "a) um bequem darauf zu sitzen",
@@ -685,7 +686,7 @@
   },
   {
     "id": "W3Bb",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
     "answers": [
       "a) um ein Holzwerkstück zu fixieren",
@@ -697,7 +698,7 @@
   },
   {
     "id": "W3Bc",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
     "answers": [
       "a) um Holzplatten zu fixieren",
@@ -710,7 +711,7 @@
 
   {
     "id": "W3Bd",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
     "answers": [
       "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
@@ -722,7 +723,7 @@
   },
   {
     "id": "L3Ab",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod semper ante te est, sed non potest videri?",
     "explanation": "",
     "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
@@ -730,14 +731,14 @@
   },
   {
     "id": "L3Ab_duplicate",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod semper ante te est, sed non potest videri?",
     "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
     "correct": "Die Zukunft (Futurum)."
   },
   {
     "id": "L3Ac",
-    "category":"foreign_languages",
+    "category": "foreign_languages",
     "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
     "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
     "correct": "Eine Karte (Mappa)"
@@ -745,7 +746,7 @@
 
   {
     "id": "W3Bd",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
     "answers": [
       "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
@@ -758,7 +759,7 @@
 
   {
     "id": "W3Be",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
     "answers": [
       "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
@@ -783,7 +784,7 @@
   },
   {
     "id": "M3Ba",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Woher stammt die Country Musik?",
     "answers": ["a) USA", "b) Europa", "c) Japan"],
     "correct": "...USA...",
@@ -791,7 +792,7 @@
   },
   {
     "id": "M3Bb",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Nenne 2 untergruppen der musikrichtung Metal!",
     "answers": [
       "a) Death Metal und Power Metal",
@@ -803,7 +804,7 @@
   },
   {
     "id": "M3Bc",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "um welche zeit entwickelte sich der Jazz und wo?",
     "answers": ["a) 1950 in Europa", "b) 1900 in USA", "c) 1850 in Russland"],
     "correct": "...1900 in USA....",
@@ -811,7 +812,7 @@
   },
   {
     "id": "M3Bd",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "in welcher Gesellschaft entwickelte sich der Blues, und zu welcher Zeit?",
     "answers": [
       "a) In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert",
@@ -823,7 +824,7 @@
   },
   {
     "id": "M3Be",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Was heißt R&B?",
     "answers": [
       "a) Rhythm and Blues",
@@ -835,7 +836,7 @@
   },
   {
     "id": "M3Bf",
-    "category":"creative_artists",
+    "category": "creative_artists",
     "question": "Welche Musikrichtung stammt aus der schwarzen Funk- und Soul- Musik?",
     "answers": ["a) Jazz", "b) Hip Hop", "c) Blues"],
     "correct": "...Hip Hop....",

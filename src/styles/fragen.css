@@ -1,0 +1,3 @@
+style={{backgroundImage: imgCategory}}
+
+const imgCategory = (currentQuestion) =>{ if(currentQuestion.category){ return `../img/${currentQuestion.category}.src/assets/pie-1446373_640.jpg` } }
