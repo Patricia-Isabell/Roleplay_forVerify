@@ -6,17 +6,17 @@ export default function Header() {
   return (
     <header className="site">
       <div className="header-inner container">
-        <div className="brand">Wähle Deine Eigene Entscheidung</div>
+        <div className="brand">Wähle deine eigene Entscheidung</div>
         <nav className="nav">
           <NavLink to="/" end className={linkClass}>
             Start
           </NavLink>
 
           <NavLink to="/character" className={linkClass}>
-            Charakter
+            Charakterbogen
           </NavLink>
           <NavLink to="/game" className={linkClass}>
-            Spiel
+            Entscheidungsspiel
           </NavLink>
           <NavLink to="/wahlpflichtfacherwahl" end className={linkClass}>
             Wahlpflichtfächerwahl

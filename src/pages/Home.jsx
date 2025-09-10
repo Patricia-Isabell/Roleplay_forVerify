@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <section className="card stack">
-      <h2>Willkommen zum Schulabenteuer 🎓</h2>
+      <h2>Willkommen zum Schulabenteuer</h2>
       <p>
         Triff Entscheidungen, verbessere deine Werte und erhalte am Ende eine
         passende Empfehlung.
