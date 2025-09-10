@@ -1,5 +1,9 @@
 import { useEffect, useState } from "react";
 import { ensureCharacter, saveCharacter, resetCharacter } from "../lib/storage";
+/* import Background from "../assets/picture_math.jpg"; */
+import Background from "src/assets/backgroundImage.jpg";
+/* import Background from "../assets/picture_sience.jpg";
+import Background from "../assets/picture_creativity.jpg"; */
 
 export default function Character() {
   const [ch, setCh] = useState(() => ensureCharacter());
@@ -42,45 +46,55 @@ export default function Character() {
       </div>
 
       <div className="grid">
-        <Stat
-          label="Mathematik"
-          value={ch.stats.math}
-          onChange={(v) => setStat("math", v)}
-        />
-        <Stat
-          label="Sprache"
-          value={ch.stats.language}
-          onChange={(v) => setStat("language", v)}
-        />
-        <Stat
-          label="Naturwissenschaften"
-          value={ch.stats.science}
-          onChange={(v) => setStat("science", v)}
-        />
-        <Stat
-          label="Kreativität"
-          value={ch.stats.creativity}
-          onChange={(v) => setStat("creativity", v)}
-        />
-        <Stat
-          label="Sozial"
-          value={ch.stats.social}
-          onChange={(v) => setStat("social", v)}
-        />
-      </div>
+        <div style={{ backgroundImage: `url(${Background})` }}>
+          <Stat
+            label="Mathematik"
+            value={ch.stats.math}
+            onChange={(v) => setStat("math", v)}
+          />{" "}
+        </div>
+        <div style={{ backgroundImage: `url(${Background})` }}>
+          <Stat
+            label="Sprache"
+            value={ch.stats.language}
+            onChange={(v) => setStat("language", v)}
+          />
+        </div>
+        <div style={{ backgroundImage: `url(${Background})` }}>
+          <Stat
+            label="Naturwissenschaften"
+            value={ch.stats.science}
+            onChange={(v) => setStat("science", v)}
+          />
+        </div>
+        <div style={{ backgroundImage: `url(${Background})` }}>
+          <Stat
+            label="Kreativität"
+            value={ch.stats.creativity}
+            onChange={(v) => setStat("creativity", v)}
+          />
+        </div>
+        <div style={{ backgroundImage: `url(${Background})` }}>
+          <Stat
+            label="Sozial"
+            value={ch.stats.social}
+            onChange={(v) => setStat("social", v)}
+          />
+        </div>
 
-      <small className="help">
-        Tipp: Motivation wirkt sich positiv auf Erfolge aus; hoher Stress kann
-        dir Steine in den Weg legen.
-      </small>
+        <small className="help">
+          Tipp: Motivation wirkt sich positiv auf Erfolge aus; hoher Stress kann
+          dir Steine in den Weg legen.
+        </small>
 
-      <div className="row">
-        <a href="/game">
-          <button>Weiter zum Spiel</button>
-        </a>
-        <a href="/status">
-          <button className="secondary">Status ansehen</button>
-        </a>
+        <div className="row">
+          <a href="/game">
+            <button>Weiter zum Spiel</button>
+          </a>
+          <a href="/status">
+            <button className="secondary">Status ansehen</button>
+          </a>
+        </div>
       </div>
     </section>
   );
