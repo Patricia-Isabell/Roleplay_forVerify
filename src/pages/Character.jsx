@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import { ensureCharacter, saveCharacter, resetCharacter } from "../lib/storage";
 import BackgroundMath from "../assets/picture_math.jpg";
+import BackgroundLanguage from "../assets/picture_language.jpg";
 import BackgroundScience from "../assets/picture_sience.jpg";
 import BackgroundCreativity from "../assets/picture_creativity.jpg";
+import BackgroundSocial from "../assets/picture_social.jpg";
 
 export default function Character() {
   const [ch, setCh] = useState(() => ensureCharacter());
@@ -52,7 +54,7 @@ export default function Character() {
             onChange={(v) => setStat("math", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundMath})` }}>
+        <div style={{ backgroundImage: `url(${BackgroundLanguage})` }}>
           <Stat
             label="Sprache"
             value={ch.stats.language}
@@ -73,7 +75,7 @@ export default function Character() {
             onChange={(v) => setStat("creativity", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundCreativity})` }}>
+        <div style={{ backgroundImage: `url(${BackgroundSocial})` }}>
           <Stat
             label="Sozial"
             value={ch.stats.social}
