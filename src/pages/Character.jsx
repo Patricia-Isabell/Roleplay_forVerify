@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
 import { ensureCharacter, saveCharacter, resetCharacter } from "../lib/storage";
-import BackgroundMath from "../assets/picture_math.jpg";
+import BackgroundMath from "../assets/picture_math3.jpg";
 import BackgroundLanguage from "../assets/picture_language.jpg";
 import BackgroundScience from "../assets/picture_sience.jpg";
 import BackgroundCreativity from "../assets/picture_creativity.jpg";
 import BackgroundSocial from "../assets/picture_social.jpg";
+import "../styles/base.css";
 
 export default function Character() {
   const [ch, setCh] = useState(() => ensureCharacter());
@@ -47,35 +48,60 @@ export default function Character() {
       </div>
 
       <div className="grid">
-        <div style={{ backgroundImage: `url(${BackgroundMath})` }}>
+        <div
+          style={{
+            backgroundImage: `url(${BackgroundMath})`,
+            backgroundSize: "cover",
+          }}
+        >
           <Stat
             label="Mathematik"
             value={ch.stats.math}
             onChange={(v) => setStat("math", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundLanguage})` }}>
+        <div
+          style={{
+            backgroundImage: `url(${BackgroundLanguage})`,
+            backgroundSize: "cover",
+          }}
+        >
           <Stat
             label="Sprache"
             value={ch.stats.language}
             onChange={(v) => setStat("language", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundScience})` }}>
+        <div
+          style={{
+            backgroundImage: `url(${BackgroundScience})`,
+            backgroundSize: "cover",
+          }}
+        >
           <Stat
             label="Naturwissenschaften"
             value={ch.stats.science}
             onChange={(v) => setStat("science", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundCreativity})` }}>
+        <div
+          style={{
+            backgroundImage: `url(${BackgroundCreativity})`,
+            backgroundSize: "cover",
+          }}
+        >
           <Stat
             label="Kreativität"
             value={ch.stats.creativity}
             onChange={(v) => setStat("creativity", v)}
           />{" "}
         </div>
-        <div style={{ backgroundImage: `url(${BackgroundSocial})` }}>
+        <div
+          style={{
+            backgroundImage: `url(${BackgroundSocial})`,
+            backgroundSize: "cover",
+          }}
+        >
           <Stat
             label="Sozial"
             value={ch.stats.social}

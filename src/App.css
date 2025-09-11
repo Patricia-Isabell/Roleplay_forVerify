@@ -51,6 +51,8 @@ html,
 
 .card {
   padding: 2em;
+  height: 150em;
+  width: 200%;
 }
 
 .read-the-docs {
