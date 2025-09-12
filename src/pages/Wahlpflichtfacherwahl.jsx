@@ -150,7 +150,7 @@ export default function Wahlpflichtfacherwahl() {
         </small>
       </div>
 
-      <div className="grid wahl-grid">
+      <div className="wahl-grid">
         {AVAILABLE_SUBJECTS.map((s) => {
           const checked = selected.includes(s.id);
           const disabled = !checked && selected.length >= MAX_SELECTION;
