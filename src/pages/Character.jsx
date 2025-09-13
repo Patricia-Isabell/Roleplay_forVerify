@@ -1,14 +1,9 @@
 import { useEffect, useState } from "react";
 import { ensureCharacter, saveCharacter, resetCharacter } from "../lib/storage";
-import BackgroundMath from "../assets/picture_math3.jpg";
-import BackgroundLanguage from "../assets/picture_language.jpg";
-import BackgroundScience from "../assets/picture_sience.jpg";
-import BackgroundCreativity from "../assets/picture_creativity.jpg";
-import BackgroundSocial from "../assets/picture_social.jpg";
-import "../styles/base.css";
 
 export default function Character() {
   const [ch, setCh] = useState(() => ensureCharacter());
+
   useEffect(() => {
     saveCharacter(ch);
   }, [ch]);
@@ -25,6 +20,7 @@ export default function Character() {
         Verteile deine Startwerte (0–10). Höhere Werte erleichtern passende
         Entscheidungen.
       </p>
+
       <div className="row">
         <label>
           <small className="help">Name</small>
@@ -36,6 +32,7 @@ export default function Character() {
             onChange={(e) => setCh({ ...ch, name: e.target.value })}
           />
         </label>
+
         <button
           className="ghost"
           onClick={() => {
@@ -47,101 +44,101 @@ export default function Character() {
         </button>
       </div>
 
-      <div className="grid">
-        <div
-          style={{
-            backgroundImage: `url(${BackgroundMath})`,
-            backgroundSize: "cover",
-          }}
-        >
-          <Stat
-            label="Mathematik"
+      <div className="gridcharacter">
+        {/* Mathematik */}
+        <div className="stat stat-math">
+          <div className="label">Mathematik</div>
+          <div className="bar">
+            <span style={{ width: ch.stats.math * 10 + "%" }}></span>
+          </div>
+          <input
+            type="range"
+            min="0"
+            max="10"
             value={ch.stats.math}
-            onChange={(v) => setStat("math", v)}
-          />{" "}
+            onChange={(e) => setStat("math", e.target.value)}
+          />
+          <small className="help">Wert: {ch.stats.math}/10</small>
         </div>
-        <div
-          style={{
-            backgroundImage: `url(${BackgroundLanguage})`,
-            backgroundSize: "cover",
-          }}
-        >
-          <Stat
-            label="Sprache"
+
+        {/* Sprache */}
+        <div className="stat stat-language">
+          <div className="label">Sprache</div>
+          <div className="bar">
+            <span style={{ width: ch.stats.language * 10 + "%" }}></span>
+          </div>
+          <input
+            type="range"
+            min="0"
+            max="10"
             value={ch.stats.language}
-            onChange={(v) => setStat("language", v)}
-          />{" "}
+            onChange={(e) => setStat("language", e.target.value)}
+          />
+          <small className="help">Wert: {ch.stats.language}/10</small>
         </div>
-        <div
-          style={{
-            backgroundImage: `url(${BackgroundScience})`,
-            backgroundSize: "cover",
-          }}
-        >
-          <Stat
-            label="Naturwissenschaften"
+
+        {/* Naturwissenschaften */}
+        <div className="stat stat-science">
+          <div className="label">Naturwissenschaften</div>
+          <div className="bar">
+            <span style={{ width: ch.stats.science * 10 + "%" }}></span>
+          </div>
+          <input
+            type="range"
+            min="0"
+            max="10"
             value={ch.stats.science}
-            onChange={(v) => setStat("science", v)}
-          />{" "}
+            onChange={(e) => setStat("science", e.target.value)}
+          />
+          <small className="help">Wert: {ch.stats.science}/10</small>
         </div>
-        <div
-          style={{
-            backgroundImage: `url(${BackgroundCreativity})`,
-            backgroundSize: "cover",
-          }}
-        >
-          <Stat
-            label="Kreativität"
+
+        {/* Kreativität */}
+        <div className="stat stat-creativity">
+          <div className="label">Kreativität</div>
+          <div className="bar">
+            <span style={{ width: ch.stats.creativity * 10 + "%" }}></span>
+          </div>
+          <input
+            type="range"
+            min="0"
+            max="10"
             value={ch.stats.creativity}
-            onChange={(v) => setStat("creativity", v)}
-          />{" "}
+            onChange={(e) => setStat("creativity", e.target.value)}
+          />
+          <small className="help">Wert: {ch.stats.creativity}/10</small>
         </div>
-        <div
-          style={{
-            backgroundImage: `url(${BackgroundSocial})`,
-            backgroundSize: "cover",
-          }}
-        >
-          <Stat
-            label="Sozial"
+
+        {/* Sozial */}
+        <div className="stat stat-social">
+          <div className="label">Sozial</div>
+          <div className="bar">
+            <span style={{ width: ch.stats.social * 10 + "%" }}></span>
+          </div>
+          <input
+            type="range"
+            min="0"
+            max="10"
             value={ch.stats.social}
-            onChange={(v) => setStat("social", v)}
-          />{" "}
+            onChange={(e) => setStat("social", e.target.value)}
+          />
+          <small className="help">Wert: {ch.stats.social}/10</small>
         </div>
+      </div>
 
-        <small className="help">
-          Tipp: Motivation wirkt sich positiv auf Erfolge aus; hoher Stress kann
-          dir Steine in den Weg legen.
-        </small>
+      <small className="help">
+        Tipp: Motivation wirkt sich positiv auf Erfolge aus; hoher Stress kann
+        dir Steine in den Weg legen.
+      </small>
 
-        <div className="row">
-          <a href="/game">
-            <button>Weiter zum Spiel</button>
-          </a>
-          <a href="/status">
-            <button className="secondary">Status ansehen</button>
-          </a>
-        </div>
+      <div className="row">
+        <a href="/game">
+          <button>Weiter zum Spiel</button>
+        </a>
+        <a href="/status">
+          <button className="secondary">Status ansehen</button>
+        </a>
       </div>
     </section>
-  );
-}
-
-function Stat({ label, value, onChange }) {
-  return (
-    <div className="stat">
-      <div className="label">{label}</div>
-      <div className="bar">
-        <span style={{ width: value * 10 + "%" }}></span>
-      </div>
-      <input
-        type="range"
-        min="0"
-        max="10"
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-      />
-      <small className="help">Wert: {value}/10</small>
-    </div>
   );
 }

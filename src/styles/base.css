@@ -15,12 +15,54 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
+
 html,
 body,
 #root {
   height: 100%;
 }
+.gridcharacter {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 0.8rem;
+  height: 30rem;
+}
+.gridcharacter .stat {
+  font-weight: 700;
+}
+.gridcharacter .stat .label,
+.gridcharacter .stat small.help {
+  color: currentColor;
+}
+.gridcharacter > *:nth-child(1) {
+  background-image: url("../assets/picture_math3.jpg");
+  background-size: cover;
+  color: white;
+} /* Matematik */
+.gridcharacter > *:nth-child(2) {
+  background-image: url("../assets/picture_language.jpg");
+  background-size: cover;
+  color: white;
+} /* Sprache   */
+.gridcharacter > *:nth-child(3) {
+  background-image: url("../assets/picture_sience.jpg");
+  background-size: cover;
+  color: white;
+} /* Naturwiss */
+.gridcharacter > *:nth-child(4) {
+  background-image: url("../assets/picture_creativity.jpg");
+  background-size: cover;
+  color: white;
+} /* Kreativität */
+.gridcharacter > *:nth-child(5) {
+  background-image: url("../assets/picture_social.jpg");
+  background-size: cover;
+  color: white;
+} /* Sozial    */
+
 body {
   margin: 0;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell,
@@ -52,6 +94,7 @@ body::before {
     );
   animation: bgFloat 24s ease-in-out infinite alternate;
 }
+
 @keyframes bgFloat {
   0% {
     transform: translate3d(0, 0, 0) scale(1);
@@ -71,6 +114,7 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
 button {
   appearance: none;
   outline: none;
@@ -84,25 +128,26 @@ button {
   box-shadow: var(--shadow);
   transition: transform 0.08s ease, box-shadow 0.18s ease;
 }
+
 button:hover {
   transform: translateY(-1px);
   box-shadow: 0 12px 34px rgba(19, 32, 81, 0.16);
 }
+
 button:active {
   transform: translateY(0);
 }
+
 button.secondary {
   background: linear-gradient(180deg, #e8f2ff, #e2eeff);
   border-color: #b1c6ff;
 }
+
 button.ghost {
   background: transparent;
   border-color: var(--border);
 }
-button.danger {
-  background: linear-gradient(180deg, #ffe9e9, #ffdfdf);
-  border-color: #f3c2c2;
-}
+
 button:disabled {
   opacity: 0.6;
   cursor: not-allowed;
@@ -121,12 +166,18 @@ input[type="number"] {
 .stack > * + * {
   margin-top: 0.8rem;
 }
+
 .row {
   display: flex;
   gap: 0.6rem;
   flex-wrap: wrap;
   align-items: center;
 }
+
 small.help {
   color: var(--muted);
+}
+button.danger {
+  background: linear-gradient(180deg, #ffe9e9, #ffdfdf);
+  border-color: #f3c2c2;
 }

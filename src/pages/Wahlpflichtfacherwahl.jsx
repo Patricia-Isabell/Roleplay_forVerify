@@ -239,9 +239,13 @@ export default function Wahlpflichtfacherwahl() {
           <button disabled={selected.length === 0} onClick={submit}>
             Auswahl übernehmen
           </button>
-          <a href="/game">
-            <button className="secondary">Zum Spiel</button>
-          </a>
+
+          <button
+            className="secondary"
+            onClick={() => navigate("/game", { state: { source: "fragen" } })}
+          >
+            Zum Spiel
+          </button>
         </div>
       </div>
     </section>
