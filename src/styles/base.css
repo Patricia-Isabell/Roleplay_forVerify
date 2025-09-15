@@ -197,12 +197,12 @@ button.danger {
 }
 .containergame {
   width: 100%;
-  min-height: 70vh;
+  min-height: 100vh;
   background-color: brown;
   margin: 0;
   padding: 1rem;
   border-radius: 15px;
-  background-image: url("../assets/dragon.png");
-  background-size: cover;
+  background-image: url("../assets/picture_decisiongame.jpg");
+  background-size: contain;
   background-position: center;
 }
