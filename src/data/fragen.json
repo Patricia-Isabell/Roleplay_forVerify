@@ -69,7 +69,7 @@
       "b) GmbH & Co. KG sind nicht bilanzierungspflichtig",
       "c) Besondere Personengesellschaften wie GbR oder PartG unterliegen auch der Pflicht ihre Bilanzen zu veröffentlichen."
     ],
-    "correct": "Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen."
+    "correct": "a) Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen."
   },
 
   {
@@ -120,7 +120,7 @@
     "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
     "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
     "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
-    "correct": "La pera (Die Birne)"
+    "correct": "b) La pera (Die Birne)"
   },
 
   {

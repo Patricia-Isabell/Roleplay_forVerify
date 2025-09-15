@@ -181,3 +181,28 @@ button.danger {
   background: linear-gradient(180deg, #ffe9e9, #ffdfdf);
   border-color: #f3c2c2;
 }
+.containerhome {
+  width: 100%;
+  min-height: 70vh;
+  background-color: brown;
+  margin: 0;
+  padding: 1rem;
+  border-radius: 15px;
+  background-image: url("../assets/picture_start.png");
+  background-size: cover;
+  background-position: center;
+}
+.card li {
+  list-style: none;
+}
+.containergame {
+  width: 100%;
+  min-height: 70vh;
+  background-color: brown;
+  margin: 0;
+  padding: 1rem;
+  border-radius: 15px;
+  background-image: url("../assets/dragon.png");
+  background-size: cover;
+  background-position: center;
+}

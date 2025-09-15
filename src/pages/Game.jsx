@@ -155,7 +155,7 @@ export default function Game() {
             <span className="badge">Motivation</span> {ch.motivation}
           </div>
           <div className="kpi">
-            <span className="badge">Woche</span> {ch.week}
+            <span className="badge">Aufgabe</span> {ch.week}
           </div>
         </div>
         <div className="row">
@@ -239,42 +239,44 @@ export default function Game() {
 
   // EVENTS (Story) – unverändert
   return (
-    <section className="stack">
-      <div className="card stack">
-        <h2>Woche {ch.week}</h2>
-        <p style={{ marginTop: "-.3rem" }}>
-          Ereignis: <strong>{event.title}</strong>
-        </p>
-        <p>{event.desc}</p>
-        <div className="row">
-          {event.choices.map((c) => (
-            <div key={c.id} className="stack" style={{ minWidth: 220 }}>
-              <button onClick={() => chooseEventChoice(c)}>{c.label}</button>
-              {c.requires && (
-                <small className="help">
-                  Erforderlich:{" "}
-                  {c.requires.anyOf
-                    .map((r) =>
-                      r.stat
-                        ? `${r.stat} ≥ ${r.gte ?? "?"}`
-                        : `${r.roll} ≥ ${r.gte ?? "?"}`
-                    )
-                    .join(" oder ")}
-                </small>
-              )}
-            </div>
-          ))}
+    <div className="containergame">
+      <section className="stack">
+        <div className="card stack">
+          <h2>Aufgabe {ch.week}</h2>
+          <p style={{ marginTop: "-.3rem" }}>
+            Ereignis: <strong>{event.title}</strong>
+          </p>
+          <p>{event.desc}</p>
+          <div className="row">
+            {event.choices.map((c) => (
+              <div key={c.id} className="stack" style={{ minWidth: 220 }}>
+                <button onClick={() => chooseEventChoice(c)}>{c.label}</button>
+                {c.requires && (
+                  <small className="help">
+                    Erforderlich:{" "}
+                    {c.requires.anyOf
+                      .map((r) =>
+                        r.stat
+                          ? `${r.stat} ≥ ${r.gte ?? "?"}`
+                          : `${r.roll} ≥ ${r.gte ?? "?"}`
+                      )
+                      .join(" oder ")}
+                  </small>
+                )}
+              </div>
+            ))}
+          </div>
         </div>
-      </div>
 
-      {result && (
-        <div className={result.ok ? "success" : "alert"}>
-          <strong>{result.ok ? "✔ Erfolg:" : "✖ Fehlversuch:"}</strong>{" "}
-          {result.text}
-        </div>
-      )}
+        {result && (
+          <div className={result.ok ? "success" : "alert"}>
+            <strong>{result.ok ? "✔ Erfolg:" : "✖ Fehlversuch:"}</strong>{" "}
+            {result.text}
+          </div>
+        )}
 
-      <ProgressCard />
-    </section>
+        <ProgressCard />
+      </section>
+    </div>
   );
 }

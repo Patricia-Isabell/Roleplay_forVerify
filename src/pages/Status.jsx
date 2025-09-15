@@ -27,7 +27,7 @@ export default function Status() {
             <span className="badge">Motivation</span> {ch.motivation}
           </div>
           <div className="kpi">
-            <span className="badge">Woche</span> {ch.week}
+            <span className="badge">Aufgabe</span> {ch.week}
           </div>
         </div>
       </div>
