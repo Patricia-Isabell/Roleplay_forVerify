@@ -286,57 +286,64 @@
   {
     "id": "L3Aa",
     "category": "foreign_languages",
-    "question": "Quid est id quod per omnia vadit et tamen numquam ab ipso loco movetur?",
-    "explanation": "",
-    "answers": ["a) Ein Weg (Via).", "b) Ein Fluss.", "c) Eine Entscheidung"],
-    "correct": "Ein Weg (Via)."
+    "question": "Quid est id quod per omnia vadit et tamen numquam ab ipso loco movetur? Was ist es, das alles durchmacht und sich dennoch nie von der Stelle bewegt?",
+    "answers": [
+      "a) Ein Weg (Via).",
+      "b) Ein Fluss (Influence).",
+      "c) Eine Entscheidung (Consultatio)"
+    ],
+    "correct": "a) Ein Weg (Via)."
   },
   {
     "id": "L3Ab",
     "category": "foreign_languages",
-    "question": "Quid est id quod semper ante te est, sed non potest videri?",
-    "explanation": "",
-    "answers": ["a) Die Gegenwart", "b) Die Vergangenheit", "c) Die Zukunft"],
-    "correct": "Die Zukunft (Futurum)."
+    "question": "Quid est id quod semper ante te est, sed non potest videri? Was ist das, was immer vor Ihnen liegt, aber nicht gesehen werden kann?",
+    "answers": [
+      "a) Die Gegenwart (Praesenti)",
+      "b) Die Vergangenheit (Praeterita)",
+      "c) Die Zukunft (Futurum)."
+    ],
+    "correct": "c) Die Zukunft (Futurum)."
   },
   {
     "id": "L3Ac",
     "category": "foreign_languages",
-    "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces?",
-    "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
-    "correct": "Eine Karte (Mappa)"
+    "question": "Quid est id quod habet urbes, non habet domos; habet montes, non habet arbores; habet aquam, non habet pisces? Was ist das, was Städte hat, aber keine Häuser; was Berge hat, aber keine Bäume; was Wasser hat, aber keine Fische?",
+    "answers": [
+      "a) Ein Buch (Liber)",
+      "b) Eine Geschichte (Narratio)",
+      "c) Eine Karte (Mappa)"
+    ],
+    "correct": "c) Eine Karte (Mappa)"
   },
   {
     "id": "L3Ad",
     "category": "foreign_languages",
-    "question": "Was bin ich? Ego sum, quae semper in principio, sed nunquam in fine. Duo me sequuntur semper, sed ego non movere. Ego non possum esse, nisi in verbo tuo.",
-    "explanation": "Ich bin, was immer am Anfang ist, aber niemals am Ende. Zwei folgen mir immer, aber ich bewege mich nicht. Ich kann nicht sein, außer in deinem Wort.",
+    "question": "Was bin ich? Ego sum, quae semper in principio, sed nunquam in fine. Duo me sequuntur semper, sed ego non movere. Ego non possum esse, nisi in verbo tuo. Ich bin, was immer am Anfang ist, aber niemals am Ende. Zwei folgen mir immer, aber ich bewege mich nicht. Ich kann nicht sein, außer in deinem Wort.",
     "answers": [
-      "a) Ein Buchstabe",
-      "b) Eine Startlinie",
-      "c) Eine Geschichte im Lehrbuch"
+      "a) Der Buchstabe e (im Lateinischen e oft ego = ich)",
+      "b) Eine Startlinie (im Lateinischen A linea incipiens)",
+      "c) Eine Geschichte im Lehrbuch (im Lateinischen Fabula in libro scholastico)"
     ],
-    "correct": "Der Buchstabe \"E\" (im Lateinischen oft \"Ego\" = ich)"
+    "correct": "a) Der Buchstabe e (im Lateinischen oft Ego = ich)"
   },
   {
     "id": "L3Ae",
     "category": "foreign_languages",
-    "question": "Wer bin ich? Ego possum videre sine oculis et audio sine auribus. Sum semper cum te, sed non possum tangere. Omnia sciunt me, sed non possum sentire.",
-    "explanation": "Ich kann sehen, ohne Augen, und hören, ohne Ohren. Ich bin immer bei dir, aber ich kann dich nicht berühren. Alle kennen mich, aber ich kann nicht fühlen.",
+    "question": "Wer bin ich? Ego possum videre sine oculis et audio sine auribus. Sum semper cum te, sed non possum tangere. Omnia sciunt me, sed non possum sentire. Ich kann sehen, ohne Augen, und hören, ohne Ohren. Ich bin immer bei dir, aber ich kann dich nicht berühren. Alle kennen mich, aber ich kann nicht fühlen.",
     "answers": [
-      "a) Ein Computer",
-      "b) Eine Zwillingsschwester",
-      "c) Deine Gedanken oder dein Geist"
+      "a) Ein Computer (im Lateinischen Computatorium)",
+      "b) Eine Zwillingsschwester (im Lateinischen Soror gemina)",
+      "c) Deine Gedanken oder dein Geist (im Lateinischen: cogitatio oder animus)"
     ],
-    "correct": "Deine Gedanken oder dein Geist (im Lateinischen: cogitatio oder animus)"
+    "correct": "c) Deine Gedanken oder dein Geist (im Lateinischen: cogitatio oder animus)"
   },
   {
     "id": "L3Af",
     "category": "foreign_languages",
-    "question": "Ich beginne mit *A*, habe aber keinen Mund. Ich bin eine Zahl, habe aber keine Hände. Ich kann alles tun, aber bin nie zu sehen. Ich kann nichts tun, aber bin immer da. Was bin ich?",
-    "explanation": "*A*: Die erste Zeile beginnt mit dem Buchstaben *A*. *keinen Mund*: Das lateinische Wort für *etwas* hat keinen Mund. *Ich bin eine Zahl, habe aber keine Hände*: Dies spielt auf die Unendlichkeit der Möglichkeiten an, die etwas haben kann, ohne tatsächlich körperliche Hände zu haben. *Ich kann alles tun, aber bin nie zu sehen*: Ein lateinischer Ausdruck, der die unendlichen Möglichkeiten eines Konzeptes beschreibt. *Ich kann nichts tun, aber bin immer da*: Dies ist ein Wortspiel auf die Unendlichkeit und die Präsenz des *etwas* in der Welt, selbst wenn es keine konkrete Handlung ausführt.",
-    "answers": ["a) viel", "b) wenig", "c) etwas"],
-    "correct": "Aliquid (etwas)"
+    "question": "Ich beginne mit A, habe aber keinen Mund. Ich bin eine Zahl, habe aber keine Hände. Ich kann alles tun, aber bin nie zu sehen. Ich kann nichts tun, aber bin immer da. Was bin ich? Die erste Zeile beginnt mit dem Buchstaben A. keinen Mund: Das lateinische Wort für etwas hat keinen Mund. Ich bin eine Zahl, habe aber keine Hände: Dies spielt auf die Unendlichkeit der Möglichkeiten an, die etwas haben kann, ohne tatsächlich körperliche Hände zu haben. Ich kann alles tun, aber bin nie zu sehen: Ein lateinischer Ausdruck, der die unendlichen Möglichkeiten eines Konzeptes beschreibt. Ich kann nichts tun, aber bin immer da: Dies ist ein Wortspiel auf die Unendlichkeit und die Präsenz des etwas in der Welt, selbst wenn es keine konkrete Handlung ausführt.",
+    "answers": ["a) Multum (viel)", "b) Pauci (wenig)", "c) Aliquid (etwas)"],
+    "correct": "c) Aliquid (etwas)"
   },
   {
     "id": "M1a",
