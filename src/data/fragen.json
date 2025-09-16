@@ -4,59 +4,66 @@
     "category": "economics",
     "question": "Was versteht man unter Kapitalfreisetzungseffekt?",
     "answers": [
-      "Der Kapitalfreisetzungseffekt besagt, dass Anlagevermögensgegenstände, die der Abschreibung unterliegen, Mittel freisetzen, wenn das Unternehmen die Abschreibungsbeträge in die Preise einrechnen und diese Preise am Markt durchsetzen kann."
+      "a) Der Kapitalfreisetzungseffekt besagt, dass Anlagevermögensgegenstände, die der Abschreibung unterliegen, Mittel freisetzen, wenn das Unternehmen die Abschreibungsbeträge in die Preise einrechnen und diese Preise am Markt durchsetzen kann.",
+      "b) Kapitalfeisetzungseffekt ist wenn Rationalisierungseffekte auftreten, die zwar Kosten sparen, aber keine Investitionsmittel zur Verfügung stellen.",
+      "c) Kapitalfreisetzungseffekt liegt bei Ersatzinvestitionen und Kapazitätserweiterungsinvestitionen vor."
     ],
-    "correct": "Abschreibungsbetäge werden in die Preise eingerechnet."
+    "correct": "a) Der Kapitalfreisetzungseffekt besagt, dass Anlagevermögensgegenstände, die der Abschreibung unterliegen, Mittel freisetzen, wenn das Unternehmen die Abschreibungsbeträge in die Preise einrechnen und diese Preise am Markt durchsetzen kann.Abschreibungsbetäge werden in die Preise eingerechnet."
   },
   {
     "id": "BWL2b",
     "category": "economics",
-    "explanation": "Transportlogistik umfasst die Planung und Durchführung von Maßnahmen zur optimalen Gestaltung des Transportes bei der Wahl der Transportmittel, Transportwege, Beladung und Entladung, Übergabe usw. Transportwirtschaft Die Transportwirtschaft dient der Ortsveränderung von Personen, Gütern und Nachrichten auf dem Lande, auf dem Wasser, in der Luft sowie mittels Leitungssystemen, wie dies folgende Abbildung verdeutlichen soll: Rohrleitungs- betriebe Schienenverkehrs- betriebe Luftverkehrs- betriebe Schifffahrts- betriebe Straßenverkehrs- betriebe",
-    "question": "Welche Perspektiven ergeben sich für die Transportwirtschaft für die Zukunft?",
+    "question": "Transportlogistik umfasst die Planung und Durchführung von Maßnahmen zur optimalen Gestaltung des Transportes bei der Wahl der Transportmittel, Transportwege, Beladung und Entladung, Übergabe usw. Transportwirtschaft Die Transportwirtschaft dient der Ortsveränderung von Personen, Gütern und Nachrichten auf dem Lande, auf dem Wasser, in der Luft sowie mittels Leitungssystemen, wie dies folgende Abbildung verdeutlichen soll: Rohrleitungs- betriebe Schienenverkehrs- betriebe Luftverkehrs- betriebe Schifffahrts- betriebe Straßenverkehrs- betriebe. Welche Perspektiven ergeben sich für die Transportwirtschaft für die Zukunft?",
     "answers": [
-      "Entwicklung energie- und kostensparender Transportmittel sowie - umweltfreundlichere und sichere Transportmittel - Einsatz von Satellitennavigationssystemen (GPS) zur optimalen Routenwahl und Packetverfolgungsdienste - normierte Verpackungen z.B. Container … - Verkürzung der Standzeiten, Verminderung der Umschlagszeiten durch technisch automatisierte Einrichtungen zum Ein- und Ausladen - Kooperationsformen der Verkehrsbetriebe - engere Kooperation vieler Transportbetriebe als Logistikpartner aufgrund des starken Wettbewerbs"
+      "a)Isolation von Weltmärkten. Das bedeutet Vermeidung internationalen Handels.",
+      "b) Entwicklung energie- und kostensparender Transportmittel sowie - umweltfreundlichere und sichere Transportmittel - Einsatz von Satellitennavigationssystemen (GPS) zur optimalen Routenwahl und Packetverfolgungsdienste - normierte Verpackungen z.B. Container … - Verkürzung der Standzeiten.",
+      "c) Verminderung der Umschlagszeiten durch technisch automatisierte Einrichtungen zum Ein- und Ausladen - Kooperationsformen der Verkehrsbetriebe - engere Kooperation vieler Transportbetriebe als Logistikpartner aufgrund des starken Wettbewerbs."
     ],
-    "correct": "umweltfreundlichere Transportmittel"
+    "correct": "b) Entwicklung energie- und kostensparender Transportmittel sowie - umweltfreundlichere und sichere Transportmittel - Einsatz von Satellitennavigationssystemen (GPS) zur optimalen Routenwahl und Packetverfolgungsdienste - normierte Verpackungen z.B. Container … - Verkürzung der Standzeiten."
   },
   {
     "id": "BWL2c",
     "category": "economics",
-    "explanation": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr.",
-    "question": "Was ist die Binnenschifffahrt?",
+    "question": "Schifffahrtsbetriebe bieten gegenüber dem Landtransport erhebliche Vorteile, dazu zählen ihre hohen Kapazitätsreserven für den Transport großer Mengen, die Entlastung von überlasteten Straßen sowie eine geringe Umweltbelastung durch geringere Lärm- und Schadstoffemissionen im Vergleich zum Straßengüterverkehr. Was ist die Binnenschifffahrt?",
     "answers": [
-      "Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt."
+      "a) Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt.",
+      "b) Binnenschiffahrt beschreibt Seeschifffahrt (Transport auf Meeren und Ozeanen, z. B. Containerschiffe zwischen Kontinenten)",
+      "c) Hochseeschifffahrt (internationale Schifffahrt auf hoher See)"
     ],
-    "correct": "Donauschifffahrt"
+    "correct": "a) Binnenschifffahrt beschreibt die Personen- und Güterbeförderung zu inländischen Wässer z.B. Donauschifffahrt."
   },
   {
     "id": "BWL2d",
     "category": "economics",
-    "explanation": "Bei der Beförderung von Gütern zu See ist die Ausstellung eines Konnossement oder Bill ofLading (B/L) üblich. Unter einem Konnossement versteht man ein Frachtpapier, in dem sichder Verfrachter verpflichtet, ein zur Beförderung übernommenes Gut, in einem bestimmtenSeehafen gegen Vorlage dieser Urkunde, an den Berechtigten auszufolgen. Das Konnossement ist somit ein Traditions- bzw. Dispositionspapier und ermöglicht einesymbolische Übergabe.",
-    "question": "Was versteht man unter Schwimmender Ware?",
+    "question": "Bei der Beförderung von Gütern zu See ist die Ausstellung eines Konnossement oder Bill ofLading (B/L) üblich. Unter einem Konnossement versteht man ein Frachtpapier, in dem sichder Verfrachter verpflichtet, ein zur Beförderung übernommenes Gut, in einem bestimmtenSeehafen gegen Vorlage dieser Urkunde, an den Berechtigten auszufolgen. Das Konnossement ist somit ein Traditions- bzw. Dispositionspapier und ermöglicht einesymbolische Übergabe. Was versteht man unter Schwimmender Ware?",
     "answers": [
-      "Als schwimmende Ware wird Ware bezeichnet, die sich noch auf dem Weg vom Verkäufer zum Käufer befindet und per Schiff versandt wird."
+      "a) Als schwimmende Ware wird Ware bezeichnet, die vorzugsweise auf dem Wasser transportiert wird, wie z. B. empfindliche Elektronik, Lebensmittel, Ersatzteile, Expresslieferungen.",
+      "b) Als schwimmende Ware wird Ware bezeichnet, die sich noch auf dem Weg vom Verkäufer zum Käufer befindet und per Schiff versandt wird.",
+      "c) Als „schwimmende Ware“ wird Ware bezeichnet, die selbst schwimmt – also z. B. dass die Güter buchstäblich auf dem Wasser treiben können. "
     ],
-    "correct": "„Schwimmende Ware“ kann somit jederzeit verkauft oder bei Bedarf verpfändet werden."
+    "correct": "b) Als schwimmende Ware wird Ware bezeichnet, die sich noch auf dem Weg vom Verkäufer zum Käufer befindet und per Schiff versandt wird."
   },
   {
     "id": "BWL2e",
     "category": "economics",
-    "explanation": "Die Bedeutung des Air Cargo (= Luft-Gütertransport) hat in den letzten Jahren an Bedeutung zugenommen, zumal die Kostenspannen im Vergleich zu anderen Transportmitteln geringer wurden. Das entsprechende Dispositionspapier im Air Cargo Bereich bezeichnet man als Airwaybill oder Luftfrachtbrief. Der Luftfrachtbrief ist ähnlich wie das Konnossement ein international einheitlicher Formularsatz.",
-    "question": "Wie kann der Personenluftverkehr, als überwiegender Anteil am Gesamtluftverkehr noch unterschieden werden?",
+    "question": "Die Bedeutung des Air Cargo (= Luft-Gütertransport) hat in den letzten Jahren an Bedeutung zugenommen, zumal die Kostenspannen im Vergleich zu anderen Transportmitteln geringer wurden. Das entsprechende Dispositionspapier im Air Cargo Bereich bezeichnet man als Airwaybill oder Luftfrachtbrief. Der Luftfrachtbrief ist ähnlich wie das Konnossement ein international einheitlicher Formularsatz. Was ist Personenluftverkehr im Gesamtluftverkehr?",
     "answers": [
-      "Linienflugbetrieb (va. Turismus und Geschäftsreisen) und Charterflüge (va. private Kleinflieger …) unterschieden werden."
+      "a) Expresslieferungen",
+      "b) Verderbliche Waren, z. B. Obst, Blumen und Medikamente",
+      "c) Linienflugbetrieb (Turismus und Geschäftsreisen) und Charterflüge (private Kleinflieger) unterschieden werden."
     ],
-    "correct": "Linienflugbetrieb"
+    "correct": "c) Linienflugbetrieb (Turismus und Geschäftsreisen) und Charterflüge (private Kleinflieger) unterschieden werden."
   },
   {
     "id": "BWL2f",
     "category": "economics",
-    "explanation": "Rohrleitungsbetriebe: Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu. Für Rohrleitungsbeförderung geeignete Güter sind bspw.: gasförmige Güter (z.B. Yamal-Erdgasleitung von der westsibirischen Halbinsel nach Mittel- und Westeuropa – über 5.000 km), Wasser (va. im kommunalen Bereich der Kanalisation), Erdöl und Raffinerieprodukte (z.B. Adria-Wien-Ölpipeline über 420 km), Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver mit Wasser gemischt). Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierungsstationen. Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen Transport- und Verkehrsbetrieben, ist eine sehr kapitalintensive Angelegenheit und kann daher idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden.",
-    "question": "Von was ist die Nutzung und Auslastung ebenso wie in anderen Bereichen stark abhängig?",
+    "question": "Rohrleitungsbetriebe: Die Bedeutung von Rohrleitungsbetrieben (Pipelines) für die Versorgung der Wirtschaft mit bestimmten, für Rohrleitungsbeförderung geeigneten Produkten nimmt ständig zu. Für Rohrleitungsbeförderung geeignete Güter sind bspw.: gasförmige Güter (z.B. Yamal-Erdgasleitung von der westsibirischen Halbinsel nach Mittel- und Westeuropa – über 5.000 km), Wasser (va. im kommunalen Bereich der Kanalisation), Erdöl und Raffinerieprodukte (z.B. Adria-Wien-Ölpipeline über 420 km), Feststoffe wie Kohle, Mineralien und Erze in Form von „Trübe“ (zermahlene Pulver mit Wasser gemischt). Neben dem Betrieb der Rohrleitungen werden auch umfangreiche Investitionen im Bereich der Betriebsmittel notwendig, wie bspw. Pump-, Schieber- und Druckregulierungsstationen. Die Errichtung und Nutzung von Rohrleitungsbetrieben, wie auch bei allen anderen Transport- und Verkehrsbetrieben, ist eine sehr kapitalintensive Angelegenheit und kann daher idR nur von großen Unternehmen bzw. in Kooperationsformen realisiert werden. Von was ist die Nutzung und Auslastung von Rohrleitungsbetrieben ebenso wie in anderen Bereichen stark abhängig?",
     "answers": [
-      "Die Auslastung ist von der vorhandenen Infrastruktur abhängig."
+      "a) Die Auslastung ist nicht abhängig von der Höhe des tatsächliche Transportbedarf (z. B. Gas, Öl, Wasser). ",
+      "b) Die Auslastung hängt nicht vom Druck im System ab (Pumpen- oder Kompressordruck).",
+      "c) Die Auslastung ist von der vorhandenen Infrastruktur abhängig."
     ],
-    "correct": "abhängig davon, welche Wege und Zeiten dem jeweiligen Transportmittel zur Verfügung stehen usw."
+    "correct": "c) Die Auslastung ist von der vorhandenen Infrastruktur abhängig."
   },
 
   {
