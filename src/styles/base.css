@@ -197,7 +197,7 @@ button.danger {
 }
 .containergame {
   width: 100%;
-  min-height: 100vh;
+  min-height: 80vh;
   background-color: brown;
   margin: 0;
   padding: 1rem;
@@ -205,4 +205,19 @@ button.danger {
   background-image: url("../assets/picture_decisiongame.jpg");
   background-size: contain;
   background-position: center;
+}
+.finalbg {
+  min-height: 70vh;
+  background: url("../assets/picture_final.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding: 2rem;
+  border-radius: 15px;
+}
+.finalbg .card.final {
+  background: rgba(255, 255, 255, 0.699);
+  backdrop-filter: blur(1px);
 }
