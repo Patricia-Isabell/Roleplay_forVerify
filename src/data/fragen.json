@@ -162,14 +162,9 @@
   {
     "id": "F3Af",
     "category": "foreign_languages",
-    "question": "Avec qui Pierre discute-t-il?",
-    "explanation": "Übersetzung auf Deutsch",
-    "answers": [
-      "a) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
-      "b) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère",
-      "c) a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"
-    ],
-    "correct": "a avec un nouveau camaradeb avec sa petite sœurc avec son professeurd avec sa mère"
+    "question": "",
+    "answers": ["a) ", "b) ", "c) "],
+    "correct": "b) "
   },
   {
     "id": "G3Ba",
@@ -180,7 +175,7 @@
       "b) an der falschen Einstellung",
       "c) am Modell der Nähmaschine"
     ],
-    "correct": ""
+    "correct": "b) an der falschen Einstellung"
   },
   {
     "id": "G3Bb",
@@ -199,24 +194,24 @@
     "question": "Was gibt es für Tricks beim Arbeiten mit Perlen?",
     "answers": [
       "a) die Perlen nach Farben sortieren",
-      "b) ein Garn zum einfädeln der Perlen benutzen",
+      "b) ein Garn zum einfädeln der Perlen benutzen.",
       "c) die Perlen in gleichen Größen auffädeln."
     ],
-    "correct": ""
+    "correct": "b) ein Garn zum einfädeln der Perlen benutzen."
   },
   {
-    "id": "G3Be",
+    "id": "G3Bd",
     "category": "creative_artists",
     "question": "Wie näht man von Hand korrekt?",
     "answers": [
       "a) zuerst das Garn einfädeln",
-      "b) Knoten",
+      "b) Einfädeln, Knoten, Fadenenden sichern",
       "c) Fadenenden sichern"
     ],
-    "correct": "einfädeln, Knoten, Fadenenden sichern"
+    "correct": "b) Einfädeln, Knoten, Fadenenden sichern"
   },
   {
-    "id": "G3Bf",
+    "id": "G3Be",
     "category": "creative_artists",
     "question": "Warum kann es beim Nähen zu Knotenbildung kommen?",
     "answers": [
@@ -224,7 +219,7 @@
       "b) durch eine zu geringe Fadenspannungten",
       "c) durch ein falsches Spulen der Unterfadenspule"
     ],
-    "correct": "durch ein falsches Einfädeln des Ober- oder Unterfadens oder durch eine zu geringe Fadenspannungten oder durch ein falsches Spulen der Unterfadenspule"
+    "correct": "a) durch ein falsches Einfädeln des Ober- oder Unterfadens"
   },
   {
     "id": "K3Ba",
@@ -232,33 +227,32 @@
     "question": "Wie werden die Stilepochen in aller Regel eingeordnet, was ist richtig?",
     "answers": [
       "a) Romantik, Gotik, Renaissance",
-      "b) Manierismus, Barock, Rokoko",
-      "c) Klassizismus, Romantik, Impressionismus"
+      "b) Manierik, Barockokoko",
+      "c) Klassizistik, Impressionistik"
     ],
-    "correct": "Romanik, Gotik, Renaissance, Manierismus, Barock, Rokoko, Klassizismus, Romantik, Impressionismus."
+    "correct": "a) Romanik, Gotik, Renaissance"
   },
   {
     "id": "K3Bb",
     "category": "creative_artists",
-    "question": "Was ist unter dem Begriff *Romantik* zu verstehen?",
+    "question": "Was ist unter dem Begriff Romantik zu verstehen?",
     "answers": [
       "a) beginnende Industrialisierung sowie zunehmende Landflucht in die Städte",
-      "b) die Auflösung des *Heiligen Römischen Reiches Deutscher Nation*",
-      "c) Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte"
+      "b) die Gründung des Heiligen Römischen Reiches Deutscher Nation",
+      "c) Kaiser Napoleons I. Bonaparte Hochzeit in Frankreich"
     ],
-    "correct": "Abeginnende Industrialisierung sowie zunehmender Landflucht in die Städte, die Auflösung des *Heiligen Römischen Reiches Deutscher Nation* und Kaiser Napoleons I. Bonaparte (1769-1821), der über Frankreich und über Europa bestimmte."
+    "correct": "a) beginnende Industrialisierung sowie zunehmende Landflucht in die Städte"
   },
   {
     "id": "K3Bc",
     "category": "creative_artists",
-    "question": "Was ist der Ursprung und Name des Impressionismus?",
+    "question": "Der ausgesprochen charmant und gefällig daherkommende Stil des Impressionismus mit seinen freundlichen Lichtstimmungen, der leuchtend klaren Farbgebung sowie den das Leben bejahend anmutenden Themengebieten, hat seinen Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet. Was ist der Ursprung und Name des Impressionismus?",
     "answers": [
-      "a)Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris.",
-      "b) Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
-      "c) detaillierte, realistische Darstellungen zu politischen Anlässen"
+      "a) Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris.",
+      "b) Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Johann Sebastan Bach.",
+      "c) Der Urprung des Impressionismus ist die detaillierte und realistische Darstellungen zu politischen Anlässen."
     ],
-    "explanation": "Der ausgesprochen charmant und gefällig daherkommende Stil des Impressionismus mit seinen freundlichen Lichtstimmungen, der leuchtend klaren Farbgebung sowie den das Leben bejahend anmutenden Themengebieten, hat seinen Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet.",
-    "correct": "Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris. Namensgeber war das Bild ‚Impression, soleil levant‘/‚Eindruck eines Sonnenaufgangs‘ oder auch ‚Aufgehende Sonne‘ von Claude Monet."
+    "correct": "a) Ursprung in der ersten gemeinsamen Ausstellung überwiegend französischer Künstler 1874 in Paris."
   },
   {
     "id": "K3Bd",
@@ -266,16 +260,17 @@
     "question": "Welche Berufsgruppen zählen zu den Künstlern?",
     "answers": [
       "a) Bildhauer (z. B. Steinbildhauer oder Metallbildhauer)",
-      "b) Comiczeichner c) Schauspieler"
+      "b) Heilpraktiker",
+      "c) Pferdeflüsterer"
     ],
-    "correct": "Bildhauer, Comiczeichner"
+    "correct": "a) Bildhauer (z. B. Steinbildhauer oder Metallbildhauer)"
   },
   {
     "id": "K3Be",
     "category": "creative_artists",
     "question": "Wer ist der bekannteste lebende Künstler?",
-    "answers": ["a)Pablo Picasso", "b)Gustav Klimt"],
-    "correct": "Gerhard Richter"
+    "answers": ["a) Pablo Picasso", "b) Gustav Klimt", "c) Gerhard Richter"],
+    "correct": "c) Gerhard Richter"
   },
   {
     "id": "K3Bf",
@@ -284,9 +279,9 @@
     "answers": [
       "a) Vincent van Gogh",
       "b) Peter Paul Rubens",
-      "c)Pablo Picasso"
+      "c) Pablo Picasso"
     ],
-    "correct": "Vincent van Gogh"
+    "correct": "c) Vincent van Gogh"
   },
   {
     "id": "L3Aa",
