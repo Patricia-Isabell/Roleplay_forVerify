@@ -69,9 +69,8 @@
   {
     "id": "RW2d",
     "category": "economics",
-    "question": "Was sind Personengesellschaften?",
-    "explanation": "Personengesellschaften, also beispielsweise OHG, KG oder eine Mischform wie die GmbH & Co. KG sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen. Besondere Personengesellschaften wie GbR oder PartG sind hingegen nicht betroffen, da sie keinen Kaufmanns-Status im Sinne des HGB besitzen bzw. für Freiberufler ausgelegt sind.",
-    "answers": [
+    "question": "Personengesellschaften, also beispielsweise OHG, KG oder eine Mischform wie die GmbH & Co. KG sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen. Besondere Personengesellschaften wie GbR oder PartG sind hingegen nicht betroffen, da sie keinen Kaufmanns-Status im Sinne des HGB besitzen bzw. für Freiberufler ausgelegt sind. Was sind Personengesellschaften?",
+    "answer": [
       "a) Personengesellschaften sind zwingend bilanzierungspflichtig, müssen die Bilanzen aber nicht veröffentlichen.",
       "b) GmbH & Co. KG sind nicht bilanzierungspflichtig",
       "c) Besondere Personengesellschaften wie GbR oder PartG unterliegen auch der Pflicht ihre Bilanzen zu veröffentlichen."
@@ -82,78 +81,84 @@
   {
     "id": "RW2e",
     "category": "economics",
-    "question": "Was ist eine Bilanz?",
-    "explanation": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung.",
+    "question": "Das betriebliche Rechnungswesen dient der Planung, Steuerung und Kontrolle des Unternehmensgeschehens. Dazu beinhaltet es verschiedene Verfahren zur systematischen Erfassung und Auswertung aller quantifizierbaren Vorgänge der Unternehmung. Was ist eine Bilanz?",
     "answers": [
-      "a) Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses.",
-      "b) Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens.",
-      "c) Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung",
-      "d) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."
+      "a) Die Bilanz ist kein Teil des Jahresabschlusses.",
+      "b) Die Bilanz umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens.",
+      "c) Eine Bilanz informiert nicht über die aktuelle Vermögenslage eines Unternehmens, dokumentiert nicht die Geschäftsvorgänge und hilft nicht bei der Gewinnermittlung",
+      "d) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheiden nicht darüber, ob das Unternehmen eine Bilanz aufstellen muss."
     ],
-    "correct": "Die Bilanz ist zusammen mit der GuV ein Teil des Jahresabschlusses. Sie umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens. Eine Bilanz informiert über die aktuelle Vermögenslage eines Unternehmens, dokumentiert die Geschäftsvorgänge und hilft bei der Gewinnermittlung. Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheide darüber, ob es eine Bilanz aufstellen muss."
+    "correct": "b) Die Bilanz umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens."
   },
 
   {
     "id": "RW2f",
     "category": "economics",
-    "question": "Was ist die Körperschaftsteuer? Welche Aussage ist richtig?",
-    "explanation": "Die Körperschaftsteuer, kurz KSt, wird auf das Einkommen bzw. den Gewinn von juristischen Personen (z. B. Kapitalgesellschaften, Vereine, Zweckbetriebe, Geschäftsbetriebe etc.) erhoben – also komplementär zur :hund:Einkommensteuer für Selbstständige. Wie die :hund:Gewerbesteuer ist die Körperschaftsteuer eine Unternehmenssteuer.",
+    "question": "Die Körperschaftsteuer, kurz KSt, wird auf das Einkommen bzw. den Gewinn von juristischen Personen (z. B. Kapitalgesellschaften, Vereine, Zweckbetriebe, Geschäftsbetriebe etc.) erhoben – also komplementär zur :hund:Einkommensteuer für Selbstständige. Wie die :hund:Gewerbesteuer ist die Körperschaftsteuer eine Unternehmenssteuer.Was ist die Körperschaftsteuer? Welche Aussage ist richtig?",
     "answers": [
       "a) Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht",
       "b) Die Körperschaftssteuer ist die Einkommenssteuer pro Person.",
       "c) Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."
     ],
-    "correct": "Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht. Die Körperschaftsteuer wurde zum ersten Mal 1920 abgeführt, nach der Einführung des Körperschaftsteuergesetzes (KStG) im Zuge einer Finanzreform."
+    "correct": "a) Die Körperschaftsteuer wird auch als Gemeinschaftsteuer bezeichnet, da sie sowohl Bund als auch Ländern zusteht."
   },
   {
     "id": "S3Aa",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
-    "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)",
-    "answers": ["a) ", "b) Un alfiler (Eine Stecknadel)", "c) "],
-    "correct": "Un alfiler (Eine Stecknadel)"
+    "question": "Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken. ¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
+    "answers": [
+      "a) Un animal zapatilla",
+      "b) Un alfiler",
+      "c) Una creatura marina"
+    ],
+    "correct": "b) Un alfiler"
   },
   {
     "id": "S3Ab",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
-    "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
-    "answers": ["a)", "b) Un secreto (Ein Geheimnis)", "c) "],
-    "correct": "Un secreto (Ein Geheimnis)"
+    "question": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen).¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
+    "answers": ["a) Un delito", "b) Un secreto", "c) Una conspiracion"],
+    "correct": "b) Un secreto"
   },
   {
     "id": "S3Ac",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
-    "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
-    "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
-    "correct": "b) La pera (Die Birne)"
+    "question": "Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte. ¿Qué es, qué es? Blanca por dentro, verde por fuera y ya ha crecido. Si quieres que te lo diga, espera. ",
+    "answers": ["a) Un marciano", "b) La pera", "c) Una sandia "],
+    "correct": "b) La pera"
   },
 
   {
     "id": "S3Ad",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
-    "explanation": "(Sie hat Zähne und beißt nicht.)",
-    "answers": ["a) ", "b) Un peine (Ein Kamm)", "c) "],
-    "correct": "Un peine (Ein Kamm)"
+    "question": "(Sie hat Zähne und beißt nicht.) ¿Qué es, qué es? Tiene dientes y no muerde.",
+    "answers": [
+      "a) Un par de alicates ",
+      "b) Un peine",
+      "c) Un mecanismo de relojería "
+    ],
+    "correct": "b) Un peine"
   },
   {
     "id": "S3Ae",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
-    "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
-    "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
+    "question": "(Was steigt und fällt, aber bewegt sich nicht?).¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
+    "answers": [
+      "a) El nivel del agua de un río",
+      "b) La temperatura (Die Temperatur)",
+      "c) Los precios en la bolsa de valores "
+    ],
     "correct": "La temperatura (Die Temperatur)"
   },
 
   {
     "id": "S3Af",
     "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
-    "explanation": "(Was hat ein Auge und kann nicht sehen?)",
-    "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "]
+    "question": "¿(Was hat ein Auge und kann nicht sehen?) Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
+    "answers": ["a) Un tornado", "b) Una aguja", "c) Un usuario de gafas"],
+    "correct": "b) Una aguja"
   },
+
   {
     "id": "F3Af",
     "category": "foreign_languages",
