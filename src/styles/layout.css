@@ -1,5 +1,5 @@
 main {
-  padding: 1.2rem 0;
+  padding: 0;
   padding-top: calc(var(--header-h) + 1.2rem);
   padding-bottom: calc(var(--footer-h) + 1.2rem);
 }
