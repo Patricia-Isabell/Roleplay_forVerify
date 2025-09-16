@@ -1,13 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vite + React</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+
+  <!doctype html>
+  <html>
+
   <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
+    <meta charset="utf-8" />
+    <title>Wahlpflichtfacherwahl</title>
+    <style>
+      body {
+        font-family: system-ui, Arial;
+        padding: 24px;
+      }
+
+      .card {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 18px;
+        border-radius: 12px;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+        background: white;
+      }
+
+      button {
+        margin-top: 12px;
+        padding: 8px 12px;
+      }
+    </style>
   </head>
+
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <div class="card" id="wahlpflichtfach"></div>
+
+    <script>
+      const q = {
+        id: "L3Af",
+        category: "foreign_languages",
+        question: "Ich beginne mit A, habe aber keinen Mund. Ich bin ein Wort, keine Zahl. Ich kann alles bedeuten, bin aber unsichtbar. Was bin ich?",
+        explanation: "Antwort: 'Aliquid' (lateinisch: 'etwas').",
+        answers: ["a) viel", "b) wenig", "c) etwas"],
+        correct: "c",
+        correctText: "Aliquid (lateinisch für 'etwas')"
+      };
+
+      const root = document.getElementById('wahpflichtfach');
+      root.innerHTML = `
+          <h2>${q.question}</h2>
+          <div id="choices"></div>
+          <div id="result" style="margin-top:12px;"></div>
+        `;
+      const choices = document.getElementById('choices');
+      q.answers.forEach((a, i) => {
+        const letter = ['a', 'b', 'c'][i];
+        const btn = document.createElement('button');
+        btn.textContent = a;
+        btn.onclick = () => {
+          const ok = letter === q.correct;
+          document.getElementById('result').innerHTML = ok
+            ? '<strong style="color:green">Richtig!</strong> ' + q.correctText + '<div style="margin-top:8px;font-size:0.95em;color:#555">' + q.explanation + '</div>'
+            : '<strong style="color:red">Falsch.</strong> Richtige Antwort: ' + q.correctText;
+        };
+        choices.appendChild(btn);
+        choices.appendChild(document.createTextNode(' '));
+      });
+    </script>
   </body>
+
+  </html>
+
+</body>
+
 </html>
