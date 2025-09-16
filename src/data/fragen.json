@@ -370,91 +370,74 @@
   {
     "id": "M1c",
     "category": "math",
-    "question": "Lala, Lela und Lila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt.",
-    "answers": [
-      "Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht."
-    ],
-    "correct": "Lila"
+    "question": "Nala, Nela und Nila sind Drillinge und sehen völlig gleich aus. Eines Tages treffen Sie eines der drei Mädchen und wollen wissen, ob es Lala ist. Sie dürfen dazu dem Mädchen eine Frage stellen, die es mit »ja« oder »nein« beantworten kann und die aus nicht mehr als drei Wörtern besteht. Sie wissen, dass Lala und Lela immer lügen und Lila immer die Wahrheit sagt. Ihre Frage könnte lauten: »Bist du Lela?« Lala würde lügen und darum mit »ja« antworten. Und auch Lela würde lügen und deshalb »nein« sagen. Lila hingegen würde wahrheitsgemäß mit »nein« antworten. Sie bekommen folglich ihre eigentliche Frage »Bist du Lala?«, die Sie aber gar nicht gestellt haben, korrekt beantwortet, unabhängig davon, welches der Mädchen vor Ihnen steht.",
+    "answers": ["a) Nala", "b) Lela", "c) Nila"],
+    "correct": "c) Nila"
   },
 
   {
     "id": "M1d",
     "category": "math",
-    "question": "Der grüne und der lila Halbkreis liegen auf dem Durchmesser des Außenkreises. Der Durchmesser des grünen Halbkreises steht zum Durchmesser des lila Halbkreises im Verhältnis . In welchem Verhältnis, in Abhängigkeit von  steht der Inhalt des Arbelos zum Inhalt des blauen Halbkreises?",
+    "question": "Anna ist 7 Jahre älter als Ben. In 3 Jahren wird Anna doppelt so alt sein wie Ben. Stelle eine Gleichung mit B = Bens Alter. Wie alt sind Anna und Ben jetzt?",
     "answers": [
-      "Verbindet man die Enden des Durchmessers des Außenkreises mit der Ecke des blauen Halbkreises, mit der dieser den Außenkreis berührt, entsteht ein Dreieck (rot), das nach dem Satz des Thales rechtwinklig ist. Dessen Hypotenusenhöhe ist der Durchmesser des blauen Halbkreises. Nach dem Höhensatz des Euklid ist das Produkt der beiden Hypotenusenabschnitte gleich dem Höhenquadrat.Bezeichnet man die Radien der drei Halbkreise mit  und  so gilt deshalb  oder Um die Fläche  des Arbelos zu bestimmen, muss man von der halben Fläche des Außenkreises die Flächen des grünen und des lila Halbkreise abziehen. Es gilt also  was sich zu vereinfachen lässt. Der blaue Halbkreis hat den Inhalt. Da ist, wird daraus. Damit bekommt man für das gesuchte Verhältnis. Dieser Wert ist unabhängig von Durchmesserverhältnis des grünen und des lila Halbkreises.."
+      "a) Ben ist 11 Jahre alt.",
+      "b) Anna ist 11 Jahre alt.",
+      "c) Ben und Anna sind zusammen 14 Jahre alt."
     ],
-    "correct": "blauer Halbkreis"
+    "correct": "b) Anna ist 11 Jahre alt."
   },
 
   {
     "id": "M1e",
     "category": "math",
-    "question": "In der Aufgabe 14 des Papyrus soll der Rauminhalt des Stumpfes einer geraden Pyramide berechnet werden. Grundfläche und Deckfläche des Pyramidenstumpfs sind Quadrate der Seitenlängen 4 beziehungsweise 2. Der Pyramidenstumpf hat die Höhe 6. Wie groß ist sein Volumen?",
-    "answers": [
-      "Im Moskauer Papyrus wird der Pyramidenstumpf in einen Quader, vier Prismen und vier Pyramiden zerlegt. Dann werden die Volumina der Teilkörper einzeln berechnet. Der Quader hat das Volumen, jedes Prisma das Volumen und jede Pyramide das Volumen. Somit beträgt das Volumen des Pyramidenstumpfs."
-    ],
-    "correct": "Pyramidenstumpf"
-  },
-
-  {
-    "id": "M1f",
-    "category": "math",
-    "question": "Die kleinste Primzahl mit einer geraden Zahl von Stellen ist 11. Die Zahl 11 ist gleichzeitig ein Palindrom, also eine Zahl, die man von links nach rechts und auch von rechts nach links lesen kann, ohne dass sich ihr Wert ändert. Wie lautet die nächstgrößere Primzahl, die eine gerade Anzahl von Stellen hat und gleichzeitig ein Palindrom ist?",
-    "answers": [
-      "Lösung: Eine Zahl ist genau dann durch 11 teilbar, wenn ihre alternierende Quersumme ein Vielfaches von 11 ist. Die alternierende Quersumme einer Zahl erhält man, wenn man ihre Ziffern immer abwechselnd addiert und subtrahiert. So hat beispielsweise die alternierende Quersumme von 2 041 989 den Wert 2 – 0 + 4 – 1 + 9 – 8 + 9 = 15. Folglich ist 2 041 989 nicht durch 11 teilbar.Jedes Palindrom p mit einer geraden Zahl von Stellen hat die Form p = a1a2a3...anan…a3a2a1, wobei a1, a2, a3, ..., an die Ziffern von p sind. Die alternierende Quersumme Q von p ist Q = a1 – a2 + a3 – a4 + a5 – ... – a5 + a4 – a3 + a2 – a1. Zu jeder Ziffer, die addiert wird, gibt es also eine gleichgroße, die subtrahiert wird. Das Ergebnis ist folglich Q = 0. Da 0 natürlich durch 11 teilbar ist, muss auch jedes Palindrom mit einer geraden Anzahl von Stellen durch 11 teilbar sein. Es kann deshalb außer 11 selbst keine Primzahl geben, die ein Palindrom mit einer geraden Stellenzahl ist."
-    ],
-    "correct": "Es gibt keine außer 11"
+    "question": "Finde die kleinste positive Zahl, die durch 4, 6, 9 und 12 teilbar ist, aber nicht durch 8.",
+    "answers": ["a)36", "b)32", "c)18"],
+    "correct": "a)36"
   },
 
   {
     "id": "P1a",
     "category": "math",
-    "question": "Man nehme einen Shaker etwas größerer Bauart und befülle ihn mit 1 kg Eis (aus Wasser von 0° C) und 1 kg kochend Wasser (100 °C). Frage: Welche Temperatur des Gemisches ist nach Schütteln bis zur Schmelze des Eises zu erwarten?",
-    "explanation": "Definition einer Kalorie: 1 cal ist diejenige Wärmemenge, die benötigt wird, um die Temperatur von 1 g Wasser um 1 Grad zu erhöhen (bei einer bestimmten Temperatur – diese Ungenauigkeit ist aber hier vernachlässigbar). 1 kg Wasser kann also beim Abkühlen von 100 °C auf 0 °C 100 kcal abgeben. Tabellenbuch Physik: 1 kg Eis verbraucht beim Schmelzen 80 kcal (79,4 kcal). Wenn 1 kg Eis geschmolzen sind, sind von den 100 kcal noch 20 übrig; oder anders ausgedrückt, der eine Liter heißes Wasser wurde auf 20 °C abgekühlt. Das geschmolzene Eis (ca. 1 Liter) hat 0 °C.",
+    "question": "Man nehme einen Shaker etwas größerer Bauart und befülle ihn mit 1 kg Eis (aus Wasser von 0° C) und 1 kg kochend Wasser (100 °C). Frage: Welche Temperatur des Gemisches ist nach Schütteln bis zur Schmelze des Eises zu erwarten? >>Definition einer Kalorie: 1 cal ist diejenige Wärmemenge, die benötigt wird, um die Temperatur von 1 g Wasser um 1 Grad zu erhöhen (bei einer bestimmten Temperatur – diese Ungenauigkeit ist aber hier vernachlässigbar). 1 kg Wasser kann also beim Abkühlen von 100 °C auf 0 °C 100 kcal abgeben. Tabellenbuch Physik: 1 kg Eis verbraucht beim Schmelzen 80 kcal (79,4 kcal). Wenn 1 kg Eis geschmolzen sind, sind von den 100 kcal noch 20 übrig; oder anders ausgedrückt, der eine Liter heißes Wasser wurde auf 20 °C abgekühlt. Das geschmolzene Eis (ca. 1 Liter) hat 0 °C.>>",
     "answers": [
       "a) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 15°C",
       "b) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 5°C",
       "c) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C"
     ],
-    "correct": "Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C."
+    "correct": "c) Das Kochwasser und das Eiswasser gemischt ergeben zusammen eine Wassertermperatur von 10°C."
   },
   {
     "id": "P1b",
     "category": "math",
-    "question": "Nimm in der Schwerelosigkeit einen Tisch, stelle eine Federwaage drauf, und lege darauf die Erde. Wie viel zeigt die Waage an, wenn man annimmt, dass die Waage selbst masselos ist?",
-    "explanation": "Wer es nicht glaubt, soll einfach ein Experiment machen. Man lege eine Waage kopfüber auf den Fußboden und darauf (wieder kopfüber) einen Tisch. Ob die Erde nun auf dem Tisch oder der Tisch auf der Erde liegt, ist Ansichtssache - das zugrunde liegende Gravitationsgesetz F = g*m1*m2/s2 ist symmetrisch; ob man für m1 die Masse der Erde und für m2 die Masse des Tisches einsetzt oder für m2 die Masse der Erde.",
+    "question": "Nimm in der Schwerelosigkeit einen Tisch, stelle eine Federwaage drauf, und lege darauf die Erde. Wie viel zeigt die Waage an, wenn man annimmt, dass die Waage selbst masselos ist? >>Wer es nicht glaubt, soll einfach ein Experiment machen. Man lege eine Waage kopfüber auf den Fußboden und darauf (wieder kopfüber) einen Tisch. Ob die Erde nun auf dem Tisch oder der Tisch auf der Erde liegt, ist Ansichtssache - das zugrunde liegende Gravitationsgesetz F = g*m1*m2/s2 ist symmetrisch; ob man für m1 die Masse der Erde und für m2 die Masse des Tisches einsetzt oder für m2 die Masse der Erde.",
     "answers": [
       "a) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches an.",
       "b) Das Gravitationsgesetz besagt, dass die beiden Massen multipliziert werden, und dann durch das Gewicht der Erde geteilt wird um auf das Gewicht des Tisches zu kommen",
       "c) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt kein Gewicht an."
     ],
-    "correct": "Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches und der Erde an."
+    "correct": "a) Das Gravitationsgesetz ist symmetrisch, das heißt die Waage zeigt das Gewicht des Tisches an."
   },
   {
     "id": "P1b",
     "category": "math",
-    "question": "Zwei Flugzeuge starten zeitgleich vom Frankfurter Flughafen. Das eine fliegt eine Stunde lang genau nach Norden, das andere fliegt eine Stunde lang genau nach Osten. Welches der beiden Flugzeuge ist nach einer Stunde weiter von Frankfurt entfernt und Warum?",
-    "explanation": "Es gelten die üblichen idealisierten Annahmen: Die Flugzeuge fliegen exakt gleich hoch und gleich schnell. Die Flugzeuge und Frankfurt sind punktförmig. Es gibt keine Defekte oder dergleichen. Die Erde ist eine perfekte Kugel und dreht sich nicht. Es ist windstill, es herrscht konstanter Luftdruck. Die Schwerkraft ist überall gleich. Die Zeitzonen spielen keine Rolle. Das nach Norden fliegende Flugzeug fliegt genau entlang eines Meridians, das ist ein Großkreis, also der größte Kreis, den man um die Erde legen kann. Das nach Osten fliegende Flugzeug fliegt entlang eines Breitengrades. Die Breitengrade sind unterschiedlich lang. Am Äquator ist der Nullte Breitengrad auch ein Großkreis; zu den Polen hin werden die Breitengradkreise immer kürzer. Der Abstand des nach Osten fliegenden Flugzeuges von Frankfurt wird aber entlang eines Großkreises gemessen, der durch Frankfurt und die Position des Flugzeuges nach einer Stunde geht. Der Breitengrad, auf dem das Flugzeug entlang geflogen ist, und dieser Großkreis bilden auf der Kugeloberfläche der Erde ein Zweieck, wobei die Breitengrad-Seite länger ist als die Großkreis-Seite.",
+    "question": "Zwei Flugzeuge starten zeitgleich vom Frankfurter Flughafen. Das eine fliegt eine Stunde lang genau nach Norden, das andere fliegt eine Stunde lang genau nach Osten. Welches der beiden Flugzeuge ist nach einer Stunde weiter von Frankfurt entfernt und Warum? >>Es gelten die üblichen idealisierten Annahmen: Die Flugzeuge fliegen exakt gleich hoch und gleich schnell. Die Flugzeuge und Frankfurt sind punktförmig. Es gibt keine Defekte oder dergleichen. Die Erde ist eine perfekte Kugel und dreht sich nicht. Es ist windstill, es herrscht konstanter Luftdruck. Die Schwerkraft ist überall gleich. Die Zeitzonen spielen keine Rolle. Das nach Norden fliegende Flugzeug fliegt genau entlang eines Meridians, das ist ein Großkreis, also der größte Kreis, den man um die Erde legen kann. Das nach Osten fliegende Flugzeug fliegt entlang eines Breitengrades. Die Breitengrade sind unterschiedlich lang. Am Äquator ist der Nullte Breitengrad auch ein Großkreis; zu den Polen hin werden die Breitengradkreise immer kürzer. Der Abstand des nach Osten fliegenden Flugzeuges von Frankfurt wird aber entlang eines Großkreises gemessen, der durch Frankfurt und die Position des Flugzeuges nach einer Stunde geht. Der Breitengrad, auf dem das Flugzeug entlang geflogen ist, und dieser Großkreis bilden auf der Kugeloberfläche der Erde ein Zweieck, wobei die Breitengrad-Seite länger ist als die Großkreis-Seite.>>",
     "answers": [
       "a) Das Flugzeug welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt.",
-      "b) Das Flugzeug, welches nach Osten fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Norden fliegt."
+      "b) Das Flugzeug, welches nach Osten fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Norden fliegt.",
+      "c) Beide Flugzeuge sind nach einer Stunde gleich weit vom Frankfurter Flughafen entfernt."
     ],
-    "correct": "Das Flugzeug, welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt."
+    "correct": "a) Das Flugzeug, welches nach Norden fliegt, ist nach einer Stunde weiter von Frankfurt entfernt als das Flugzeug, das nach Osten fliegt."
   },
   {
     "id": "P1d",
     "category": "math",
-    "question": "Warum vertauscht der Spiegel links und rechts, aber nicht oben und unten?",
-    "explanation": [
-      "Der Spiegel vertauscht weder oben/unten noch links/rechts. Szenario: Ein Spiegel, eine Person A, die in den Spiegel schaut (und als Erweiterung: eine Gipsstatue B, die hinter A steht, auch in den Spiegel schaut und ihre linke Hand hebt)."
-    ],
+    "question": "Warum vertauscht der Spiegel links und rechts, aber nicht oben und unten? >>Der Spiegel vertauscht weder oben/unten noch links/rechts. Szenario: Ein Spiegel, eine Person A, die in den Spiegel schaut (und als Erweiterung: eine Gipsstatue B, die hinter A steht, auch in den Spiegel schaut und ihre linke Hand hebt).>>",
     "answers": [
       "a) Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten.",
       "b) Ein Spiegel vertauscht links und rechts, da wir es nur spiegelverkehrt sehen.",
       "c) Ein Spiegel vertauscht oben und unten nicht, da das Richtungsbezeichnungen sind und es nur eine Richtung getauscht wird, entweder links und rechts oder oben und unten."
     ],
-    "correct": "Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten (was bei ein wenig Nachdenken ja sofort einsichtig wird). Man sieht also eine *auf-links-gedrehte* Kopie seiner selbst, ganz analog zu einem rechten Handschuh, der, wenn man ihn umwendet, zu einem linken Handschuh wird. Und so wird jeder Rechtshänder im Spiegel zum Linkshänder (und umgekehrt)."
+    "correct": "a) Ein Spiegel vertauscht nicht links und rechts, sondern vorne und hinten."
   },
   {
     "id": "P1e",
@@ -462,235 +445,130 @@
     "question": " An einem Seil, das über eine Rolle läuft, ist an dem einen Ende eine Bananenstaude festgemacht. Das andere Seilende wird von einem Affen mit seinem gesamten Körpergewicht im Gleichgewicht gehalten. Was passiert, wenn der Affe auf die Idee kommt, an dem Seil hinaufzuklettern? Der physikalischen Korrektheit halber sei angenommen, dass sowohl das Seil als auch das Rad reibungsfrei laufen und gewichtsmäßig vernachlässigbar sind.",
     "answers": [
       "a) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnt trotzdem nur der Affe an Höhe.",
-      "b) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
+      "b) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe.",
+      "c) Der Affe und die Bananenstaude stürzen beide ab."
     ],
-    "correct": "Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
+    "correct": "b) Da Affe und Bananenstaude gleich schwer sind und die Kräfte des aufsteigenden Affen sich auf beide Massen gleichmäßig auswirken, gewinnen beide auch gleichmäßig an Höhe."
   },
 
   {
     "id": "P1f",
     "category": "math",
-    "question": "Zur Verfügung steht eine Balkenwaage. Anton legt auf der Erde links Federn und rechts Eisen drauf, so dass die Waage im Gleichgewicht ist. Jetzt transportiert Anton das gesamte Experiment auf den Mond. Was zeigt die Waage an?",
-    "explanation": "Auf der Erde wird ein Teil der Schwerkraft durch die Auftriebskraft der Luft ausgeglichen. Da 1 kg Federn ein größeres Volumen hat als 1 kg Eisen, ist der Auftrieb der Federn größer als der Auftrieb des Eisenklumpens. Da es auf dem Mond keine Atmosphäre gibt, entfällt der Auftrieb, die Schwerkraft ist jetzt auf beiden Seiten voll wirksam.",
+    "question": "Zur Verfügung steht eine Balkenwaage. Anton legt auf der Erde links Federn und rechts Eisen drauf, so dass die Waage im Gleichgewicht ist. Jetzt transportiert Anton das gesamte Experiment auf den Mond. Was zeigt die Waage an? >>Auf der Erde wird ein Teil der Schwerkraft durch die Auftriebskraft der Luft ausgeglichen. Da 1 kg Federn ein größeres Volumen hat als 1 kg Eisen, ist der Auftrieb der Federn größer als der Auftrieb des Eisenklumpens. Da es auf dem Mond keine Atmosphäre gibt, entfällt der Auftrieb, die Schwerkraft ist jetzt auf beiden Seiten voll wirksam.>>",
     "answers": [
       "a) Die Balkenwaage zeigt an, dass das Eisen schwerer ist.",
       "b) Die Balkenwaage zeigt an, dass die Federn schwerer sind.",
       "c) Die Balkenwage zeigt auf dem Mond genauso an, dass die Federn und das Eisen gleich viel wiegen."
     ],
-    "correct": "Die Balkenwaage zeigt an, dass die Federn schwerer sind."
+    "correct": "b) Die Balkenwaage zeigt an, dass die Federn schwerer sind."
   },
-
-  {
-    "id": "S3Aa",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Tengo cabeza y no tengo cuerpo, pero no puedo pensar.",
-    "explanation": "(Ich habe einen Kopf und keinen Körper, aber ich kann nicht denken.)",
-    "answers": ["a) ", "b) Un alfiler (Eine Stecknadel)", "c) "],
-    "correct": "Un alfiler (Eine Stecknadel)"
-  },
-  {
-    "id": "S3Ab",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¡Lo que más te cuesta para no decir.",
-    "explanation": "Ein bekanntes spanisches Rätsel ist das von Sokrates: (Das, was dich am meisten kostet, um es nicht zu sagen)",
-    "answers": ["a)", "b) Un secreto (Ein Geheimnis)", "c) "],
-    "correct": "Un secreto (Ein Geheimnis)"
-  },
-  {
-    "id": "S3Ac",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera. ",
-    "explanation": "(Innen weiß, außen grün. Wenn du willst, dass ich es dir sage, warte.)",
-    "answers": ["a) ", "b) La pera (Die Birne)", "c) "],
-    "correct": "La pera (Die Birne)"
-  },
-
-  {
-    "id": "S3Ad",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? Tiene dientes y no muerde.",
-    "explanation": "(Sie hat Zähne und beißt nicht.)",
-    "answers": ["a) ", "b) Un peine (Ein Kamm)", "c) "],
-    "correct": "Un peine (Ein Kamm)"
-  },
-  {
-    "id": "S3Ae",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¿Qué sube y baja pero no se mueve?",
-    "explanation": "(Was steigt und fällt, aber bewegt sich nicht?)",
-    "answers": ["a) ", "b) La temperatura (Die Temperatur)", "c) "],
-    "correct": "La temperatura (Die Temperatur)"
-  },
-
-  {
-    "id": "S3Af",
-    "category": "foreign_languages",
-    "question": "¿Qué es, qué es? ¿Qué tiene un ojo y no puede ver?",
-    "explanation": "(Was hat ein Auge und kann nicht sehen?)",
-    "answers": ["a) ", "b) Una aguja (Eine Nadel)", "c) "],
-    "correct": "Una aguja (Eine Nadel)"
-  },
-
   {
     "id": "WB3A",
     "category": "creative_artists",
-    "question": "",
+    "question": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie Hilfsmittel. Um Platz für Werkstücke in vielen Größen zu haben und auch um einen Schraubstock darauf anzubringen .Warum brauche ich als Schreiner eine Werkbank?",
     "answers": [
       "a) um bequem darauf zu sitzen",
       "b) um einen Schraubstock darauf anzubringen",
-      "c) um Holz sicher zu bearbeiten"
+      "c) um Metall sicher zu bearbeiten"
     ],
-    "explanation": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie eine funktionale Werkbank. Diese bietet Platz für Werkstücke in vielen Größen und erlaubt auch das Anbringen eines Schraubstocks.",
-    "correct": "Um Holz sicher zu bearbeiten und einen Schraubstock darauf anzubringen."
+    "correct": "b) um einen Schraubstock darauf anzubringen"
   },
   {
     "id": "W3Bb",
     "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
+    "question": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen. Warum brauche ich als professioneller Handwerker eine Zwinge?",
     "answers": [
       "a) um ein Holzwerkstück zu fixieren",
       "b) um feinere Arbeiten damit auszuführen",
-      "c) um starke Erschütterungen zu überstehen"
+      "c) um leichte Erschütterungen zu überstehen"
     ],
-    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
-    "correct": "um ein Holzwerkstück zu fixieren und um starke Erschütterungen zu überstehen."
+    "correct": "a) um ein Holzwerkstück zu fixieren"
   },
-  {
-    "id": "W3Bc",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
-    "answers": [
-      "a) um Holzplatten zu fixieren",
-      "b) um feinere Arbeiten damit auszuführen",
-      "c) um starke Erschütterungen zu überstehen"
-    ],
-    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
-    "correct": "um Holzplatten zu fixieren und Feinarbeiten damit auzuführen"
-  },
-
   {
     "id": "W3Bd",
     "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
+    "question": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren. Warum brauche ich als professioneller Handwerker eine Säge?",
     "answers": [
-      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
-      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
-      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
+      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen.",
+      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung.",
+      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren."
     ],
-    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
-    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
+    "correct": "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung."
   },
-
   {
     "id": "W3Be",
     "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
+    "question": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein.Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
     "answers": [
       "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
-      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
-      "c) um damit präzise auszumessen."
+      "b) Die Stecheisen sollten nicht mit unterschiedlichen Stärken verwendet werden.",
+      "c) Mit Stechbeitel kann man nichts ausmessen."
     ],
-    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
-    "correct": "Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben. Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein"
-  },
-
-  {
-    "id": "W3Bf",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
-    "answers": [
-      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
-      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
-      "c) um damit präzise auszumessen."
-    ],
-    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
-    "correct": "Es gibt keine außer 11"
+    "correct": "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben."
   },
 
   {
     "id": "WG2a",
     "category": "economics",
-    "question": "Was bedeutet der Begriff Homo oeconomicus?",
-    "explanation": "Der homo oeconomicus ist ein fiktiver, rein rational handelnder Akteur, der stets versucht, seinen individuellen Nutzen zu maximieren. Er besitzt vollständige Informationen über alle Handlungsalternativen, wägt diese logisch gegeneinander ab und entscheidet sich immer für die ökonomisch beste Option.",
-    "answers": [
-      "a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
+    "question": "Der homo oeconomicus ist ein fiktiver, rein rational handelnder Akteur, der stets versucht, seinen individuellen Nutzen zu maximieren. Er besitzt vollständige Informationen über alle Handlungsalternativen, wägt diese logisch gegeneinander ab und entscheidet sich immer für die ökonomisch beste Option. Was bedeutet der Begriff Homo oeconomicus?",
 
-      "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
+    "answers": [
+      "a) Der homo oeconomicus verfolgt eigennützige Ziele.",
+
+      "b) Er handelt vollständig irrrational: trifft unlogische Entscheidungen, wird von Gewohnheiten oder sozialen Normen abgelenkt.",
 
       "c) Er verfügt nicht über vollständige Informationen."
     ],
 
-    "correct": "Der homo oeconomicus verfolgt eigennützige Ziele. Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden."
+    "correct": "a) Der homo oeconomicus verfolgt eigennützige Ziele."
   },
   {
     "id": "WG2b",
     "category": "economics",
-    "question": "Was versteht man unter dem Ökonomischen Prinzip?",
-    "explanation": "Das ökonomische Prinzip ist ein Grundsatz der Wirtschaftswissenschaft, der beschreibt, wie Menschen, Unternehmen oder Staaten mit knappen Mitteln möglichst effizient umgehen.Mit möglichst wenig Einsatz möglichst viel erreichen.",
+    "question": "Das ökonomische Prinzip ist ein Grundsatz der Wirtschaftswissenschaft, der beschreibt, wie Menschen, Unternehmen oder Staaten mit knappen Mitteln möglichst effizient umgehen.Mit möglichst wenig Einsatz möglichst viel erreichen. Was versteht man unter dem Ökonomischen Prinzip?",
     "answers": [
       "a) Minimalprinzip: Ein bestimmtes Ziel soll mit möglichst geringem Mitteleinsatz erreicht werden.",
-      "b) Maximalprinzip: Mit gegebenen Mitteln soll ein möglichst großer Nutzen erzielt werden.",
-      "c) Extremumprinzip (Optimumprinzip): Es wird versucht, ein möglichst günstiges Verhältnis von Aufwand und Ertrag zu erreichen."
+      "b) Maximalprinzip: Es soll maximal investiert werden.",
+      "c) Extremumprinzip (Optimumprinzip): Es wird versucht die Aufwände zu erhöhen, damit der Ertrag gesteigert wird."
     ],
-    "correct": "Minimalprinzip, Maximalprinzip, Extremumprinzip"
+    "correct": "a) Minimalprinzip: Ein bestimmtes Ziel soll mit möglichst geringem Mitteleinsatz erreicht werden."
   },
   {
     "id": "WG2c",
     "category": "economics",
     "question": "Was versteht man unster dem Satisfizer-Konzept?",
-    "explanation": "",
     "answers": [
-      "a) aDer homo oeconomicus verfolgt eigennützige Ziele (z. B. Gewinnmaximierung, Nutzenmaximierung).",
-
-      "b) Er handelt vollständig rational: trifft Entscheidungen logisch und konsistent, ohne von Emotionen, Gewohnheiten oder sozialen Normen abgelenkt zu werden.gage",
-
-      "c) Er verfügt nicht über vollständige Informationen."
+      "a)Ein Satisfizer trifft keine Entscheidungen um die beste Lösung zu suchen.",
+      "b) Das Prinzip erklärt, warum Unternehmen oder oft unpassende Standorte wählen.",
+      "c) Es zeigt die begrenzte menschliche Rationalität: Entscheidungen werden pragmatisch statt perfekt getroffen."
     ],
-    "correct": "Alle Beispiele sind richtig."
+    "correct": "c) Es zeigt die begrenzte menschliche Rationalität: Entscheidungen werden pragmatisch statt perfekt getroffen."
   },
 
   {
     "id": "WG2d",
     "category": "economics",
-    "question": "Was versteht man unter dem Homogenitätsprinzip? Sind die Beispiele zur Homogenität richtig?",
-    "explanation": "Das Homogenitätsprinzip besagt, dass eine Funktion (z. B. eine Produktions- oder Nutzenfunktion) in einem bestimmten Grad homogen ist, wenn eine proportionale Veränderung aller eingesetzten Faktoren zu einer proportionalen Veränderung des Ergebnisses führt.",
+    "question": "Das Homogenitätsprinzip besagt, dass eine Funktion (z. B. eine Produktions- oder Nutzenfunktion) in einem bestimmten Grad homogen ist, wenn eine proportionale Veränderung aller eingesetzten Faktoren zu einer proportionalen Veränderung des Ergebnisses führt. Was versteht man unter dem Homogenitätsprinzip? Sind die Beispiele zur Homogenität richtig?",
     "answers": [
-      "a) Homogenität 1 (linear homogen): Verdopple ich alle Produktionsfaktoren, verdoppelt sich auch die Produktionsmenge.",
+      "a) Verdopple ich alle Produktionsfaktoren, verdoppelt sich die Produktionsmenge nicht.",
 
-      "b) Homogenität < 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion weniger als doppelt (abnehmende Skalenerträge).",
+      "b) Verdopple ich alle Produktionsfaktoren, wächst die Produktion weniger als doppelt.",
 
-      "c)Homogenität > 1: Verdopple ich alle Produktionsfaktoren, wächst die Produktion mehr als doppelt (zunehmende Skalenerträge)"
+      "c) Verdopple ich alle Produktionsfaktoren, wächst die Produktion um ein drittel an."
     ],
-    "correct": "Produktionsfaktoren hängen von der Homogenität ab. Alle Beispiele sind richtig."
+    "correct": "b) Verdopple ich alle Produktionsfaktoren, wächst die Produktion weniger als doppelt."
   },
 
   {
     "id": "WG2e",
     "category": "economics",
-    "question": "Was versteht man unter Ökonomische Distanz? Und was sind die Einflussfaktoren?",
-    "explanantion": "Ökonomische Distanz bezeichnet die Kosten und den Aufwand (z. B. Geld, Zeit, Energie), die beim Überwinden einer räumlichen Distanz entstehen.",
+    "question": "Ökonomische Distanz bezeichnet die Kosten und den Aufwand (z. B. Geld, Zeit, Energie), die beim Überwinden einer räumlichen Distanz entstehen. Was versteht man unter Ökonomische Distanz? Und was sind die Einflussfaktoren?",
     "answers": [
-      "a) Transportkosten (z. B. Frachtpreise, Benzin, Maut)",
-      "b) Zeitaufwand (z. B. Dauer von Transport oder Pendeln)",
-      "c) Infrastruktur (z. B. Autobahnen, Häfen, Flughäfen, Digitalisierung)",
-      "d) Handelshemmnisse (z. B. Zölle, Bürokratie)"
+      "a) Transportkosten (z. B. Frachtpreise, Benzin, Maut) sind keine Einflussfaktoren.",
+      "b) Handelshemmnisse (z. B. Zölle, Bürokratie) sind Einflussfaktoren.",
+      "c) Infrastruktur (z. B. Autobahnen, Häfen, Flughäfen, Digitalisierung) sind keine Einflussfaktoren."
     ],
-    "correct": "Transportkosten, Zeitaufwand, Infrastruktur und Handelshemmnisse sind alles Einflussfaktoren."
-  },
-
-  {
-    "id": "WG2f",
-    "category": "economics",
-    "question": "Was ist Wirtschaftsgeografie?",
-    "explanation": "Die Wirtschaftsgeografie untersucht, wie wirtschaftliche Aktivitäten (Produktion, Handel, Dienstleistungen, Verkehr usw.) räumlich verteilt sind, welche Standorte gewählt werden und wie wirtschaftliche Prozesse Räume gestalten und verändern.",
-    "answers": [
-      "a)Standortfaktoren (z. B. Rohstoffe, Arbeitskräfte, Infrastruktur, Markt)",
-      "b) Raumstrukturen (Industriegebiete, Ballungsräume, ländliche Räume)",
-      "c) Globale Verflechtungen (Welthandel, Globalisierung, internationale Arbeitsteilung)",
-      "d) Regionale Unterschiede (wirtschaftsstarke vs. strukturschwache Regionen)",
-      "e) Nachhaltigkeit (Umweltfolgen von Wirtschaft, Ressourcenverbrauch, erneuerbare Energien)"
-    ],
-    "correct": "Standortfaktoren, Raumstrukturen, Globale Verflechtungen, Regionale Unterschiede, Nachhaltigkeit"
+    "correct": "b) Handelshemmnisse (z. B. Zölle, Bürokratie) sind Einflussfaktoren."
   },
   {
     "id": "W3Ba",
