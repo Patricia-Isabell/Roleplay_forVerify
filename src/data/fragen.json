@@ -65,7 +65,39 @@
     ],
     "correct": "c) Die Auslastung ist von der vorhandenen Infrastruktur abhängig."
   },
-
+  {
+    "id": "RW2a",
+    "category": "economics",
+    "question": "Ein Buchungssatz ist die sprachliche Anweisung für eine Buchung in der doppelten Buchführung. Er zeigt, welches Konto im Soll und welches Konto im Haben angesprochen wird. Was ist ein Buchungssatz, und wie ist er aufgebaut?",
+    "answers": [
+      "a) Warenkonto Aktivkonto, nimmt zu → Haben",
+      "b) Buchungssatz: Waren 1.000 € an Kasse 1.000 €",
+      "c) Kasse Aktivkonto, nimmt ab → Soll"
+    ],
+    "correct": "b) Buchungssatz: Waren 1.000 € an Kasse 1.000 €"
+  },
+  {
+    "id": "RW2b",
+    "category": "economics",
+    "question": "Erklärung zu Soll und Haben. Soll = linke Seite eines Kontos, Haben = rechte Seite eines Kontos. Welche Aussage zu Aktiv- und Passivkonten stimmt nicht?",
+    "answers": [
+      "a) Aktivkonten (z. B. Kasse, Bank, Maschinen): Zugänge im Soll, Abgänge im Haben.",
+      "b) Passivkonten (z. B. Eigenkapital, Verbindlichkeiten): Zugänge im Haben, Abgänge im Soll.",
+      "c) Aktiva nehmen im Haben zu, Passiva im Soll."
+    ],
+    "correct": "c) Aktiva nehmen im Haben zu, Passiva im Soll."
+  },
+  {
+    "id": "RW2c",
+    "category": "economics",
+    "question": "Einnahme ist der Zugang an Geld oder Geldforderungen z. B. wenn ein Kunde 1.000 € in bar bezahlt → Kasse steigt. Ertrag ist der Wertzuwachs, der den Gewinn erhöht, z. B. eine Leistung wird erbracht und Rechnung gestellt. Welche Aussage zu Ertrag und Einnahme ist falsch?",
+    "answers": [
+      "a) Ertrag: entsteht sofort, weil eine Leistung erbracht und ein Anspruch auf Geld entstanden ist.",
+      "b) Einnahme: entsteht erst, wenn der Kunde tatsächlich bezahlt.",
+      "c) Einnahme ist kein Geldzufluss."
+    ],
+    "correct": "c) Einnahme ist kein Geldzufluss."
+  },
   {
     "id": "RW2d",
     "category": "economics",
@@ -85,8 +117,7 @@
     "answers": [
       "a) Die Bilanz ist kein Teil des Jahresabschlusses.",
       "b) Die Bilanz umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens.",
-      "c) Eine Bilanz informiert nicht über die aktuelle Vermögenslage eines Unternehmens, dokumentiert nicht die Geschäftsvorgänge und hilft nicht bei der Gewinnermittlung",
-      "d) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheiden nicht darüber, ob das Unternehmen eine Bilanz aufstellen muss."
+      "c) Die Rechtsform, der Umsatz und die Tätigkeit eines Unternehmens entscheiden nicht darüber, ob das Unternehmen eine Bilanz aufstellen muss."
     ],
     "correct": "b) Die Bilanz umfasst alle Vermögenswerte (Aktiva) und Schulden (Passiva) eines Unternehmens."
   },
@@ -158,13 +189,71 @@
     "answers": ["a) Un tornado", "b) Una aguja", "c) Un usuario de gafas"],
     "correct": "b) Una aguja"
   },
-
+  {
+    "id": "F3Aa",
+    "category": "foreign_languages",
+    "question": "Je suis toujours devant toi, mais tu ne peux jamais m’atteindre. Qui suis-je ? Ich bin immer vor dir, aber du kannst mich nie erreichen. Wer bin ich?",
+    "answers": [
+      "a) L'autobus (Den Bus)",
+      "b) Votre object (Dein Ziel)",
+      "c) L’avenir (Die Zukunft)"
+    ],
+    "correct": "c) L’avenir (Die Zukunft)"
+  },
+  {
+    "id": "F3Ab",
+    "category": "foreign_languages",
+    "question": "Qu’est-ce qui a des clés mais ne peut pas ouvrir de portes? Was hat Schlüssel, kann aber keine Türen öffnen?",
+    "answers": [
+      "a) Clés de voiture (Autoschlüssel)",
+      "b) Un piano (Ein Klavier)",
+      "c) Clé de sécurité (Tresorschlüssel)"
+    ],
+    "correct": "b) Un piano (Ein Klavier)"
+  },
+  {
+    "id": "F3Ac",
+    "category": "foreign_languages",
+    "question": "Plus tu en prends, plus tu laisses derrière toi. Qu’est-ce que c’est? Je mehr man nimmt, desto mehr lässt man zurück. Was ist das?",
+    "answers": [
+      "a) Prendre l'air (Luft nehmen)",
+      "b) Boire de l'eau Wasser trinken)",
+      "c) Des pas (Schritte)"
+    ],
+    "correct": "c) Des pas (Schritte)"
+  },
+  {
+    "id": "F3Ad",
+    "category": "foreign_languages",
+    "question": "Je suis léger comme une plume, mais même le plus fort des hommes ne peut me tenir plus de 5 minutes. Qui suis-je? Ich bin federleicht, aber selbst der stärkste Mann kann mich nicht länger als 5 Minuten halten. Wer bin ich?",
+    "answers": [
+      "a) Un poids (ein Gewicht)",
+      "b) Le souffle / la respiration (Der Atem)",
+      "c) Un livre (ein Buch)"
+    ],
+    "correct": "b) Le souffle / la respiration (Der Atem)"
+  },
+  {
+    "id": "F3Ae",
+    "category": "foreign_languages",
+    "question": "Qu’est-ce qui commence par “E”, finit par “E”, mais ne contient qu’une seule lettre? Was beginnt mit „E“, endet mit „E“, enthält aber nur einen Buchstaben/Letter (Letter=altes Wort für Buchstaben)?",
+    "answers": [
+      "a) Une enveloppe (Ein Briefumschlag)",
+      "b) Une couverture transparente (Eine Klarsichthülle)",
+      "c) Boîte aux lettres (Eine Postbox)"
+    ],
+    "correct": "a) Une enveloppe (Ein Briefumschlag)"
+  },
   {
     "id": "F3Af",
     "category": "foreign_languages",
-    "question": "",
-    "answers": ["a) ", "b) ", "c) "],
-    "correct": "b) "
+    "question": "Je peux te suivre partout, mais tu ne peux jamais me rattraper. Qui suis-je? Ich kann dir überallhin folgen, aber du kannst mich nie einholen. Wer bin ich?",
+    "answers": [
+      "a) Toi-même (Du selbst)",
+      "b) Une voiture (Ein Auto)",
+      "c) Ton ombre (Dein Schatten)"
+    ],
+    "correct": "c) Ton ombre (Dein Schatten)"
   },
   {
     "id": "G3Ba",
@@ -463,7 +552,7 @@
     "correct": "b) Die Balkenwaage zeigt an, dass die Federn schwerer sind."
   },
   {
-    "id": "WB3A",
+    "id": "W3Ba",
     "category": "creative_artists",
     "question": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie Hilfsmittel. Um Platz für Werkstücke in vielen Größen zu haben und auch um einen Schraubstock darauf anzubringen .Warum brauche ich als Schreiner eine Werkbank?",
     "answers": [
@@ -506,7 +595,17 @@
     ],
     "correct": "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben."
   },
-
+  {
+    "id": "W3Bf",
+    "category": "creative_artists",
+    "question": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren. Warum brauche ich als professioneller Handwerker eine Säge?",
+    "answers": [
+      "a) Mit einem Fuchsschwanz können Sie keine Arbeiten erledigen",
+      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren.",
+      "c) Gehrungsschnitte mit präzisem Winkel werden meist ohne Sägen gemacht."
+    ],
+    "correct": "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren."
+  },
   {
     "id": "WG2a",
     "category": "economics",
@@ -571,55 +670,6 @@
     "correct": "b) Handelshemmnisse (z. B. Zölle, Bürokratie) sind Einflussfaktoren."
   },
   {
-    "id": "W3Ba",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Werkbank?",
-    "answers": [
-      "a) um bequem darauf zu sitzen",
-      "b) um einen Schraubstock darauf anzubringen",
-      "c) um Holz sicher zu bearbeiten"
-    ],
-    "explanation": "Um Holz ergonomisch und sicher zu bearbeiten, benötigen Sie eine funktionale Werkbank. Diese bietet Platz für Werkstücke in vielen Größen und erlaubt auch das Anbringen eines Schraubstocks.",
-    "correct": "Um Holz sicher zu bearbeiten und einen Schraubstock darauf anzubringen."
-  },
-  {
-    "id": "W3Bb",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eines Schraubstock?",
-    "answers": [
-      "a) um ein Holzwerkstück zu fixieren",
-      "b) um feinere Arbeiten damit auszuführen",
-      "c) um starke Erschütterungen zu überstehen"
-    ],
-    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
-    "correct": "um ein Holzwerkstück zu fixieren und um starke Erschütterungen zu überstehen."
-  },
-  {
-    "id": "W3Bc",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Zwinge?",
-    "answers": [
-      "a) um Holzplatten zu fixieren",
-      "b) um feinere Arbeiten damit auszuführen",
-      "c) um starke Erschütterungen zu überstehen"
-    ],
-    "explanation": "Flexible Schraubzwingen mit einer individuell regulierbaren Spannweite eignen sich vor allem für Feinarbeiten. Auch wenn Sie Werkstücke an verschiedenen Stellen fixieren müssen, z. B. beim Verleimen von Holzlatten, greifen Sie am besten zu mehreren Zwingen.",
-    "correct": "um Holzplatten zu fixieren und Feinarbeiten damit auszuführen"
-  },
-
-  {
-    "id": "W3Bd",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
-    "answers": [
-      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
-      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
-      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
-    ],
-    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
-    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
-  },
-  {
     "id": "L3Ab",
     "category": "foreign_languages",
     "question": "Quid est id quod semper ante te est, sed non potest videri?",
@@ -641,20 +691,6 @@
     "answers": ["a) Ein Buch", "b) Eine Geschichte", "c) Eine Karte"],
     "correct": "Eine Karte (Mappa)"
   },
-
-  {
-    "id": "W3Bd",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker eine Säge?",
-    "answers": [
-      "a) Mit einem Fuchsschwanz können Sie die meisten Arbeiten erledigen",
-      "b) Stich- und Kreissägen sind hilfreich für die Holzbearbeitung",
-      "c) um damit Gehrungsschnitte mit präzisem Winkel zu realisieren"
-    ],
-    "explanation": "Als Werkzeug für das Bearbeiten von Holz sind sie unverzichtbar. Dabei richtet sich die Art der benötigten Säge nach der jeweiligen Tätigkeit. Mit einem Fuchsschwanz als Universalsäge sowie einer Feinsäge können Sie die meisten Arbeiten erledigen. Auch elektrische Stich- und Kreissägen sind hilfreich für die Holzbearbeitung. So lassen sich mit einer Handkreissäge beispielsweise Gehrungsschnitte mit präzisem Winkel realisieren.",
-    "correct": "Stich- und Kreissägen sind hilfreich für die Holzbearbeitung um damit Gehrungsschnitte mit präzisem Winkel zu realisieren. Mit einem Fuchsschwanz als Universalsäge können Sie die meisten Arbeiten erledigen."
-  },
-
   {
     "id": "W3Be",
     "category": "creative_artists",
@@ -667,58 +703,42 @@
     "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
     "correct": "Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben. Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein"
   },
-
-  {
-    "id": "W3Bf",
-    "category": "creative_artists",
-    "question": "Warum brauche ich als professioneller Handwerker einen Stechbeitel?",
-    "answers": [
-      "a) Mit einem Stechbeitel können Sie Vertiefungen oder Schlitze ins Holz treiben.",
-      "b) Die scharfen Stecheisen sollten mit unterschiedlichen Stärken vorhanden sein",
-      "c) um damit präzise auszumessen."
-    ],
-    "explanation": "Um Vertiefungen oder Schlitze ins Holz zu treiben, ist ein Stechbeitel das richtige Werkzeug. Die scharfen Stecheisen sollten idealerweise als ganzer Satz mit unterschiedlichen Stichstärken und -breiten vorhanden sein..",
-    "correct": "Es gibt keine außer 11"
-  },
   {
     "id": "M3Ba",
     "category": "creative_artists",
     "question": "Woher stammt die Country Musik?",
     "answers": ["a) USA", "b) Europa", "c) Japan"],
-    "correct": "...USA...",
-    "explanation": "Zusammenfassung aus Country Musik"
+    "correct": "a) USA"
   },
   {
     "id": "M3Bb",
     "category": "creative_artists",
-    "question": "Nenne 2 untergruppen der musikrichtung Metal!",
+    "question": "Nenne 2 untergruppen der Msikrichtungen des Metal!",
     "answers": [
       "a) Death Metal und Power Metal",
-      "b) klassik und  techno",
+      "b) klassik und techno",
       "c) Hard Rock und Rock'n'Roll"
     ],
-    "correct": "...Death Metal und Power Metal....",
+    "correct": "a) Death Metal und Power Metal",
     "explanation": "Zusammenfassung aus Metal"
   },
   {
     "id": "M3Bc",
     "category": "creative_artists",
-    "question": "um welche zeit entwickelte sich der Jazz und wo?",
+    "question": "Um welche Zeit entwickelte sich der Jazz und wo?",
     "answers": ["a) 1950 in Europa", "b) 1900 in USA", "c) 1850 in Russland"],
-    "correct": "...1900 in USA....",
-    "explanation": "Zusammenfassung aus Jazz "
+    "correct": "a) 1900 in USA"
   },
   {
     "id": "M3Bd",
     "category": "creative_artists",
-    "question": "in welcher Gesellschaft entwickelte sich der Blues, und zu welcher Zeit?",
+    "question": "In welcher Gesellschaft entwickelte sich der Blues, und zu welcher Zeit?",
     "answers": [
-      "a) In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert",
+      "a) In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert.",
       "b) In europäische Gesellschaft Mitte 19. Jahrhundert",
       "c) In Brasilianische Gesellschaft Anfang 19. Jahrhundert"
     ],
-    "correct": "...In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert....",
-    "explanation": "Zusammenfassung aus Blues"
+    "correct": "a) In afroamerikanischer Gesellschaft ende 19. Jahrhundert Anfang 20. Jahrhundert."
   },
   {
     "id": "M3Be",
@@ -729,15 +749,13 @@
       "b) Rock and Blues",
       "c) Reggae and Blues"
     ],
-    "correct": "...Rhythm and Blues....",
-    "explanation": "Zusammenfassung aus R&B"
+    "correct": "a) Rhythm and Blues"
   },
   {
     "id": "M3Bf",
     "category": "creative_artists",
     "question": "Welche Musikrichtung stammt aus der schwarzen Funk- und Soul- Musik?",
     "answers": ["a) Jazz", "b) Hip Hop", "c) Blues"],
-    "correct": "...Hip Hop....",
-    "explanation": "Zusammenfassung aus Hip Hop"
+    "correct": "b) "
   }
 ]
