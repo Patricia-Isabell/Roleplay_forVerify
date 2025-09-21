@@ -1,0 +1,57 @@
+[Patricia :] Folie 1: Hallo!
+Wir sind ein Team aus zwei Fullstack Frontend-Webentwicklern, bestehend aus Gianluca Ammirati und mir.
+{Gianluca :} Folie 2: Unser Abschlussprojekt:
+Heute stellen wir unser Abschlussprojekt vor.
+Gemeinsam haben wir im Rahmen unserers DCI-Abschlussprojekts die App “Wähle deine eigene Entscheidung” entwickelt.
+Unser Ziel war es, eine spielerische Anwendung zu schaffen, die Schülern dabei hilft, die richtige Fächerwahlentscheidung für ihre Schullaufbahn zu treffen.
+[Gianluca und Patricia :] Folie 3: Prioritätenliste der Features:
+[P :] Hiermit wollen wir einen Einblick über die Planung der Struktur und Features unseres Projekts geben. 1. Wir haben einen Beispieluser erstellt . 2. Dann haben wir uns überlegt,dass es wie bei einem Rollenspiel einen Charakterbogen geben sollte, in den man seinen Namen und seine Selbsteinschätzung eintragen kann. 3. Und wir sollten eine Fragensammlung mit Antwoten dazu erstellen.
+{G :} 4. Fortschritte bei der Beantwortung der Fragen sind ein Spielbestandteil zum Erreichen der Abschlussempfehlung.
+5. Nachvollziehbarkeit des Fortschritts in Form von Stress- und Motivationsbuttons.
+6. Speicherung und Auswertung der User-Daten.
+{Gianluca :} Folie 4: Was haben wir für Techniken umgesetzt?
+React: -Die Fragen und Entscheidungspfade speichern wir in JSON-Dateien.
+Für die Speicherung des Fortschritts verwenden wir LocalStorage
+Frontend-Framework: Das Design wurde mit CSS und React-Komponenten umgesetzt.
+GitHub: GitHub haben wir verwendet um das Repository gemeinsam zu bearbeiten. Auf Vercel haben wir deployed.
+[Patricia :] Folie 5: Unsere Mission und Vision:
+-Entscheidungsspiel: Unsere Vision war, dass ein Schüler beim Entscheidungsspiel herausfinden kann, wo seine generelle Stärken liegen. Es gibt 20 verschiedene Bereiche zu denen die Schüler ähnlich wie bei einem Rollenspiel befragt werden. Es erwarten einen zum Beispiel Fragen zur Programmierungschallange oder Fragen zum Chemieexperiment und zur Sicherheit diesbezüglich usw.
+-Wahlpflichtfächerwahlspiel: Bei dem Spiel Wahlpflichtfächerwahl  gibt es 84 Fragen aus 14 unterschiedlichen Fächern. Ein Schüler kann hier mit Hilfe der Fragen schnell herausfinden welche Fächer ihn interessieren und welche nicht so sehr.
+-Empfehlung des Fachs:
+Nach Auswertung der beiden Spiele werden auf der Finalen Seite alle Ergebnisse zusammengerechnet, ausgewertet und eine Abschlussempfehlung gegeben.
+Öffnen des Links
+Erklären der Seite:
+[Patricia :] Auf unserer Startseite gibt es eine Navigationsleiste, auf der sechs verschiedene Schaltflächen angebracht sind. Es gibt einen Charakterbogen, der gleichzeitig unten als Charakter erstellen Schaltfläche erscheint. Dann gibt es eine Schaltfläche “Entscheidungsspiel”, eine Schaltfläche “Wahlpflichtfächerwahl”, welche ebenso unterhalb als “Wahlpflichtfächer wählen” erscheint.
+Eine Schaltfläche “Status” und die Schaltfläche “Finale”.
+Charakterbogen (klick)
+[Patricia :] Wir haben einen Charakterbogen zum Erstellen der Spielfigur zusammengestellt. Hier können die Jugendlichen sich selbst Werte zuweisen, wie sie ihre Stärken in den einzelnen Bereichen einschätzen.
+Diese persönliche Stärkenprognose wird bei der Errechnung des letzendlich empfohlenen Wahlpflichtfachs mit berücksichtigt.
+Weiter zum Spiel (klick)
+{Gianluca :} Beim Entscheidungsspiel wird ein Ereignis wie bei einem Rollenspiel vorgegeben und der Jugendliche muss anklicken, was er tun würde.
+(Erscheinendes Beispiel vorlesen)
+Hier kann man den Status noch ansehen (klick Status ansehen)
+Dann sieht man die zusammengerechneten Punkte für Stress, Motivation und die Anzahl der erledigten Aufgaben.
+Klick auf Wahlpflichtfächerwahl oben (klick)
+[Patrizia :] Hier hat man eine Übersicht über die vier Wahlpflichtfächerbereiche zu denen es jeweils eine Fragensammlung gibt: {G :} 1. Der wirtschaftliche Fächerzweig mit BWL, Rechnungswesen, Betriebswirtschaftslehre, Rechnungswesen und Wirschaftsgeografie
+2. Der sprachlich Fächerzweig mit der zweiten Fremdsprache: (Französisch, Spanisch oder Latein).
+3. Der musisch-gestaltende Fächerzweig den wir Kreativkünste genannt haben mit Kunst, Musik, Werken, Kunsterziehung und textiles Gestalten
+   und
+4. Der mathematisch-naturwissenschaftlich-technische Fächerzweig mit Technik, Physik und Technisches Zeichnen.
+   Der Schüler sollte hier drei Bereiche anklicken, zu denen er dann anschließend Fragen erhält.
+   (Scrollen)
+   [Patricia :] Darunter gibt es eine Vorschau der Werte, wieviele Punkte man erreicht hat.
+   In diesem Bereich kann man auch seine Entscheidungen ändern, hierzu gibt es die Schaltflächen “Auswahl zurücksetzen” und “Auswahl übernehmen”.
+   Bei Klick auf “zum Spiel” (klick Zum Spiel) beginnt das Spiel:
+    {Gianluca :} Es öffnet sich eine Seite mit der Nennung der Frage, der Kategorie. Es gibt mehrere Antwortmöglichkeiten. (((Vorlesen der Frage und der gewählten Antwort)))
+   Bei Klick auf eine falsche Antwortmöglichkeit kommt eine Meldung “Fehlversuch Falsch. Weiter geht’s!”------------------ Bei Klick auf eine richtige Antwort kommt die Meldung "Erfolg Richtig! Gute Arbeit.
+   {Gianluca :} Darunter erscheint ein Feld, welches den Fortschritt anzeigt.
+  In Stress Motivation und Anzahl der Aufgaben aufgeteilt.
+   [Patricia :] Man kann hier ebenso den Status einsehen, oder das Endergebnis berrechnen lassen. Man kann in diesem Bereich auch neu starten.
+   [Patricia :] Man kann beim Status ansehen (klick Status ansehen) herausfinden, wieviele Punkte man in jedem Bereich erreicht hat und welche Fächer empfohlen werden.
+   Und bei der Schaltfläche Zum Finale (klick Zum Finale) kann man seine Abschluss-Empfehlung für einzelne Fächer bekommen, die man dann selbst dem Fächerzweig zuordnen kann.
+   Es gibt die Option “Einen neuen Charakter anlegen” oder “Noch eine Runde”.
+   Hier kommt man dann wieder beim Entscheidungsspiel heraus.
+   Wo gab es Probleme?
+   Herausfordernd war es den Decision-Pfad für die Fragen und die Entscheidspfade korrekt aufzubauen. Wir hatten Probleme mit der korrekten Einbindung von Assets wie Bildern, Hintergründen auf die veschiedenen Sektoren. Wir mussten unsere Fragen in den JSON-Dateien genau auf unser Spielidee in React angepassen.
+{Gianluca und Patricia :} Folie 6: Ausblick auf mögliche Erweiterungen {G :} In Zukunft wollen wir unser Spiel auf ein für jeden Schüler zugängliches, vollanimiertes Onlinespiel erweitern und mit einer Supabase austatten, um dort die Spielstände nach Bedarf online speichern zu können. [P :] Außerdem wollen wir noch Würfelanimationen und animierte Charaktäre hinzufügen. {G :} Wir wollen die Fragenmenge und Kategorien mit Onliendatenbanken erweitern.
+[Gianluca und Patricia :] Folie 7: Abschlussfolie [Gianluca und Patricia :] Vielen Dank für Eure Aufmerksamkeit {G :} Auf der rechten Seite haben wir noch unser GitHub-Links, den Link von unserem Abschlussprojekt und den Link, den wir bei Vercel deployed haben eingefügt. 

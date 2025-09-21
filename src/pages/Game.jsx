@@ -192,7 +192,7 @@ export default function Game() {
     return (
       <section className="stack">
         <div className="card stack">
-          <h2>Woche {ch.week}</h2>
+          <h2>Aufgabe {ch.week}</h2>
 
           {!fragenItem ? (
             <>

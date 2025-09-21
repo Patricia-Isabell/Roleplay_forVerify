@@ -49,15 +49,16 @@ final_project/
 ├── README.md
 └── .gitignore
 
-Prioritetenliste der features: 0. Beispieluser erstellen
+Prioritetenliste der features:
 
-1. login/logout
-2. charakterbögen
-3. fragen erstellung der unterschiedlichen fächer
+1. Beispieluser erstellen.
+2. Charakterbögen mit Namen und Auswahlmöglichkeit.
+3. Fragen Erstellung der unterschiedlichen Fächer.
 4. beantwortung der fragen.
-5. fortschritte bei der beantwortung der fragen. (fortschrittsbogen zu allen schülern)
-6. datenbank, wie sieht der fortschritt aus, datensatz.
-7. Würfelanimationen
+5. Ersichtlichkeit der Fortschritte bei der Beantwortung der Fragen. (Erscheinen der beantworteten Fragen.)
+6. Nachvollziehbarkeit des Fortschritts in Form von Motivations- und Stressbutton.
+7. Auswertung und Speicherung der Userdaten.
+8. Animationen
 
 Typische Wahlpflichtfächer / Besonderheiten:
 I – Mathematisch-naturwissenschaftlich-technisch Technik, Physik, Chemie verstärkte Mathematik, zusätzlich Technisches Zeichnen, mehr Physik/Chemie
